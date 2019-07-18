@@ -1,13 +1,13 @@
-## Alpha
+# Alpha
 
-### 0.23.3.1
+## 0.23.3.1
 
 #### Scripts:
 * Simply Jetpacks 2:
   * Fixed armored Jetpacks Recipes
 
 
-### 0.23.3
+## 0.23.3
 
 #### Scripts:
 * All:
@@ -28,7 +28,7 @@
   * Adjusted All Recipes to use More Plates or Thermal Foundation's Plates
 
 
-### 0.23.2
+## 0.23.2
 
 #### Config:
 * Metamorph:
@@ -40,14 +40,14 @@
   * Increased Flux-Infused JetPlate's RF-Storage to 80.000.000 RF
 
 
-### 0.23.1
+## 0.23.1
 
 #### Scripts:
 * Ender Storage:
   * Fixed Ender Chests and Tanks Recipes
 
 
-### 0.23.0
+## 0.23.0
 
 #### Added Mods:
 * EqualDragons
@@ -95,7 +95,7 @@
   * Removed Dragon Egg Recipe
 
 
-### 0.22.0
+## 0.22.0
 
 #### Added Mods:
 * Charset Immersion
@@ -134,7 +134,7 @@
   * Removed Redstone Logic Recipes
 
 
-### 0.21.0
+## 0.21.0
 
 #### Added Mods:
 * AE2 Stuff
@@ -234,7 +234,7 @@
   * Fixed Uranium and Cobalt Furnace Recipes
 
 
-### 0.20.0
+## 0.20.0
 
 #### Added Mods:
 * InfiniteFluids
@@ -278,7 +278,7 @@
 * You'll need a Smeltery and Compactor to get Gears and Plates
 
 
-### 0.19.1
+## 0.19.1
 
 #### Added Mods:
 * Ender Tweaker
@@ -294,7 +294,7 @@
   * Pulverizer: Added Dimensional Shard Ore to 4 Dimensional Shards
 
 
-### 0.19.0
+## 0.19.0
 
 #### Added Mods:
 * AppleSkin
@@ -341,7 +341,7 @@
   * Removed Powercells
 
 
-### 0.18.0
+## 0.18.0
 
 #### Added Mods:
 * Blockcraftery
@@ -350,13 +350,13 @@
 * MythicalLib
 
 
-### 0.17.1
+## 0.17.1
 
 #### Fix:
 * Removed CraftTweaker Script for Animania
 
 
-### 0.17.0
+## 0.17.0
 
 #### Removed Mods:
 * Animania
@@ -366,14 +366,14 @@
 * CraftStudio API
 
 
-### 0.16.1
+## 0.16.1
 
 #### Config:
 * Metamorph:
   * Fixed Blacklist again
 
 
-### 0.16.0
+## 0.16.0
 
 #### Added Mods:
 * Ender IO AE2 Conduits
@@ -388,21 +388,21 @@
 * EnderCore
 
 
-### 0.15.3
+## 0.15.3
 
 #### Config:
 * Metamorph:
   * Blacklisted more mobs
 
 
-### 0.15.2
+## 0.15.2
 
 #### Config:
 * Metamorph:
   * Fixed Blacklist
 
 
-### 0.15.1
+## 0.15.1
 
 #### Conifg:
 * Fixed some Configs:
@@ -412,7 +412,7 @@
   * Planet Progression
 
 
-### 0.15.0
+## 0.15.0
 
 #### Added Mods:
 * ExtraPlanets
@@ -433,7 +433,7 @@
   * Blacklisted all Animania Mobs in MetaMorph
 
 
-### 0.14.0
+## 0.14.0
 
 #### Added Mods:
 * Octahedroid
@@ -450,7 +450,7 @@
 * Twilight Forest
 
 
-### 0.13.2
+## 0.13.2
 
 #### Config:
 * Solarflux: Adjusted Storage
@@ -470,7 +470,7 @@
     * Animals do not have to eat or drink
 
 
-### 0.13.1
+## 0.13.1
 
 #### Config:
 * Avaritia:
@@ -486,7 +486,7 @@
   * Using Thermal Foundations instead
 
 
-### 0.13.0
+## 0.13.0
 
 #### Added Mods:
 * Animania
@@ -516,14 +516,14 @@
 * Quark disabled random animal textures
 
 
-### 0.12.4
+## 0.12.4
 
 #### Config:
 * Quark:
   * Re-Enabled Speleothems
 
 
-### 0.12.3
+## 0.12.3
 
 #### Updated Mods:
 * Biomes O' Plenty: 7.0.1.2439
@@ -551,7 +551,7 @@
 * OpenBlocksLib: 0.12.2
 
 
-### 0.12.2
+## 0.12.2
 
 #### Removed Mods:
 * TODOList
@@ -574,14 +574,14 @@
   * Did not work
 
 
-### 0.12.1
+## 0.12.1
 
 #### Forgot to remove in 0.12:
 * Morph
 * iChunUtil
 
 
-### 0.12
+## 0.12
 
 #### Added Mods:
 * Metamorph
@@ -596,14 +596,14 @@
 * iChunUtil
 
 
-### 0.11.1
+## 0.11.1
 
 #### Config:
 * Morph Mod is now in Classic Mode
 * Quark's needed Players for sleeping is now down zu 50%
 
 
-### 0.11
+## 0.11
 
 #### Added Mods:
 * Aether Coninuation
@@ -617,7 +617,7 @@
 * Inventory Tweaks
 
 
-### 0.10
+## 0.10
 
 #### Added Mods:
 * Proxy
@@ -630,13 +630,13 @@
 * TODOList
 
 
-### 0.9.1
+## 0.9.1
 
 #### Config:
 * Adjusted some configs to free JEI up
 
 
-### 0.9
+## 0.9
 
 #### Added Mods:
 * Applied Energistics 2
@@ -650,7 +650,7 @@
 * MCMultiPart
 
 
-### 0.8.2
+## 0.8.2
 
 #### Scripts:
 * Added missing Thermal Foundation's Plate Crafting-Recipes
@@ -662,7 +662,7 @@
 * Adjusted Thermal Foundation's Gear-Recipes
 
 
-### 0.8
+## 0.8
 
 #### Added Mods:
 * Chicken Chunks 1.8.+
