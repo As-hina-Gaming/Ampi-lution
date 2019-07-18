@@ -1,0 +1,24 @@
+{
+    "minecraft:bat": {
+        "abilities": ["glide", "night_vision", "prevent_fall"],
+        "hostile": true
+    },
+    "minecraft:blaze": {
+        "abilities": ["glide", "fire_proof", "prevent_fall", "water_allergy"],
+        "action": "small_fireball",
+        "hostile": true
+    },
+    "minecraft:ghast": {
+        "abilities": ["glide", "prevent_fall"],
+        "action": "fireball",
+        "hostile": true
+    },
+    "minecraft:parrot": {
+        "abilities": ["glide", "prevent_fall"],
+        "hostile": true
+    },
+    "minecraft:vex": {
+        "abilities": ["glide", "prevent_fall"],
+        "hostile": true
+    }
+}

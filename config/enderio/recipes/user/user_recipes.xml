@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  <recipe name="Enhanced Combustion Generator" disabled="true"/>
+  <recipe name="Enhanced Combustion Generator, Upgrade" disabled="true"/>
+  <recipe name="Enhanced Wired Charger" disabled="true"/>
+  <recipe name="Enhanced Wired Charger, Upgrade" disabled="true"/>
+  <recipe name="Enhanced Alloy Smelter" disabled="true"/>
+  <recipe name="Enhanced Alloy Smelter, Upgrade" disabled="true"/>
+  <recipe name="The Enhanced Vat" disabled="true"/>
+  <recipe name="The Enhanced Vat, Upgrade" disabled="true"/>
+  <recipe name="Transceiver" disabled="true"/>
+  <recipe name="Solar Panel 1" disabled="true"/>
+  <recipe name="Solar Panel 2" disabled="true"/>
+  <recipe name="Solar Panel 2, Upgrade" disabled="true"/>
+  <recipe name="Solar Panel 3" disabled="true"/>
+  <recipe name="Solar Panel 3, Upgrade" disabled="true"/>
+  <recipe name="Solar Panel 4" disabled="true"/>
+  <recipe name="Solar Panel 4, Upgrade" disabled="true"/>
+  <recipe name="Vacuum Chest" disabled="true"/>
+  <recipe name="XP Vacuum" disabled="true"/>
+  <recipe name="Travel Anchor" disabled="true"/>
+  <recipe name="TelePad" disabled="true"/>
+  <recipe name="Enhanced SAG Mill" disabled="true"/>
+  <recipe name="Enhanced SAG Mill, Upgrade" disabled="true"/>
+  
+  <recipe name="Gear, Wood" disabled="true"/>
+  <recipe name="Gear, ae2 messes things up" disabled="true"/>
+  <recipe name="Gear, just to be sure" disabled="true"/>
+  <recipe name="Gear, better save than sorry" disabled="true"/>
+  <recipe name="Gear, Stone" disabled="true"/>
+  <recipe name="Gear, Stone, Upgrade" disabled="true"/>
+  <recipe name="Gear, Stone, Casting" disabled="true"/>
+</enderio:recipes>
