@@ -514,3 +514,159 @@
 
 #### Configs:
 * Quark disabled random animal textures
+
+
+### 0.12.4
+
+#### Config:
+* Quark:
+  * Re-Enabled Speleothems
+
+
+### 0.12.3
+
+#### Updated Mods:
+* Biomes O' Plenty: 7.0.1.2439
+* CraftTweaker2: 4.1.18
+* Industrial Foregoing: 1.12.12-236
+* Iron Chests: 7.0.59.843
+* Just Enough Items: 4.15.0.279
+* MrCrayfish's Furniture Mod: 6.3.0
+* OpenBlocks: 1.8.1
+* Quark: r1.5-154
+* RFTools: 7.71
+* RFTools Power: 1.2.0
+* Thermal Dynamics: 2.5.5.21
+* Thermal Expansion: 5.5.4.43
+* Thermal Foundation: 2.6.3.27
+* Wawla - What Are We Looking At: 2.5.273
+* Xaero's Minimap (Fair-play Edition)
+
+#### Updated APIs/Cores/Libraries:
+* AutoRegLib: 1.3-30
+* CoFH Core: 4.6.3.27
+* CoFH World: 1.3.1.7
+* Mantle: 1.3.3.55
+* McJtyLib: 3.5.3
+* OpenBlocksLib: 0.12.2
+
+
+### 0.12.2
+
+#### Removed Mods:
+* TODOList
+
+#### Scrips:
+* Therma Foundation:
+  * Removed Block of Charcoal
+    * Using Forestry's
+* Chisel:
+  * Adjusted Bookshelf Recipes
+* Biomes O' Plenty:
+  * Bramble can now be used as Fuel in Furnace
+    * 400 Ticks p. Bramble -> enough for 2 items
+* Immersive Engineering:
+  * Added [Block of] Charcoal to Coke Oven to get [Block of] Coke Coal
+  * Adjusted Windmill Recipe to use Steel instead of Iron
+
+#### Config:
+* Changed Biomes O' Plenty's 'Flowers need shears' option back to false
+  * Did not work
+
+
+### 0.12.1
+
+#### Forgot to remove in 0.12:
+* Morph
+* iChunUtil
+
+
+### 0.12
+
+#### Added Mods:
+* Metamorph
+
+#### Added APIs/Cores/Libraries:
+* McHorse's McLib
+
+#### Removed Mods:
+* Morph
+
+#### Removed APIs/Cores/Libraries:
+* iChunUtil
+
+
+### 0.11.1
+
+#### Config:
+* Morph Mod is now in Classic Mode
+* Quark's needed Players for sleeping is now down zu 50%
+
+
+### 0.11
+
+#### Added Mods:
+* Aether Coninuation
+* Quark
+* Tinkers Aether
+
+#### Added APIs/Cores/Libraries:
+* AutoRegLib
+
+#### Removed Mods:
+* Inventory Tweaks
+
+
+### 0.10
+
+#### Added Mods:
+* Proxy
+* XL Food Mod
+
+#### Added APIs/Cores/Libraries:
+* BdLib
+
+#### Removed Mods:
+* TODOList
+
+
+### 0.9.1
+
+#### Config:
+* Adjusted some configs to free JEI up
+
+
+### 0.9
+
+#### Added Mods:
+* Applied Energistics 2
+* Chisel & Bits
+* Morph
+* Storage Drawers Extras
+* TODOList
+
+#### Added APIs/Cores/Libraries:
+* iChunUtil
+* MCMultiPart
+
+
+### 0.8.2
+
+#### Scripts:
+* Added missing Thermal Foundation's Plate Crafting-Recipes
+
+
+### 0.8.1
+
+#### Scripts:
+* Adjusted Thermal Foundation's Gear-Recipes
+
+
+### 0.8
+
+#### Added Mods:
+* Chicken Chunks 1.8.+
+* Storage Drawers
+
+#### Added APIs/Cores/Libraries:
+* Chameleon
