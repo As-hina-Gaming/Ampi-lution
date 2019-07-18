@@ -364,3 +364,153 @@
 
 #### Removed APIs/Cores/Libraries:
 * CraftStudio API
+
+
+### 0.16.1
+
+#### Config:
+* Metamorph:
+  * Fixed Blacklist again
+
+
+### 0.16.0
+
+#### Added Mods:
+* Ender IO AE2 Conduits
+* Ender IO Base
+* Ender IO Conduits
+* Ender IO Machines
+* Ender IO TiC
+* Ender IO Zoo
+* Fast Leaf Decay
+
+#### Added APIs/Cores/Libraries:
+* EnderCore
+
+
+### 0.15.3
+
+#### Config:
+* Metamorph:
+  * Blacklisted more mobs
+
+
+### 0.15.2
+
+#### Config:
+* Metamorph:
+  * Fixed Blacklist
+
+
+### 0.15.1
+
+#### Conifg:
+* Fixed some Configs:
+  * ExtraPlanets
+  * Galaxy Space
+  * More Planets
+  * Planet Progression
+
+
+### 0.15.0
+
+#### Added Mods:
+* ExtraPlanets
+* Galaxy Space
+* More Planets
+* More Planets Extras
+* Planet Progression
+
+#### Added APIs/Cores/Libraries:
+* AsmodeusCore
+* MJRLegends Lib
+* SteveKunG's Lib
+
+#### Config:
+* Forestry:
+  * Disabled Bees
+  * Enabled Compatibility with HarvestCraft
+  * Blacklisted all Animania Mobs in MetaMorph
+
+
+### 0.14.0
+
+#### Added Mods:
+* Octahedroid
+* RandomPatches
+* Wireless Crafting Terminal
+
+#### Added APIs/Cores/Libraries:
+* AE2 Wireless Terminal Library
+* p455w0rd's Library
+
+#### Removed Mods:
+* Proxy
+* RFTools Power
+* Twilight Forest
+
+
+### 0.13.2
+
+#### Config:
+* Solarflux: Adjusted Storage
+  * Level 1: 25000 -> 25
+  * Level 2: 125000 -> 125
+  * Level 3: 425000 -> 425
+  * Level 4: 2000000 -> 2000
+  * Level 5: 8000000 -> 8000
+  * Level 6: 32000000 -> 32000
+  * Level 7: 64000000 -> 64000
+  * Level 8: 128000000 -> 128000
+  * Neutronium: 131072000000 -> 131072000
+  * Ininity: 262144000000 -> 262144000
+
+* Animania:
+  * Enabled Ambiance Mode:
+    * Animals do not have to eat or drink
+
+
+### 0.13.1
+
+#### Config:
+* Avaritia:
+  * Adjusted used materials in recipes
+
+#### Script:
+* Colored Wool can now crafted to Strings with a Wool Gin
+* Flour unified:
+  * Applied Energistics 2
+  * Pam's HarvesCraft
+* Remaked Animania Nest Recipe to fix the 'only white wool' bug
+* Removed Applied Energistics 2 Wooden Gear:
+  * Using Thermal Foundations instead
+
+
+### 0.13.0
+
+#### Added Mods:
+* Animania
+* Avaritia
+* Better Questing
+* Block Drops
+* It's the little things
+* JEI Bees
+* Just Enough Calculation
+* Just Enough Energistics
+* Just Enough HarvestCraft
+* Just Enough Pattern Banners
+* Just Enough Resources
+* Just Enough Throwing In Fluids
+* Pam's HarvestCraft
+* ProjectE
+* Solar Flux Reborn
+* Tinker's JEI
+
+#### Added APIs/Cores/Libraries:
+* CraftStudio API
+
+#### Removed Mods:
+* XL Food Mod
+
+#### Configs:
+* Quark disabled random animal textures
