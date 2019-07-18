@@ -1,5 +1,26 @@
 ## Alpha
 
+### 0.23.3
+
+#### Scripts:
+* All:
+  * Optimized Recipenames
+* Ender Storage:
+  * Shortened Script
+* Minecraft:
+  * Added Torch to Furnace Fuel: Burns 2 Items
+  * Colored Wool can now be backcraftet to white Wool:
+    * 1 colored Wool + Waterbucket = white Wool
+  * Added 2 Recipes for the Dispenser
+* RFTools:
+  * Removed Machine Frame
+  * Replaced Machine Frame with the one from TE
+  * Adjusted Machine Base Recipe
+* Simply Jetpacks 2:
+  * Silicon Armor Plating now has to be pressed in Compactor
+  * Adjusted All Recipes to use More Plates or Thermal Foundation's Plates
+
+
 ### 0.23.2
 
 #### Config:
