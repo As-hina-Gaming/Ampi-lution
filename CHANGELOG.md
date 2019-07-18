@@ -656,7 +656,7 @@
 * Added missing Thermal Foundation's Plate Crafting-Recipes
 
 
-### 0.8.1
+## 0.8.1
 
 #### Scripts:
 * Adjusted Thermal Foundation's Gear-Recipes
@@ -670,3 +670,88 @@
 
 #### Added APIs/Cores/Libraries:
 * Chameleon
+
+
+## 0.7
+
+#### Added Mods:
+* CraftTweaker 2
+
+
+## 0.6
+
+#### Added Mods:
+* BetterFps
+* Contruct's Armory
+* Tinkers' Tool Leveling
+
+
+## 0.5.2
+
+#### Updated Mods:
+* The Aether Legacy
+
+
+## 0.5.1
+
+#### Updated Mods:
+* Xaero's Minimap(Fair-play Edition)
+
+
+## 0.5
+
+#### Added Mods:
+* Flux Networks
+
+#### Added APIs/Cores/Libraries:
+* Sonar Core
+
+
+## 0.4
+
+#### Added Mods:
+* Simple Portals
+* Simply Jetpacks 2
+
+#### Updated Mods:
+* Xaero's Minimap (Fair-play Edition)
+
+#### Config:
+* The Twilight Forest:
+  * Portal can now only be opened by a Lunar Sapphire
+    * Which you can find on the Moon (Lunar)
+
+
+## 0.3
+
+#### Added Mods:
+* ProjectRed - Compat
+* GalacticraftCore
+* Galacticraft-Planets
+
+#### Added APIs/Cores/Libraries:
+* MicdoodleCore
+
+
+## 0.2
+
+#### Added Mods:
+* Chisel
+* Immersive Engineering
+* Integration Foregoing
+* RFTools
+* RFTools Power
+* Wawla - What Are We Looking At
+
+#### Added APIs/Cores/Libraries:
+* ConnectedTexturesMod
+* McJtyLib
+
+#### Removed Mods:
+* IndustrialCraft²
+* Waila - Harvestability
+
+
+## 0.1
+
+#### Started Ampi'lution
