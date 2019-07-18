@@ -1,5 +1,12 @@
 ## Alpha
 
+### 0.23.3.1
+
+#### Scripts:
+* Simply Jetpacks 2:
+  * Fixed armored Jetpacks Recipes
+
+
 ### 0.23.3
 
 #### Scripts:
