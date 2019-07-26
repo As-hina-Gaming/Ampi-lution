@@ -1,5 +1,64 @@
 # Alpha
 
+## 0.23.4.1
+
+#### Fix:
+* Duplicate mods
+
+
+## 0.23.4
+
+#### Config:
+* Charset:
+  * Enabled Immersion Module
+* Galacticraft:
+  * Fixed Compressed Iron Plate turning into Iron Plate from TF
+
+#### Scripts:
+* Ender IO:
+  * Adjusted Enderium Ingot Recipe
+  * Removed Enderium Base
+  * Removed Silicon
+  * Removed Quartz Powder
+  * Alloy Smelter:
+    * Removed Cookie Recipe
+    * Moved recipes with 2 inputs to Induction Smelter:
+      * Vibrant Alloy Ingot
+      * Redstone Alloy Ingot
+      * Conductive Iron Ingot
+      * Pulsating Iron Ingot
+      * Dark Steel Ingot
+      * Soularium Ingot
+      * Cake Base
+      * Enlightened Fused Quartz
+      * Enlightened Clear Glass
+      * Dark Fused Quartz
+      * Organic Green Dye
+      * Organic Brown Dye
+      * Organic Black Dye
+      * Manyullyn Ingot
+      * Enhanced Machine Chassis
+      * Infinity Reagent
+    * Moved recipes with 1 input to (Redstone) Furnace:
+      * Fused Quartz
+      * Quite Clear Glass
+      * Dark Iron Ingot
+      * Dead Bush
+      * Ender Pearl
+* Extra Utilities 2:
+  * Removed Crusher
+* Thermal Expansion:
+  * Induction Smelter
+    * Adjusted RF usage:
+      * Conductive Iron Ingot
+      * Pulsating Iron Ingot
+      * Dark Steel Ingot
+      * Soularium Ingot
+      * Manyullyn Ingot
+  * Compactor:
+    * All Plates do now need 2 Ingots
+
+
 ## 0.23.3.1
 
 #### Scripts:
