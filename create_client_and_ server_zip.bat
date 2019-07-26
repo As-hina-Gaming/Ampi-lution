@@ -144,7 +144,7 @@ SET m_names[34]=ftb_quests
 SET m_links[34]=https://media.forgecdn.net/files/2733/288/FTBQuests-1.7.2.178.jar
 ::35
 SET m_names[35]=ftb_utilities
-SET m_links[35]=https://media.forgecdn.net/files/2733/288/FTBQuests-1.7.2.178.jar
+SET m_links[35]=https://media.forgecdn.net/files/2730/58/FTBUtilities-5.4.0.99.jar
 ::36
 SET m_names[36]=galacticraft_core
 SET m_links[36]=https://ci.micdoodle8.com/job/Galacticraft-1.12/211/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.211.jar
@@ -222,7 +222,7 @@ SET m_names[60]=mrcrayfishs_furniture_mod
 SET m_links[60]=https://media.forgecdn.net/files/2715/314/furniture-6.3.0-1.12.2.jar
 ::61
 SET m_names[61]=openblocks
-SET m_links[61]=https://media.forgecdn.net/files/2715/314/furniture-6.3.0-1.12.2.jar
+SET m_links[61]=https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar
 ::62
 SET m_names[62]=planet_progression
 SET m_links[62]=https://media.forgecdn.net/files/2702/290/PlanetProgression-1.12.2-0.3.5.jar
