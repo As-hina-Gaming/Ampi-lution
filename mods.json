@@ -25,6 +25,21 @@
       "link": "https://media.forgecdn.net/files/2509/46/blockdrops-1.12.2-1.4.0.jar"
     },
     {
+      "name": "Better Advancements",
+      "version": "0.1.0.77",
+      "link": "https://media.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+    },
+    {
+      "name": "Custom Main Menu",
+      "version": "2.0.9",
+      "link": "https://media.forgecdn.net/files/2638/282/CustomMainMenu-MC1.12.2-2.0.9.jar"
+    },
+    {
+      "name": "Default Options",
+      "version": "9.2.8",
+      "link": "https://media.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar"
+    }
+    {
       "name": "It's the little things",
       "version": "1.0.0",
       "link": "https://media.forgecdn.net/files/2432/201/itlt-1.12-1.0.0.jar"
@@ -45,6 +60,11 @@
       "link": "https://media.forgecdn.net/files/2723/786/jehc-1.12.2-1.6.4.jar"
     },
     {
+      "name": "Just Enough Reactors",
+      "version": "1.1.3.61",
+      "link": "https://media.forgecdn.net/files/2671/784/JustEnoughReactors-1.12.2-1.1.3.61.jar"
+    },
+    {
       "name": "Just Enough Resources",
       "version": "0.9.2.60",
       "link": "https://media.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar"
@@ -53,6 +73,11 @@
       "name": "Just Enough Throwing In Fluids",
       "version": "1.5.0",
       "link": "https://media.forgecdn.net/files/2733/185/jetif-1.12.2-1.5.0.jar"
+    },
+    {
+      "name": "Resource Loader",
+      "version": "1.5.3",
+      "link": "https://media.forgecdn.net/files/2477/566/ResourceLoader-MC1.12.1-1.5.3.jar"
     },
     {
       "name": "Tinker's JEI",
@@ -136,6 +161,11 @@
       "link": "https://media.forgecdn.net/files/2716/712/blockcraftery-1.12.2-1.3.1.jar"
     },
     {
+      "name": "Bloodmoon",
+      "version": "1.5.3",
+      "link": "https://media.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar"
+    },
+    {
       "name": "Bone Appetit",
       "version": "1.0.0.4",
       "link": "https://media.forgecdn.net/files/2689/172/BoneAppetit-1.0.0.4.jar"
@@ -144,6 +174,11 @@
       "name": "Charset Immersion",
       "version": "0.5.5.7",
       "link": "https://media.forgecdn.net/files/2695/681/Charset-Immersion-0.5.5.7.jar"
+    },
+    {
+      "name": "Charset Tweaks",
+      "version": "0.5.6.2",
+      "link": "https://media.forgecdn.net/files/2745/327/Charset-Tweaks-0.5.6.2.jar"
     },
     {
       "name": "Chisel",
