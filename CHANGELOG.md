@@ -1,5 +1,59 @@
 # Alpha
 
+## 0.24.0
+
+#### Added Mods:
+* Auto Dropper
+* Better Advancements
+* Bloodmoon
+* Charset Tweaks
+* Custom Main Menu
+* Default Options
+* Just Enough Reactors
+* Resource Loader
+
+#### Updated Mods:
+* Applied Energistics 2: rv6-stable-7
+* Charset Immersion: 0.5.6.0
+* ComplexLogic: 1.4.3
+* Ender IO AE2 Conduits: 5.0.49
+* Ender IO Base: 5.0.49
+* Ender IO Conduits: 5.0.49
+* Ender IO Machines: 5.0.49
+* Ender IO TiC: 5.0.49
+* Ender IO Zoo: 5.0.49
+* ExtraPlanets: 0.5.5
+* Forestry: 5.8.2.392
+* FTB Quests: 1.7.2.189
+* FTB Utilities: 5.4.0.100
+* Galacticraft Core: 4.0.2.224
+* Galacticraft Planets: 4.0.2.224
+* Iron Chests: 7.0.72.847
+* Just Enough Calculation: 3.2.0
+* Just Enough Items: 4.15.0.287
+* Just Enough Throwing In Fluids: 1.5.1
+* More Planets: 2.1.8
+* MrCrayfish's Furniture Mod: 6.3.1
+* Planet Progression: 0.3.7
+* Pam's Harvestcraft: 1.12.2ze
+* RandomPatches: 1.17.2.1
+* RFTools: 7.72
+* SimpleLogic Gates: 0.5.6.1
+* SimpleLogic Wires: 0.5.6.3
+* Xaero's Minimap (Fair-play Edition): 1.17.4
+
+#### Updated APIs/Cores/Libraries:
+* Charset Lib: 0.5.6.3
+* EnderCore: 0.5.65
+* FTB Library: 5.4.3.130
+* McHorse's McLib: 1.0.3
+* McJtyLib: 3.5.4
+* MicdoodleCore: 4.0.2.224
+* MysticalLib: 1.3.1
+* p455w0rd's Library: 2.2.156
+* SteveKunG's Lib: 1.1.2
+
+
 ## 0.23.4.2
 
 #### Fix:
