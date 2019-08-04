@@ -2,9 +2,9 @@
 
 ### Tested with a minimum of 4GB RAM for Java.
 
-### You can find usefull Wiki-Pages [here](https://gitlab.com/Motzkiste/ampi-lution/wikis/home).
+### You can find usefull Wiki-Pages [here](https://github.com/Motzkiste/Ampi-lution/wiki/home).
 #### If you don't find your mod there please take a look in the Mod-List maybe you'll find help on the Mod's page.
 
-### [Mods](https://gitlab.com/Motzkiste/ampi-lution/wikis/Mods-%5B%2386%5D) [#86]
+### [Mods](https://github.com/Motzkiste/Ampi-lution/wiki/Mods-%5B%2387%5D) [#86]
 
-### [APIs | Cores | Libraries](https://gitlab.com/Motzkiste/ampi-lution/wikis/APIs-%7C-Cores-%7C-Libraries-%5B%2330%5D) [#30]
+### [APIs | Cores | Libraries](https://github.com/Motzkiste/Ampi-lution/wiki/APIs-%7C-Cores-%7C-Libraries-%5B%2330%5D) [#30]
