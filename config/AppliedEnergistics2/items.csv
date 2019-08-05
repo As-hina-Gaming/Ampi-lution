@@ -2009,32 +2009,22 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
-forestry:lepidopterist_bag, Lepidopterist's Backpack
-forestry:miner_bag, Mining Backpack
-forestry:miner_bag_t2, Woven Mining Backpack
-forestry:digger_bag, Digging Backpack
-forestry:digger_bag_t2, Woven Digging Backpack
-forestry:forester_bag, Foresting Backpack
-forestry:forester_bag_t2, Woven Foresting Backpack
-forestry:hunter_bag, Hunting Backpack
-forestry:hunter_bag_t2, Woven Hunting Backpack
-forestry:adventurer_bag, Adventuring Backpack
-forestry:adventurer_bag_t2, Woven Adventuring Backpack
-forestry:builder_bag, Building Backpack
-forestry:builder_bag_t2, Woven Building Backpack
 forestry:habitat_former:0, Habitat Former
 forestry:habitat_screen, Habitat Screen
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
+forestry:worktable:0, Worktable
 forestry:book_forester, Forester's Manual
+forestry:fluid.bio.ethanol, Ethanol
+forestry:fluid.biomass, Biomass
+forestry:fluid.glass, Liquid Glass
+forestry:fluid.for.honey, Honey
+forestry:fluid.ice, Crushed Ice
+forestry:fluid.juice, Fruit Juice
+forestry:fluid.milk, Milk
+forestry:fluid.seed.oil, Seed Oil
+forestry:fluid.short.mead, Short Mead
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, Farm Block
@@ -2092,9 +2082,45 @@ forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
+forestry:database:0, Database
+forestry:greenhouse:0, Greenhouse Block
+forestry:greenhouse:3, Greenhouse Energy Distributor
+forestry:greenhouse:4, Greenhouse Control
+forestry:greenhouse:5, Greenhouse Screen
+forestry:climatiser:0, Greenhouse Hygroregulator
+forestry:climatiser:1, Greenhouse Heater
+forestry:climatiser:2, Greenhouse Fan
+forestry:climatiser:3, Greenhouse Humidifier
+forestry:climatiser:4, Greenhouse Dehumidifier
+forestry:greenhouse.window:0, Greenhouse Window
+forestry:greenhouse.window_up:0, Greenhouse Roof Window
+forestry:lepidopterist_bag, Lepidopterist's Backpack
+forestry:miner_bag, Mining Backpack
+forestry:miner_bag_t2, Woven Mining Backpack
+forestry:digger_bag, Digging Backpack
+forestry:digger_bag_t2, Woven Digging Backpack
+forestry:forester_bag, Foresting Backpack
+forestry:forester_bag_t2, Woven Foresting Backpack
+forestry:hunter_bag, Hunting Backpack
+forestry:hunter_bag_t2, Woven Hunting Backpack
+forestry:adventurer_bag, Adventuring Backpack
+forestry:adventurer_bag_t2, Woven Adventuring Backpack
+forestry:builder_bag, Building Backpack
+forestry:builder_bag_t2, Woven Building Backpack
+forestry:genetic_filter:0, Genetic Filter
+forestry:engine_peat:0, Peat-fired Engine
+forestry:engine_biogas:0, Biogas Engine
+forestry:engine_clockwork:0, Clockwork Engine
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -2547,14 +2573,7 @@ forestry:leaves.decorative.2:0, Papaya Leaves
 forestry:leaves.decorative.2:1, Date Palm Leaves
 forestry:leaves.decorative.2:2, White Poplar Leaves
 forestry:tree_chest:0, Arborist's Chest
-forestry:worktable:0, Worktable
-forestry:butterfly_chest:0, Lepidopterist's Chest
-forestry:cocoon:0, tile.for.cocoon.name
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name
 forestry:crate, Crate
-forestry:engine_peat:0, Peat-fired Engine
-forestry:engine_biogas:0, Biogas Engine
-forestry:engine_clockwork:0, Clockwork Engine
 forestry:stamps:0, Stamp (1n)
 forestry:stamps:1, Stamp (2n)
 forestry:stamps:2, Stamp (5n)
@@ -2567,7 +2586,9 @@ forestry:catalogue, Catalogue
 forestry:mailbox:0, Mailbox
 forestry:trade_station:0, Trade Station
 forestry:stamp_collector:0, Stamp Collector
-forestry:database:0, Database
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
 forestry:charcoal:0, Block of Charcoal
 forestry:wood_pile:0, Wood Pile
 forestry:wood_pile_decorative:0, Decorative Wood Pile
@@ -2590,30 +2611,9 @@ forestry:farm_ender:0, Ender Farm (Managed)
 forestry:farm_ender:1, Ender Farm (Manual)
 forestry:peat_bog:0, Peat Bog (Managed)
 forestry:peat_bog:1, Peat Bog (Manual)
-forestry:genetic_filter:0, Genetic Filter
-forestry:fluid.bio.ethanol, Ethanol
-forestry:fluid.biomass, Biomass
-forestry:fluid.glass, Liquid Glass
-forestry:fluid.for.honey, Honey
-forestry:fluid.ice, Crushed Ice
-forestry:fluid.juice, Fruit Juice
-forestry:fluid.milk, Milk
-forestry:fluid.seed.oil, Seed Oil
-forestry:fluid.short.mead, Short Mead
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:greenhouse:0, Greenhouse Block
-forestry:greenhouse:3, Greenhouse Energy Distributor
-forestry:greenhouse:4, Greenhouse Control
-forestry:greenhouse:5, Greenhouse Screen
-forestry:climatiser:0, Greenhouse Hygroregulator
-forestry:climatiser:1, Greenhouse Heater
-forestry:climatiser:2, Greenhouse Fan
-forestry:climatiser:3, Greenhouse Humidifier
-forestry:climatiser:4, Greenhouse Dehumidifier
-forestry:greenhouse.window:0, Greenhouse Window
-forestry:greenhouse.window_up:0, Greenhouse Roof Window
+forestry:butterfly_chest:0, Lepidopterist's Chest
+forestry:cocoon:0, tile.for.cocoon.name
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name
 moreplanets:diona_cobblestone_slab, Diona Cobblestone Slab
 moreplanets:chalos_cobblestone_slab, Chalos Cobblestone Slab
 moreplanets:nibiru_cobblestone_slab, Nibiru Cobblestone Slab
@@ -7766,6 +7766,15 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Tin
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Block
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Energy Distributor
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Control
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
 appliedenergistics2:facade:0, Cable Facade - Larch Wood
 appliedenergistics2:facade:0, Cable Facade - Teak Wood
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood
@@ -7937,15 +7946,6 @@ appliedenergistics2:facade:0, Cable Facade - Ash Block
 appliedenergistics2:facade:0, Cable Facade - Ash Block
 appliedenergistics2:facade:0, Cable Facade - Ash Block
 appliedenergistics2:facade:0, Cable Facade - Loam
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Block
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Energy Distributor
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Control
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Booster
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
 appliedenergistics2:facade:0, Cable Facade - Alien Ship Decoration
@@ -10297,6 +10297,12 @@ appliedenergistics2:facade:0, Cable Facade - Coal Ore
 appliedenergistics2:facade:0, Cable Facade - Titan Surface Grunt
 appliedenergistics2:facade:0, Cable Facade - Titan Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Titan Stone
+appliedenergistics2:facade:0, Cable Facade - Sapphire Ore
+appliedenergistics2:facade:0, Cable Facade - Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Lapis Ore
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore
 appliedenergistics2:facade:0, Cable Facade - Miranda Surface Grunt
 appliedenergistics2:facade:0, Cable Facade - Miranda Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Miranda Stone
@@ -10313,15 +10319,6 @@ appliedenergistics2:facade:0, Cable Facade - Miranda Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Miranda Stone
 appliedenergistics2:facade:0, Cable Facade - Miranda Stone
 appliedenergistics2:facade:0, Cable Facade - Miranda Ice
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_grass_1.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_dirt.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_stone.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_sand.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_dirt_1.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_test_log.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_test_glow_log.name
-appliedenergistics2:facade:0, Cable Facade - tile.barnarda_c_leaves_1.name
 appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
 appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
 appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
@@ -10335,6 +10332,31 @@ appliedenergistics2:facade:0, Cable Facade - Silicon Ore
 appliedenergistics2:facade:0, Cable Facade - Diamond Ore
 appliedenergistics2:facade:0, Cable Facade - Burnt Wood
 appliedenergistics2:facade:0, Cable Facade - Frozen Wood
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Stone
+appliedenergistics2:facade:0, Cable Facade - [WIP] Barnarda C Sandstone
+appliedenergistics2:facade:0, Cable Facade - [WIP] Barnarda C Dirt
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Sand
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Violet Log
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Violet Glow Log
+appliedenergistics2:facade:0, Cable Facade - Barnarda C Leaves
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Lapis Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Quartz Ore
+appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore
 appliedenergistics2:facade:0, Cable Facade - Mercury Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Sub-Surface Rock
 appliedenergistics2:facade:0, Cable Facade - Mercury Stone
@@ -10847,6 +10869,22 @@ appliedenergistics2:facade:0, Cable Facade - Xen Hex
 appliedenergistics2:facade:0, Cable Facade - Xen Hex
 appliedenergistics2:facade:0, Cable Facade - Xen Hex
 appliedenergistics2:facade:0, Cable Facade - Xen Hex
+appliedenergistics2:facade:0, Cable Facade - White Slime Block
+appliedenergistics2:facade:0, Cable Facade - Orange Slime Block
+appliedenergistics2:facade:0, Cable Facade - Magenta Slime Block
+appliedenergistics2:facade:0, Cable Facade - Light Blue Slime Block
+appliedenergistics2:facade:0, Cable Facade - Yellow Slime Block
+appliedenergistics2:facade:0, Cable Facade - Lime Slime Block
+appliedenergistics2:facade:0, Cable Facade - Pink Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gray Slime Block
+appliedenergistics2:facade:0, Cable Facade - Light Gray Slime Block
+appliedenergistics2:facade:0, Cable Facade - Cyan Slime Block
+appliedenergistics2:facade:0, Cable Facade - Purple Slime Block
+appliedenergistics2:facade:0, Cable Facade - Blue Slime Block
+appliedenergistics2:facade:0, Cable Facade - Brown Slime Block
+appliedenergistics2:facade:0, Cable Facade - Green Slime Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Black Slime Block
 appliedenergistics2:facade:0, Cable Facade - Aether Grass
 appliedenergistics2:facade:0, Cable Facade - Enchanted Aether Grass
 appliedenergistics2:facade:0, Cable Facade - Aether Dirt
@@ -10903,38 +10941,38 @@ appliedenergistics2:facade:0, Cable Facade - Sun Altar
 appliedenergistics2:facade:0, Cable Facade - Skyroot Bookshelf
 appliedenergistics2:facade:0, Cable Facade - Skyroot Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Block of Ambrosium
-appliedenergistics2:facade:0, Cable Facade - Orange Lamp
-appliedenergistics2:facade:0, Cable Facade - Purple Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Green Lamp
-appliedenergistics2:facade:0, Cable Facade - Black Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Light Blue Lamp
-appliedenergistics2:facade:0, Cable Facade - White Lamp
-appliedenergistics2:facade:0, Cable Facade - Pink Lamp
-appliedenergistics2:facade:0, Cable Facade - Cyan Lamp
-appliedenergistics2:facade:0, Cable Facade - Red Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Magenta Lamp
-appliedenergistics2:facade:0, Cable Facade - Gray Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Green Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Brown Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Gray Lamp
-appliedenergistics2:facade:0, Cable Facade - Light Gray Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Light Gray Lamp
-appliedenergistics2:facade:0, Cable Facade - Light Blue Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Yellow Lamp
-appliedenergistics2:facade:0, Cable Facade - Blue Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Magenta Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - White Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Black Lamp
-appliedenergistics2:facade:0, Cable Facade - Cyan Inverted Lamp
 appliedenergistics2:facade:0, Cable Facade - Orange Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Lime Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Red Lamp
-appliedenergistics2:facade:0, Cable Facade - Blue Lamp
 appliedenergistics2:facade:0, Cable Facade - Brown Lamp
-appliedenergistics2:facade:0, Cable Facade - Yellow Inverted Lamp
-appliedenergistics2:facade:0, Cable Facade - Lime Lamp
+appliedenergistics2:facade:0, Cable Facade - Purple Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - White Lamp
+appliedenergistics2:facade:0, Cable Facade - Red Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Green Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Lime Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Blue Lamp
+appliedenergistics2:facade:0, Cable Facade - Cyan Inverted Lamp
 appliedenergistics2:facade:0, Cable Facade - Pink Inverted Lamp
 appliedenergistics2:facade:0, Cable Facade - Purple Lamp
+appliedenergistics2:facade:0, Cable Facade - Magenta Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Green Lamp
+appliedenergistics2:facade:0, Cable Facade - Black Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Gray Lamp
+appliedenergistics2:facade:0, Cable Facade - Cyan Lamp
+appliedenergistics2:facade:0, Cable Facade - Gray Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Brown Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Yellow Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Red Lamp
+appliedenergistics2:facade:0, Cable Facade - Gray Lamp
+appliedenergistics2:facade:0, Cable Facade - White Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Lime Lamp
+appliedenergistics2:facade:0, Cable Facade - Blue Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Orange Lamp
+appliedenergistics2:facade:0, Cable Facade - Magenta Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Gray Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Black Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Blue Lamp
+appliedenergistics2:facade:0, Cable Facade - Pink Lamp
+appliedenergistics2:facade:0, Cable Facade - Light Blue Inverted Lamp
+appliedenergistics2:facade:0, Cable Facade - Yellow Lamp
 appliedenergistics2:facade:0, Cable Facade - Arcane Base
 appliedenergistics2:facade:0, Cable Facade - Chiselled Arcane Base
 appliedenergistics2:facade:0, Cable Facade - Cinnamon Wood
@@ -11293,11 +11331,13 @@ enderio:item_material:72, Nethercotta
 enderio:item_material:73, Dark Bimetal Gear
 enderio:item_material:74, Soul Powder
 enderio:item_material:75, Infinity Reagent
+enderio:item_material:76, Clay-Coated Glowstone Dust
 enderio:item_broken_spawner:0, Broken Spawner
 enderio:block_infinity_fog:0, Infinity Dust
 enderio:block_infinity:0, Infinity Dust Block
 enderio:block_infinity:1, Compressed Infinity Dust Block
 enderio:block_infinity:2, Double Compressed Infinity Dust Block
+enderio:block_holy_fog, Glowstone Nano-Particles
 enderio:block_dark_steel_anvil:0, Dark Steel Anvil
 enderio:block_dark_steel_anvil:1, Slightly Damaged Dark Steel Anvil
 enderio:block_dark_steel_anvil:2, Very Damaged Dark Steel Anvil
@@ -11533,6 +11573,42 @@ enderio:item_end_steel_leggings, Ender Leggings
 enderio:item_end_steel_boots, Ender Boots
 enderio:item_staff_of_levity:0, Staff of Levity
 enderio:item_staff_of_levity:0, Staff of Levity
+enderio:item_dark_steel_upgrade:0, Blank Dark Steel Upgrade
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Carpeting"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Depth"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Direct"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Elytra"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered V"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered IV"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Empowered II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Glider"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Fork"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory I"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Inventory III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Jump II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Night Vision"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Padding"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Simple Solar"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar I"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Solar III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Sound Locator"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Speed II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Spoon"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Flippers"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive I"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive II"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive III"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive IV"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Explosive V"
+enderio:item_dark_steel_upgrade:1, Dark Steel Upgrade "Travel"
 enderio:item_owl_egg, Owl Egg
 enderio:block_alloy_endergy:0, Crude Steel Block
 enderio:block_alloy_endergy:1, Crystalline Alloy Block
@@ -11902,44 +11978,44 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Dart Tip Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tube Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Mouthpiece Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tube Pattern
 tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Dart Tip Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Mouthpiece Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13546,7 +13622,9 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -13753,84 +13831,84 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Dart Tip Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tube Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Mouthpiece Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tube Cast
 tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Dart Tip Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Mouthpiece Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Dart Tip Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tube Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Mouthpiece Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tube Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Dart Tip Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Mouthpiece Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14307,7 +14385,7 @@ galaxyspace:modern_storage_module, Modern Energy Cluster
 galaxyspace:advanced_landing_pad, Advanced Landing Pad
 galaxyspace:modification_table, Modification Table
 galaxyspace:gas_burner, Gas Burner
-galaxyspace:oxygen_storage_module_1, Oxygen Storage Cluster
+galaxyspace:oxygen_storage_module_1, tile.oxygen_storage_module_1.name
 galaxyspace:solarwind_panel, Solarwind Panel
 galaxyspace:adv_electric_compressor, Advanced Electric Compressor
 galaxyspace:adv_circuit_fabricator, Advanced Circuit Fabricator
@@ -14398,6 +14476,12 @@ galaxyspace:enceladus_crystal, Unknow Crystal
 galaxyspace:titanblocks:0, Titan Surface Grunt
 galaxyspace:titanblocks:1, Titan Subsurface Grunt
 galaxyspace:titanblocks:2, Titan Stone
+galaxyspace:titanblocks:3, Sapphire Ore
+galaxyspace:titanblocks:4, Emerald Ore
+galaxyspace:titanblocks:5, Diamond Ore
+galaxyspace:titanblocks:6, Coal Ore
+galaxyspace:titanblocks:7, Lapis Ore
+galaxyspace:titanblocks:8, Redstone Ore
 galaxyspace:mirandablocks:0, Miranda Surface Grunt
 galaxyspace:mirandablocks:1, Miranda Subsurface Grunt
 galaxyspace:mirandablocks:2, Miranda Stone
@@ -14425,9 +14509,10 @@ galaxyspace:gs_basic:7, Sulfur
 galaxyspace:gs_basic:8, Unknown Crystal Shard
 galaxyspace:gs_basic:9, Antiradiation Tablets
 galaxyspace:gs_basic:10, Schematics Box
-galaxyspace:gs_basic:11, Black Module
+galaxyspace:gs_basic:11, Blank Module
 galaxyspace:gs_basic:12, Volcanic Shard
 galaxyspace:gs_basic:13, Meteoric Iron Fragments
+galaxyspace:gs_basic:14, Blank Schematic
 galaxyspace:gs_basic:15, Uranium
 galaxyspace:gs_basic:16, Prototype Controller Shield
 galaxyspace:gs_basic:17, Bucket with Ice
@@ -14493,6 +14578,7 @@ galaxyspace:hydrogen_canister:1, Hydrogen Canister
 galaxyspace:ethane_canister:1, Ethane Canister
 galaxyspace:em_canister:1, Ethane-Methane Canister
 galaxyspace:helium_canister:1, Helium-3 Canister
+galaxyspace:hh_canister:1, Helium-Hydrogen Canister
 galaxyspace:oxygen_tank_4, Very Heavy Oxygen Tank
 galaxyspace:oxygen_tank_5, Ultra Oxygen Tank
 galaxyspace:oxygen_tank_6, Very Ultra Oxygen Tank
@@ -14527,21 +14613,6 @@ galaxyspace:cobalt_pickaxe, Cobalt Pickaxe
 galaxyspace:cobalt_spade, Cobalt Spade
 galaxyspace:cobalt_hoe, Cobalt Hoe
 galaxyspace:jetpack, Electric Jetpack
-galaxyspace:barnarda_c_grasses:0, tile.barnarda_c_grass.name
-galaxyspace:barnarda_c_grasses:1, tile.barnarda_c_grass_1.name
-galaxyspace:barnarda_c_blocks:0, tile.barnarda_c_dirt.name
-galaxyspace:barnarda_c_blocks:1, tile.barnarda_c_stone.name
-galaxyspace:barnarda_c_blocks:2, tile.barnarda_c_sand.name
-galaxyspace:barnarda_c_blocks:3, tile.barnarda_c_dirt_1.name
-galaxyspace:barnarda_c_test_log, tile.barnarda_c_test_log.name
-galaxyspace:barnarda_c_test_glow_log, tile.barnarda_c_test_glow_log.name
-galaxyspace:barnarda_c_dandelions:0, tile.barnarda_c_tall_grass.name
-galaxyspace:barnarda_c_dandelions:1, tile.barnarda_c_hopper_flower.name
-galaxyspace:barnarda_c_dandelions:2, tile.barnarda_c_green_fern.name
-galaxyspace:barnarda_c_dandelions:3, tile.barnarda_c_red_fern.name
-galaxyspace:barnarda_c_dandelions:4, tile.barnarda_c_light_balls.name
-galaxyspace:barnarda_c_dandelions:5, tile.barnarda_c_leaves_balls.name
-galaxyspace:barnarda_c_leaves:0, tile.barnarda_c_leaves_1.name
 galaxyspace:proxima_b_blocks:0, Proxima B Surface
 galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
 galaxyspace:proxima_b_blocks:2, Proxima B Stone
@@ -14555,8 +14626,48 @@ galaxyspace:proxima_b_blocks:9, Silicon Ore
 galaxyspace:proxima_b_blocks:10, Diamond Ore
 galaxyspace:proxima_b_log_1, Burnt Wood
 galaxyspace:proxima_b_log_2, Frozen Wood
+galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
+galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
+galaxyspace:barnarda_c_blocks:1, Barnarda C Stone
+galaxyspace:barnarda_c_blocks:2, [WIP] Barnarda C Sandstone
+galaxyspace:barnarda_c_blocks:3, [WIP] Barnarda C Dirt
+galaxyspace:barnarda_c_blocks:4, Barnarda C Cobblestone
+galaxyspace:barnarda_c_blocks:5, Barnarda C Stone Bricks
+galaxyspace:barnarda_c_blocks:6, Barnarda C Wood Planks
+galaxyspace:barnarda_c_falling_blocks:0, Barnarda C Sand
+galaxyspace:barnarda_c_test_log, Barnarda C Violet Log
+galaxyspace:barnarda_c_test_glow_log, Barnarda C Violet Glow Log
+galaxyspace:barnarda_c_dandelions:0, Barnarda C Tallgrass
+galaxyspace:barnarda_c_dandelions:1, Barnarda C Hopper Flower
+galaxyspace:barnarda_c_dandelions:2, Barnarda C Green Fern
+galaxyspace:barnarda_c_dandelions:3, Barnarda C Red Fern
+galaxyspace:barnarda_c_dandelions:4, Barnarda C Light Balls
+galaxyspace:barnarda_c_dandelions:5, Barnarda C Leaves Balls
+galaxyspace:barnarda_c_dandelions:6, Barnarda C Desert Flower
+galaxyspace:barnarda_c_dandelions:8, Barnarda C Yellow Grass
+galaxyspace:barnarda_c_dandelions:12, Violet Tree Sapling
+galaxyspace:barnarda_c_leaves:0, Barnarda C Leaves
+galaxyspace:barnarda_c_farmland, Barnarda C Farmland
+galaxyspace:barnarda_c_water_grass, tile.barnarda_c_water_grass.name
+galaxyspace:barnarda_c_ores:0, Coal Ore
+galaxyspace:barnarda_c_ores:1, Iron Ore
+galaxyspace:barnarda_c_ores:2, Gold Ore
+galaxyspace:barnarda_c_ores:3, Redstone Ore
+galaxyspace:barnarda_c_ores:4, Lapis Ore
+galaxyspace:barnarda_c_ores:5, Diamond Ore
+galaxyspace:barnarda_c_ores:6, Silicon Ore
+galaxyspace:barnarda_c_ores:7, Copper Ore
+galaxyspace:barnarda_c_ores:8, Tin Ore
+galaxyspace:barnarda_c_ores:9, Aluminum Ore
+galaxyspace:barnarda_c_ores:10, Quartz Ore
+galaxyspace:barnarda_c_ores:11, Cobalt Ore
+galaxyspace:barnarda_c_ores:12, Nickel Ore
+galaxyspace:br_basic:0, Violet Reeds
+galaxyspace:br_basic:1, Water Grass
+galaxyspace:br_foods:0, Yellow Fruits
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
+autodropper:auto_dropper, Auto Dropper
 bibliocraft:bookcase:0, Oak Bookcase
 bibliocraft:bookcase:1, Spruce Bookcase
 bibliocraft:bookcase:2, Birch Bookcase
@@ -16883,27 +16994,6 @@ planetprogression:research_paper_48, Research Paper
 planetprogression:research_paper_49, Research Paper
 planetprogression:research_paper_50, Research Paper
 planetprogression:research_paper_51, Research Paper
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -16954,6 +17044,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer
@@ -17491,51 +17602,40 @@ xencraft:xen_hex:12, Xen Hex
 xencraft:xen_hex:13, Xen Hex
 xencraft:xen_hex:14, Xen Hex
 xencraft:xen_hex:15, Xen Hex
-charset:logic_gate:0, Pulse Former
-charset:logic_gate:0, Bit Mirror Gate
-charset:logic_gate:0, BIN-TO-7SEG
-charset:logic_gate:0, Counter
-charset:logic_gate:0, Comparator
-charset:logic_gate:0, Bundled Multiplier
-charset:logic_gate:0, Set-Reset Latch
-charset:logic_gate:0, Multiplexer Gate
-charset:logic_gate:0, Button Panel
-charset:logic_gate:0, 7-Segment Display (2-Digit)
-charset:logic_gate:0, Bundled Memory Gate
-charset:logic_gate:0, Subtractor Gate
-charset:logic_gate:0, Global OR Gate
-charset:logic_gate:0, NAND Gate
-charset:logic_gate:0, Bundled Inverter
-charset:logic_gate:0, Digital-Analog Converter
-charset:logic_gate:0, XNOR Gate
-charset:logic_gate:0, Timer
-charset:logic_gate:0, Bundled Transceiver
-charset:logic_gate:0, Bundled Viewer Gate
-charset:logic_gate:0, Synchronizer
-charset:logic_gate:0, Repeater
-charset:logic_gate:0, Bundled XOR Gate
-charset:logic_gate:0, Analog-Digital Converter
-charset:logic_gate:0, Multiplexer
-charset:logic_gate:0, Random Value Generator
-charset:logic_gate:0, Patch Panel
-charset:logic_gate:0, Bundled Adder Gate
-charset:logic_gate:0, AND Gate
-charset:logic_gate:0, Bundled NAND Gate
-charset:logic_gate:0, OR Gate
-charset:logic_gate:0, Bundled Dividing Gate
-charset:logic_gate:0, XOR Gate
-charset:logic_gate:0, Bundled AND Gate
-charset:logic_gate:0, Buffer Gate
-charset:logic_gate:0, Bundled Transposer
-charset:logic_gate:0, NOR Gate
-charset:logic_gate:0, Bundled Shifter Gate
-charset:logic_gate:0, Randomizer
-charset:logic_gate:0, Bundled Modulo Gate
-charset:logic_gate:0, Hex Driver
-charset:logic_gate:0, Real-Time Clock
-charset:logic_gate:0, BIN-TO-BCD
-charset:logic_gate:0, Text Display (2-Character)
-charset:logic_gate:0, Inverted Buffer Gate
+charset:slime_block_colored:0, White Slime Block
+charset:slime_block_colored:1, Orange Slime Block
+charset:slime_block_colored:2, Magenta Slime Block
+charset:slime_block_colored:3, Light Blue Slime Block
+charset:slime_block_colored:4, Yellow Slime Block
+charset:slime_block_colored:5, Lime Slime Block
+charset:slime_block_colored:6, Pink Slime Block
+charset:slime_block_colored:7, Gray Slime Block
+charset:slime_block_colored:8, Light Gray Slime Block
+charset:slime_block_colored:9, Cyan Slime Block
+charset:slime_block_colored:10, Purple Slime Block
+charset:slime_block_colored:11, Blue Slime Block
+charset:slime_block_colored:12, Brown Slime Block
+charset:slime_block_colored:13, Green Slime Block
+charset:slime_block_colored:14, Red Slime Block
+charset:slime_block_colored:15, Black Slime Block
+charset:graphite, Graphite
+charset:shard:0, Glass Shard
+charset:shard:1, White Glass Shard
+charset:shard:2, Orange Glass Shard
+charset:shard:3, Magenta Glass Shard
+charset:shard:4, Light Blue Glass Shard
+charset:shard:5, Yellow Glass Shard
+charset:shard:6, Lime Glass Shard
+charset:shard:7, Pink Glass Shard
+charset:shard:8, Gray Glass Shard
+charset:shard:9, Light Gray Glass Shard
+charset:shard:10, Cyan Glass Shard
+charset:shard:11, Purple Glass Shard
+charset:shard:12, Blue Glass Shard
+charset:shard:13, Brown Glass Shard
+charset:shard:14, Green Glass Shard
+charset:shard:15, Red Glass Shard
+charset:shard:16, Black Glass Shard
 charset:logic_wire_n:0, Redstone Cable
 charset:logic_wire_n:1, Freestanding Redstone Cable
 charset:logic_wire_i0:0, White Insulated Cable
@@ -21548,102 +21648,102 @@ chiselsandbits:chiseled_grass, Chiseled Grass
 chiselsandbits:chiseled_snow, Chiseled Snow
 chiselsandbits:chiseled_fluid, Chiseled Fluid
 chiselsandbits:chiseled_leaves, Chiseled Leaves
-complex-logic:cage_lamp_silver, %s Cage Lamp
-complex-logic:flat_lamp_cyan, %s Flat Lamp
-complex-logic:color_lamp_orange, %s Lamp
-complex-logic:cage_lamp_green_inverted, %s Inverted Cage Lamp
-complex-logic:flat_lamp_black_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_purple_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_purple_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_green, %s Cage Lamp
-complex-logic:flat_lamp_brown, %s Flat Lamp
-complex-logic:cage_lamp_pink_inverted, %s Inverted Cage Lamp
-complex-logic:cage_lamp_purple, %s Cage Lamp
-complex-logic:cage_lamp_black, %s Cage Lamp
-complex-logic:flat_lamp_lime_inverted, %s Inverted Flat Lamp
-complex-logic:flat_lamp_blue_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_green, %s Lamp
-complex-logic:cage_lamp_gray, %s Cage Lamp
-complex-logic:color_lamp_black_inverted, %s Inverted Lamp
-complex-logic:color_lamp_light_blue, %s Lamp
-complex-logic:flat_lamp_cyan_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_white, %s Lamp
-complex-logic:cage_lamp_orange_inverted, %s Inverted Cage Lamp
-complex-logic:flat_lamp_blue, %s Flat Lamp
-complex-logic:cage_lamp_pink, %s Cage Lamp
-complex-logic:color_lamp_pink, %s Lamp
-complex-logic:flat_lamp_silver_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_brown_inverted, %s Inverted Cage Lamp
-complex-logic:cage_lamp_magenta, %s Cage Lamp
-complex-logic:color_lamp_cyan, %s Lamp
-complex-logic:color_lamp_red_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_green_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_magenta, %s Lamp
-complex-logic:flat_lamp_magenta_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_gray_inverted, %s Inverted Lamp
-complex-logic:color_lamp_green_inverted, %s Inverted Lamp
-complex-logic:color_lamp_brown_inverted, %s Inverted Lamp
-complex-logic:color_lamp_gray, %s Lamp
-complex-logic:color_lamp_silver_inverted, %s Inverted Lamp
-complex-logic:color_lamp_silver, %s Lamp
-complex-logic:cage_lamp_white_inverted, %s Inverted Cage Lamp
-complex-logic:flat_lamp_light_blue_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_light_blue, %s Cage Lamp
-complex-logic:cage_lamp_blue_inverted, %s Inverted Cage Lamp
-complex-logic:flat_lamp_light_blue, %s Flat Lamp
-complex-logic:cage_lamp_blue, %s Cage Lamp
-complex-logic:flat_lamp_silver, %s Flat Lamp
-complex-logic:flat_lamp_purple, %s Flat Lamp
-complex-logic:color_lamp_light_blue_inverted, %s Inverted Lamp
 complex-logic:cage_lamp_yellow_inverted, %s Inverted Cage Lamp
-complex-logic:flat_lamp_yellow, %s Flat Lamp
-complex-logic:flat_lamp_green, %s Flat Lamp
-complex-logic:cage_lamp_brown, %s Cage Lamp
-complex-logic:color_lamp_yellow, %s Lamp
-complex-logic:flat_lamp_brown_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_silver_inverted, %s Inverted Cage Lamp
-complex-logic:cage_lamp_lime_inverted, %s Inverted Cage Lamp
-complex-logic:color_lamp_blue_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_black, %s Flat Lamp
-complex-logic:color_lamp_magenta_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_yellow_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_lime, %s Cage Lamp
-complex-logic:cage_lamp_red, %s Cage Lamp
-complex-logic:cage_lamp_cyan, %s Cage Lamp
-complex-logic:color_lamp_white_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_lime, %s Flat Lamp
-complex-logic:cage_lamp_gray_inverted, %s Inverted Cage Lamp
-complex-logic:cage_lamp_purple_inverted, %s Inverted Cage Lamp
-complex-logic:cage_lamp_magenta_inverted, %s Inverted Cage Lamp
-complex-logic:color_lamp_black, %s Lamp
-complex-logic:flat_lamp_orange_inverted, %s Inverted Flat Lamp
-complex-logic:flat_lamp_pink, %s Flat Lamp
-complex-logic:cage_lamp_yellow, %s Cage Lamp
-complex-logic:flat_lamp_gray_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_orange, %s Cage Lamp
-complex-logic:flat_lamp_magenta, %s Flat Lamp
-complex-logic:flat_lamp_orange, %s Flat Lamp
-complex-logic:color_lamp_cyan_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_white_inverted, %s Inverted Flat Lamp
-complex-logic:flat_lamp_red, %s Flat Lamp
-complex-logic:flat_lamp_red_inverted, %s Inverted Flat Lamp
-complex-logic:color_lamp_orange_inverted, %s Inverted Lamp
-complex-logic:color_lamp_lime_inverted, %s Inverted Lamp
-complex-logic:flat_lamp_pink_inverted, %s Inverted Flat Lamp
-complex-logic:cage_lamp_red_inverted, %s Inverted Cage Lamp
-complex-logic:color_lamp_red, %s Lamp
-complex-logic:flat_lamp_white, %s Flat Lamp
-complex-logic:color_lamp_blue, %s Lamp
-complex-logic:flat_lamp_gray, %s Flat Lamp
-complex-logic:cage_lamp_light_blue_inverted, %s Inverted Cage Lamp
 complex-logic:cage_lamp_black_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_white, %s Flat Lamp
+complex-logic:flat_lamp_yellow_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_silver_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_orange_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_yellow, %s Flat Lamp
+complex-logic:color_lamp_orange_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_brown_inverted, %s Inverted Cage Lamp
+complex-logic:cage_lamp_light_blue_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_brown, %s Flat Lamp
+complex-logic:flat_lamp_gray_inverted, %s Inverted Flat Lamp
 complex-logic:color_lamp_brown, %s Lamp
-complex-logic:cage_lamp_white, %s Cage Lamp
-complex-logic:color_lamp_yellow_inverted, %s Inverted Lamp
-complex-logic:color_lamp_lime, %s Lamp
+complex-logic:cage_lamp_lime, %s Cage Lamp
+complex-logic:color_lamp_purple_inverted, %s Inverted Lamp
+complex-logic:color_lamp_white, %s Lamp
+complex-logic:color_lamp_red_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_magenta, %s Cage Lamp
+complex-logic:color_lamp_green_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_white_inverted, %s Inverted Cage Lamp
+complex-logic:cage_lamp_gray, %s Cage Lamp
+complex-logic:flat_lamp_orange, %s Flat Lamp
+complex-logic:cage_lamp_green, %s Cage Lamp
+complex-logic:color_lamp_lime_inverted, %s Inverted Lamp
+complex-logic:color_lamp_blue, %s Lamp
+complex-logic:cage_lamp_gray_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_gray, %s Flat Lamp
+complex-logic:color_lamp_cyan_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_lime_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_red_inverted, %s Inverted Flat Lamp
+complex-logic:cage_lamp_silver, %s Cage Lamp
+complex-logic:cage_lamp_magenta_inverted, %s Inverted Cage Lamp
 complex-logic:color_lamp_pink_inverted, %s Inverted Lamp
-complex-logic:cage_lamp_cyan_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_purple, %s Flat Lamp
+complex-logic:cage_lamp_light_blue, %s Cage Lamp
+complex-logic:cage_lamp_purple_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_black_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_cyan, %s Flat Lamp
 complex-logic:color_lamp_purple, %s Lamp
+complex-logic:cage_lamp_black, %s Cage Lamp
+complex-logic:flat_lamp_silver, %s Flat Lamp
+complex-logic:color_lamp_magenta_inverted, %s Inverted Lamp
+complex-logic:flat_lamp_lime_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_cyan_inverted, %s Inverted Flat Lamp
+complex-logic:color_lamp_green, %s Lamp
+complex-logic:color_lamp_black, %s Lamp
+complex-logic:cage_lamp_orange_inverted, %s Inverted Cage Lamp
+complex-logic:cage_lamp_blue_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_black, %s Flat Lamp
+complex-logic:cage_lamp_green_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_green_inverted, %s Inverted Flat Lamp
+complex-logic:color_lamp_silver, %s Lamp
+complex-logic:color_lamp_cyan, %s Lamp
+complex-logic:color_lamp_gray_inverted, %s Inverted Lamp
+complex-logic:color_lamp_brown_inverted, %s Inverted Lamp
+complex-logic:color_lamp_yellow_inverted, %s Inverted Lamp
+complex-logic:color_lamp_red, %s Lamp
+complex-logic:cage_lamp_white, %s Cage Lamp
+complex-logic:cage_lamp_orange, %s Cage Lamp
+complex-logic:cage_lamp_brown, %s Cage Lamp
+complex-logic:flat_lamp_light_blue, %s Flat Lamp
+complex-logic:color_lamp_gray, %s Lamp
+complex-logic:color_lamp_white_inverted, %s Inverted Lamp
+complex-logic:flat_lamp_white_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_brown_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_green, %s Flat Lamp
+complex-logic:color_lamp_lime, %s Lamp
+complex-logic:color_lamp_blue_inverted, %s Inverted Lamp
+complex-logic:color_lamp_orange, %s Lamp
+complex-logic:flat_lamp_blue_inverted, %s Inverted Flat Lamp
+complex-logic:flat_lamp_pink_inverted, %s Inverted Flat Lamp
+complex-logic:cage_lamp_cyan_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_magenta, %s Flat Lamp
+complex-logic:color_lamp_magenta, %s Lamp
+complex-logic:color_lamp_silver_inverted, %s Inverted Lamp
+complex-logic:color_lamp_black_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_purple, %s Cage Lamp
+complex-logic:flat_lamp_blue, %s Flat Lamp
+complex-logic:flat_lamp_purple_inverted, %s Inverted Flat Lamp
+complex-logic:color_lamp_light_blue, %s Lamp
+complex-logic:flat_lamp_magenta_inverted, %s Inverted Flat Lamp
+complex-logic:color_lamp_pink, %s Lamp
+complex-logic:cage_lamp_pink, %s Cage Lamp
+complex-logic:cage_lamp_red_inverted, %s Inverted Cage Lamp
+complex-logic:cage_lamp_pink_inverted, %s Inverted Cage Lamp
+complex-logic:flat_lamp_lime, %s Flat Lamp
+complex-logic:cage_lamp_blue, %s Cage Lamp
+complex-logic:flat_lamp_red, %s Flat Lamp
+complex-logic:color_lamp_light_blue_inverted, %s Inverted Lamp
+complex-logic:cage_lamp_cyan, %s Cage Lamp
+complex-logic:color_lamp_yellow, %s Lamp
+complex-logic:flat_lamp_light_blue_inverted, %s Inverted Flat Lamp
+complex-logic:cage_lamp_yellow, %s Cage Lamp
+complex-logic:flat_lamp_pink, %s Flat Lamp
+complex-logic:cage_lamp_red, %s Cage Lamp
+complex-logic:cage_lamp_silver_inverted, %s Inverted Cage Lamp
 complex-logic:hex_book, Hex Editor
 fancylamps:arcane_gem:0, Blank Arcane Gem
 fancylamps:arcane_gem:1, Corrupt Arcane Gem
@@ -21995,6 +22095,8 @@ harvestcraft:sisalitem, Sisal
 harvestcraft:sisalseeditem, Sisal Seed
 harvestcraft:taroitem, Taro
 harvestcraft:taroseeditem, Taro Seed
+harvestcraft:tomatilloitem, Tomatillo
+harvestcraft:tomatilloseeditem, Tomatillo Seed
 harvestcraft:date_sapling, Date Sapling
 harvestcraft:dateitem, Date
 harvestcraft:pamdate, Date
