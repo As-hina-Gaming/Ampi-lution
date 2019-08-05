@@ -28,6 +28,7 @@
 * FTB Utilities: 5.4.0.100
 * Galacticraft Core: 4.0.2.224
 * Galacticraft Planets: 4.0.2.224
+* Galaxy Space: 2.0.9
 * Iron Chests: 7.0.72.847
 * Just Enough Calculation: 3.2.0
 * Just Enough Items: 4.15.0.287
@@ -43,6 +44,7 @@
 * Xaero's Minimap (Fair-play Edition): 1.17.4
 
 #### Updated APIs/Cores/Libraries:
+* AsmodeusCore: 0.0.9
 * Charset Lib: 0.5.6.3
 * EnderCore: 0.5.65
 * FTB Library: 5.4.3.130
