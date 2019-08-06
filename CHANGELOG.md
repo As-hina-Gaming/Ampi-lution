@@ -7,6 +7,7 @@
 * Better Advancements
 * Bloodmoon
 * Charset Tweaks
+* Custom Backgrounds
 * Custom Main Menu
 * Default Options
 * Just Enough Reactors
