@@ -12,6 +12,10 @@
     {
       "name": "scripts",
       "client-only": false
+    },
+    {
+      "name": "oresources",
+      "client-only": true
     }
   ],
   "client-only-mods": [
