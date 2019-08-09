@@ -87,7 +87,19 @@
   ],
   "client-only-configs": [
     {
+      "name": "betteradvancements",
+      "folder": true
+    },
+    {
       "name": "BlockDrops",
+      "folder": true
+    },
+    {
+      "name": "CustomMainMenu",
+      "folder": true
+    },
+    {
+      "name": "defaultoptions",
       "folder": true
     },
     {
@@ -98,6 +110,14 @@
       "name": "jeresources",
       "folder": true
     },
+    {
+      "name": "custombackgrounds.cfg",
+      "folder": false
+    },
+    {
+      "name": "defaultoptions.cfg",
+      "folder": false
+    }
     {
       "name": "itlt.cfg",
       "folder": false
