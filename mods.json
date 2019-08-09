@@ -33,7 +33,7 @@
       "name": "Custom Backgrounds",
       "version": "1.1.1",
       "link": "https://media.forgecdn.net/files/2445/809/CustomBackgrounds-MC1.12-1.1.1.jar"
-    }
+    },
     {
       "name": "Custom Main Menu",
       "version": "2.0.9",
@@ -117,7 +117,7 @@
     {
       "name": "defaultoptions.cfg",
       "folder": false
-    }
+    },
     {
       "name": "itlt.cfg",
       "folder": false
