@@ -4,7 +4,7 @@
         "title":
         {
             "image" : "ampilution:logo.png",
-            "posX" : 0,
+            "posX" : 3,
             "posY" : -77,
             "width" : 336,
             "height" : 200,
@@ -17,9 +17,8 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "normalTextColor": 130814,
-            "hoverTextColor": 107518,
-            "texture": "ampilution:buttons/long.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16777045,
             "posX" : 5,
             "posY" : -96,
             "width" : 200,
@@ -35,9 +34,8 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "normalTextColor": 130814,
-            "hoverTextColor": 107518,
-            "texture": "ampilution:buttons/long.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16777045,
             "posX" : 5,
             "posY" : -72,
             "width" : 200,
@@ -53,9 +51,8 @@
         "options":
         {
             "text" : "menu.options",
-            "normalTextColor": 130814,
-            "hoverTextColor": 107518,
-            "texture": "ampilution:buttons/long.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16777045,
             "posX" : 5,
             "posY" : -48,
             "width" : 200,
@@ -71,7 +68,6 @@
         "language":
         {
             "text" : "",
-            "texture": "ampilution:buttons/lang.png",
             "posX" : 5,
             "posY" : -24,
             "width" : 20,
@@ -87,9 +83,8 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "normalTextColor": 130814,
-            "hoverTextColor": 107518,
-            "texture": "ampilution:buttons/medium.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16777045,
             "posX" : 29,
             "posY" : -24,
             "width" : 86,
@@ -105,9 +100,8 @@
         "quit":
         {
             "text" : "menu.quit",
-            "normalTextColor": 130814,
-            "hoverTextColor": 107518,
-            "texture": "ampilution:buttons/medium.png",
+            "normalTextColor": 16777215,
+            "hoverTextColor": 16777045,
             "posX" : 119,
             "posY" : -24,
             "width" : 86,
@@ -127,8 +121,8 @@
             "text" : "Alpha 0.24.0",
             "posX" : -3,
             "posY" : -42,
-            "color" : 130814,
-            "hoverColor" : 107518,
+            "color" : 240116,
+            "hoverColor" : 9489401,
             "anchor" : "end",
             "alignment" : "bottom_right"
         },
@@ -138,8 +132,8 @@
             "text" : "Mods active #modsactive#",
             "posX" : -3,
             "posY" : -32,
-            "color" : 130814,
-            "hoverColor" : 107518,
+            "color" : 240116,
+            "hoverColor" : 9489401,
             "anchor" : "end",
             "alignment" : "bottom_right"
         },
@@ -149,8 +143,8 @@
             "text" : "Mods loaded #modsloaded#",
             "posX" : -3,
             "posY" : -22,
-            "color" : 130814,
-            "hoverColor" : 107518,
+            "color" : 240116,
+            "hoverColor" : 9489401,
             "anchor" : "end",
             "alignment" : "bottom_right"
         },
@@ -160,8 +154,8 @@
             "text" : "Forge #forgeversion#",
             "posX" : -3,
             "posY" : -12,
-            "color" : 130814,
-            "hoverColor" : 107518,
+            "color" : 240116,
+            "hoverColor" : 9489401,
             "anchor" : "end",
             "alignment" : "bottom_right"
         }
