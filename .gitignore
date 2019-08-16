@@ -1,2 +1,5 @@
 
-*.zip
+client.zip
+server.zip
+
+*.bat
