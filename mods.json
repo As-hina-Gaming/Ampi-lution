@@ -16,6 +16,10 @@
     {
       "name": "oresources",
       "client-only": true
+    },
+    {
+      "name": "resources",
+      "client-only": true
     }
   ],
   "client-only-mods": [
@@ -325,11 +329,6 @@
       "link": "https://media.forgecdn.net/files/2756/641/GalaxySpace-1.12.2-2.0.10.jar"
     },
     {
-      "name": "Hwyla",
-      "version": "1.8.26-B41",
-      "link": "https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
-    },
-    {
       "name": "Industrial Foregoing",
       "version": "1.12.12-236",
       "link": "https://media.forgecdn.net/files/2699/878/industrialforegoing-1.12.2-1.12.12-236.jar"
@@ -408,6 +407,11 @@
       "name": "MrCrayfish's Furniture Mod",
       "version": "6.3.1",
       "link": "https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar"
+    },
+    {
+      "name": "One Probe, The",
+      "version": "1.4.28",
+      "link": "https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar"
     },
     {
       "name": "OpenBlocks",
@@ -505,14 +509,14 @@
       "link": "https://media.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
     },
     {
+      "name": "TOP Addons",
+      "version": "1.11.0",
+      "link": "https://media.forgecdn.net/files/2698/797/topaddons-1.12.2-1.11.0-sources.jar"
+    },
+    {
       "name": "UniDict",
       "version": "2.9.2",
       "link": "https://media.forgecdn.net/files/2652/588/UniDict-1.12.2-2.9.2.jar"
-    },
-    {
-      "name": "Wawla - What Are We Looking At",
-      "version": "2.5.273",
-      "link": "https://media.forgecdn.net/files/2707/185/Wawla-1.12.2-2.5.273.jar"
     },
     {
       "name": "Wireless Crafting Terminal",
