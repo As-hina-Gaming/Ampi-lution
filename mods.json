@@ -44,9 +44,9 @@
       "link": "https://media.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar"
     },
     {
-      "name": "It's the little things",
-      "version": "1.0.0",
-      "link": "https://media.forgecdn.net/files/2432/201/itlt-1.12-1.0.0.jar"
+      "name": "Featured Servers",
+      "version": "1.0.6",
+      "link": "https://media.forgecdn.net/files/2634/364/FeaturedServers-1.12-1.0.6.jar"
     },
     {
       "name": "Just Enough Energistics",
@@ -102,7 +102,7 @@
       "folder": true
     },
     {
-      "name": "itlt",
+      "name": "FeaturedServers",
       "folder": true
     },
     {
@@ -111,10 +111,6 @@
     },
     {
       "name": "defaultoptions.cfg",
-      "folder": false
-    },
-    {
-      "name": "itlt.cfg",
       "folder": false
     },
     {
