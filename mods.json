@@ -320,6 +320,11 @@
       "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/224/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.224.jar"
     },
     {
+      "name": "Galacticraft Tweaker",
+      "version": "1.0.3",
+      "link": "https://media.forgecdn.net/files/2647/978/GalacticraftTweaker-1.12.2-1.0.3.jar"
+    },
+    {
       "name": "Galaxy Space",
       "version": "2.0.10",
       "link": "https://media.forgecdn.net/files/2756/641/GalaxySpace-1.12.2-2.0.10.jar"
