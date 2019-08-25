@@ -339,11 +339,6 @@
       "link": "https://media.forgecdn.net/files/2484/246/infinitefluids-1.11-1.2.0.jar"
     },
     {
-      "name": "InstandUnify",
-      "version": "1.1.2",
-      "link": "https://media.forgecdn.net/files/2578/325/instantunify-1.12.2-1.1.2.jar"
-    },
-    {
       "name": "Integration Foregoing",
       "version": "1.9",
       "link": "https://media.forgecdn.net/files/2676/458/IntegrationForegoing-1.12.2-1.9.jar"
@@ -514,11 +509,6 @@
       "link": "https://media.forgecdn.net/files/2698/797/topaddons-1.12.2-1.11.0-sources.jar"
     },
     {
-      "name": "UniDict",
-      "version": "2.9.2",
-      "link": "https://media.forgecdn.net/files/2652/588/UniDict-1.12.2-2.9.2.jar"
-    },
-    {
       "name": "Wireless Crafting Terminal",
       "version": "3.12.93",
       "link": "https://media.forgecdn.net/files/2725/872/WirelessCraftingTerminal-1.12.2-3.12.93.jar"
@@ -676,11 +666,6 @@
       "name": "Tesla Core Lib",
       "version": "1.0.15.13",
       "link": "https://media.forgecdn.net/files/2580/52/tesla-core-lib-1.12.2-1.0.15.jar"
-    },
-    {
-      "name": "WanionLib",
-      "version": "2.2",
-      "link": "https://media.forgecdn.net/files/2651/482/WanionLib-1.12.2-2.2.jar"
     },
     {
       "name": "ZeroCore",
