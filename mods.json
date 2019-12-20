@@ -529,13 +529,13 @@
   "apis": [
     {
       "name": "AE2 Wireless Terminal Library",
-      "version": "1.0.30",
-      "link": "https://media.forgecdn.net/files/2726/967/AE2WTLib-1.12.2-1.0.30.jar"
+      "version": "1.0.34",
+      "link": "https://media.forgecdn.net/files/2830/114/AE2WTLib-1.12.2-1.0.34.jar"
     },
     {
       "name": "AsmodeusCore",
-      "version": "0.0.10",
-      "link": "https://media.forgecdn.net/files/2756/508/AsmodeusCore-1.12.2-0.0.10.jar"
+      "version": "0.0.12",
+      "link": "https://media.forgecdn.net/files/2845/150/AsmodeusCore-1.12.2-0.0.12.jar"
     },
     {
       "name": "BdLib",
@@ -550,13 +550,13 @@
     },
     {
       "name": "Charset Lib",
-      "version": "0.5.6.3",
-      "link": "https://media.forgecdn.net/files/2754/600/Charset-Lib-0.5.6.3.jar"
+      "version": "0.5.6.4",
+      "link": "https://media.forgecdn.net/files/2816/636/Charset-Lib-0.5.6.4.jar"
     },
     {
       "name": "CodeChicken Lib 1.8+",
-      "version": "3.2.2.353",
-      "link": "https://media.forgecdn.net/files/2618/630/CodeChickenLib-1.12.2-3.2.2.353-universal.jar"
+      "version": "3.2.3.358",
+      "link": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
     },
     {
       "name": "CoFH Core",
@@ -570,23 +570,23 @@
     },
     {
       "name": "ConnectedTexturesMod",
-      "version": "0.3.3.22",
-      "link": "https://media.forgecdn.net/files/2642/375/CTM-MC1.12.2-0.3.3.22.jar"
+      "version": "1.0.1.30",
+      "link": "https://media.forgecdn.net/files/2832/564/CTM-MC1.12.2-1.0.1.30.jar"
     },
     {
       "name": "EnderCore",
-      "version": "0.5.65",
-      "link": "https://media.forgecdn.net/files/2744/56/EnderCore-1.12.2-0.5.65.jar"
+      "version": "0.5.73",
+      "link": "https://media.forgecdn.net/files/2822/401/EnderCore-1.12.2-0.5.73.jar"
     },
     {
       "name": "FTB Library",
-      "version": "5.4.3.130",
-      "link": "https://media.forgecdn.net/files/2747/793/FTBLib-5.4.3.130.jar"
+      "version": "5.4.4.5",
+      "link": "https://media.forgecdn.net/files/2832/410/FTBLib-5.4.4.5.jar"
     },
     {
       "name": "Item Filters",
-      "version": "1.0.3.12",
-      "link": "https://media.forgecdn.net/files/2699/980/ItemFilters-1.0.3.12.jar"
+      "version": "2.1.0.5",
+      "link": "https://media.forgecdn.net/files/2839/129/item-filters-2.1.0.5.jar"
     },
     {
       "name": "Mantle",
@@ -595,8 +595,8 @@
     },
     {
       "name": "McHorse's McLib",
-      "version": "1.0.3",
-      "link": "https://media.forgecdn.net/files/2743/782/mclib-1.0.3-1.12.2.jar"
+      "version": "1.0.4",
+      "link": "https://media.forgecdn.net/files/2843/154/mclib-1.0.4-1.12.2.jar"
     },
     {
       "name": "McJtyLib",
@@ -610,8 +610,8 @@
     },
     {
       "name": "MicdoodleCore",
-      "version": "4.0.2.224",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/224/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.224.jar"
+      "version": "4.0.2.239",
+      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.239.jar"
     },
     {
       "name": "More Libs",
@@ -620,8 +620,8 @@
     },
     {
       "name": "MJRLegends Lib",
-      "version": "1.1.8",
-      "link": "https://media.forgecdn.net/files/2658/272/MJRLegendsLib-1.12.2-1.1.8.jar"
+      "version": "1.1.9",
+      "link": "https://media.forgecdn.net/files/2793/580/MJRLegendsLib-1.12.2-1.1.9.jar"
     },
     {
       "name": "MTLib",
@@ -630,8 +630,8 @@
     },
     {
       "name": "MysticalLib",
-      "version": "1.3.1",
-      "link": "https://media.forgecdn.net/files/2735/893/mysticallib-1.12.2-1.3.1.jar"
+      "version": "1.4.0",
+      "link": "https://media.forgecdn.net/files/2817/910/mysticallib-1.12.2-1.4.0.jar"
     },
     {
       "name": "OpenBlocksLib",
@@ -640,8 +640,8 @@
     },
     {
       "name": "p455w0rd's Library",
-      "version": "2.2.156",
-      "link": "https://media.forgecdn.net/files/2745/46/p455w0rdslib-1.12.2-2.2.156.jar"
+      "version": "2.3.161",
+      "link": "https://media.forgecdn.net/files/2830/265/p455w0rdslib-1.12.2-2.3.161.jar"
     },
     {
       "name": "Redstone Flux",
@@ -650,8 +650,8 @@
     },
     {
       "name": "Shadowfacts' Forgelin",
-      "version": "1.8.3",
-      "link": "https://media.forgecdn.net/files/2727/70/Forgelin-1.8.3.jar"
+      "version": "1.8.4",
+      "link": "https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
     },
     {
       "name": "Sonar Core",
@@ -660,8 +660,8 @@
     },
     {
       "name": "SteveKunG's Lib",
-      "version": "1.1.3",
-      "link": "https://media.forgecdn.net/files/2757/225/SteveKunG%27s-Lib-1.12.2-1.1.3.jar"
+      "version": "1.1.5",
+      "link": "https://media.forgecdn.net/files/2785/694/SteveKunG%27s-Lib-1.12.2-1.1.5.jar"
     },
     {
       "name": "Tesla Core Lib",
