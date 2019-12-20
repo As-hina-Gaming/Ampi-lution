@@ -50,13 +50,13 @@
     },
     {
       "name": "Just Enough Energistics",
-      "version": "1.0.7",
-      "link": "https://media.forgecdn.net/files/2726/897/JustEnoughEnergistics-1.12.2-1.0.7.jar"
+      "version": "1.0.8",
+      "link": "https://media.forgecdn.net/files/2783/832/JustEnoughEnergistics-1.12.2-1.0.8.jar"
     },
     {
       "name": "Just Enough HarvestCraft",
-      "version": "1.6.4",
-      "link": "https://media.forgecdn.net/files/2723/786/jehc-1.12.2-1.6.4.jar"
+      "version": "1.6.6",
+      "link": "https://media.forgecdn.net/files/2823/958/just-enough-harvestcraft-1.12.2-1.6.6.jar"
     },
     {
       "name": "Just Enough Reactors",
@@ -166,8 +166,8 @@
     },
     {
       "name": "Biomes O' Plenty",
-      "version": "7.0.1.2439",
-      "link": "https://media.forgecdn.net/files/2711/162/BiomesOPlenty-1.12.2-7.0.1.2439-universal.jar"
+      "version": "7.0.1.2441",
+      "link": "https://media.forgecdn.net/files/2715/506/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
     },
     {
       "name": "Blockcraftery",
@@ -196,8 +196,8 @@
     },
     {
       "name": "Chisel",
-      "version": "0.2.1.35",
-      "link": "https://media.forgecdn.net/files/2619/468/Chisel-MC1.12.2-0.2.1.35.jar"
+      "version": "1.0.1.44",
+      "link": "https://media.forgecdn.net/files/2813/538/Chisel-MC1.12.2-1.0.1.44.jar"
     },
     {
       "name": "Chisels & Bits",
@@ -211,48 +211,48 @@
     },
     {
       "name": "Contruct's Armory",
-      "version": "1.2.4",
-      "link": "https://media.forgecdn.net/files/2718/520/conarm-1.12.2-1.2.4.jar"
+      "version": "1.2.5.3",
+      "link": "https://media.forgecdn.net/files/2821/527/conarm-1.12.2-1.2.5.3.jar"
     },
     {
       "name": "CraftTweaker2",
-      "version": "4.1.19",
-      "link": "https://media.forgecdn.net/files/2724/129/CraftTweaker2-1.12-4.1.19.jar"
+      "version": "4.1.20",
+      "link": "https://media.forgecdn.net/files/2838/90/CraftTweaker2-1.12-4.1.20.jar"
     },
     {
       "name": "Ender IO AE2 Conduits",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/830/EnderIO-conduits-appliedenergistics-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/862/EnderIO-conduits-appliedenergistics-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender IO Base",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/827/EnderIO-base-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/859/EnderIO-base-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender IO Conduits",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/829/EnderIO-conduits-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/861/EnderIO-conduits-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender IO Machines",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/828/EnderIO-machines-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/860/EnderIO-machines-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender IO TiC",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/834/EnderIO-integration-tic-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/866/EnderIO-integration-tic-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender IO Zoo",
-      "version": "5.0.49",
-      "link": "https://media.forgecdn.net/files/2752/835/EnderIO-zoo-1.12.2-5.0.49.jar"
+      "version": "5.1.52",
+      "link": "https://media.forgecdn.net/files/2809/867/EnderIO-zoo-1.12.2-5.1.52.jar"
     },
     {
       "name": "Ender Storage 1.8+",
-      "version": "2.4.5.135",
-      "link": "https://media.forgecdn.net/files/2594/243/EnderStorage-1.12.2-2.4.5.135-universal.jar"
+      "version": "2.4.6.137",
+      "link": "https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar"
     },
     {
       "name": "Ender Tweaker",
@@ -271,8 +271,8 @@
     },
     {
       "name": "ExtraPlanets",
-      "version": "0.5.5",
-      "link": "https://media.forgecdn.net/files/2752/707/ExtraPlanets-1.12.2-0.5.5.jar"
+      "version": "0.6.0",
+      "link": "https://media.forgecdn.net/files/2837/413/ExtraPlanets-1.12.2-0.6.0.jar"
     },
     {
       "name": "Extreme Reactors",
@@ -291,33 +291,33 @@
     },
     {
       "name": "Flux Networks",
-      "version": "3.0.19",
-      "link": "https://media.forgecdn.net/files/2645/165/fluxnetworks-1.12.2-3.0.19-21.jar"
+      "version": "4.0.14",
+      "link": "https://media.forgecdn.net/files/2842/381/fluxnetworks-1.12.2-4.0.14-31.jar"
     },
     {
       "name": "Forestry",
-      "version": "5.8.2.392",
-      "link": "https://media.forgecdn.net/files/2752/45/forestry_1.12.2-5.8.2.392.jar"
+      "version": "5.8.2.409",
+      "link": "https://media.forgecdn.net/files/2824/425/forestry_1.12.2-5.8.2.409.jar"
     },
     {
       "name": "FTB Quests",
-      "version": "1.7.2.189",
-      "link": "https://media.forgecdn.net/files/2752/698/FTBQuests-1.7.2.189.jar"
+      "version": "1.8.0.237",
+      "link": "https://media.forgecdn.net/files/2827/655/FTBQuests-1.8.0.237.jar"
     },
     {
       "name": "FTP Utilities",
-      "version": "5.4.0.100",
-      "link": "https://media.forgecdn.net/files/2734/166/FTBUtilities-5.4.0.100.jar"
+      "version": "5.4.0.124",
+      "link": "https://media.forgecdn.net/files/2835/289/FTBUtilities-5.4.0.124.jar"
     },
     {
       "name": "Galacticraft Core",
-      "version": "4.0.2.224",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/224/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.224.jar"
+      "version": "4.0.2.239",
+      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.239.jar"
     },
     {
       "name": "Galacticraft Planets",
-      "version": "4.0.2.224",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/224/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.224.jar"
+      "version": "4.0.2.239",
+      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.239.jar"
     },
     {
       "name": "Galacticraft Tweaker",
@@ -326,13 +326,13 @@
     },
     {
       "name": "Galaxy Space",
-      "version": "2.0.10",
-      "link": "https://media.forgecdn.net/files/2756/641/GalaxySpace-1.12.2-2.0.10.jar"
+      "version": "2.0.11",
+      "link": "https://media.forgecdn.net/files/2845/164/GalaxySpace-1.12.2-2.0.11.jar"
     },
     {
       "name": "Industrial Foregoing",
-      "version": "1.12.12-236",
-      "link": "https://media.forgecdn.net/files/2699/878/industrialforegoing-1.12.2-1.12.12-236.jar"
+      "version": "1.12.13-237",
+      "link": "https://media.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
     },
     {
       "name": "InfiniteFluids",
@@ -356,13 +356,13 @@
     },
     {
       "name": "Just Enough Calculation",
-      "version": "3.2.0",
-      "link": "https://media.forgecdn.net/files/2736/490/JustEnoughCalculation-1.12.2-3.2.0.jar"
+      "version": "3.2.3",
+      "link": "https://media.forgecdn.net/files/2845/582/JustEnoughCalculation-1.12.2-3.2.3.jar"
     },
     {
       "name": "Just Enough Items",
-      "version": "4.15.0.287",
-      "link": "https://media.forgecdn.net/files/2739/588/jei_1.12.2-4.15.0.287.jar"
+      "version": "4.15.0.291",
+      "link": "https://media.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar"
     },
     {
       "name": "Just Enough Pattern Banners",
@@ -371,8 +371,8 @@
     },
     {
       "name": "Metamorph",
-      "version": "1.1.8",
-      "link": "https://media.forgecdn.net/files/2713/981/metamorph-1.1.8-1.12.2.jar"
+      "version": "1.1.10",
+      "link": "https://media.forgecdn.net/files/2843/166/metamorph-1.1.10-1.12.2.jar"
     },
     {
       "name": "ModTweaker",
@@ -381,8 +381,8 @@
     },
     {
       "name": "More Planets",
-      "version": "2.1.8",
-      "link": "https://media.forgecdn.net/files/2750/74/More-Planets-1.12.2-2.1.8-GC219.jar"
+      "version": "2.1.10",
+      "link": "https://media.forgecdn.net/files/2824/444/More-Planets-1.12.2-2.1.10-GC238.jar"
     },
     {
       "name": "More Planets Extras",
@@ -416,13 +416,13 @@
     },
     {
       "name": "Planet Progression",
-      "version": "0.3.7",
-      "link": "https://media.forgecdn.net/files/2746/578/PlanetProgression-1.12.2-0.3.7.jar"
+      "version": "0.3.9",
+      "link": "https://media.forgecdn.net/files/2843/482/PlanetProgression-1.12.2-0.3.9.jar"
     },
     {
       "name": "Pam's HarvestCraft",
-      "version": "1.12.2ze",
-      "link": "https://media.forgecdn.net/files/2751/199/Pam%27s+HarvestCraft+1.12.2ze.jar"
+      "version": "1.12.2zf",
+      "link": "https://media.forgecdn.net/files/2771/840/Pam%27s+HarvestCraft+1.12.2zf.jar"
     },
     {
       "name": "ProjectE",
@@ -431,8 +431,8 @@
     },
     {
       "name": "RandomPatches",
-      "version": "1.17.2.1",
-      "link": "https://media.forgecdn.net/files/2742/950/randompatches-1.12.2-1.17.2.1.jar"
+      "version": "1.20.1.0",
+      "link": "https://media.forgecdn.net/files/2831/330/randompatches-1.12.2-1.20.1.0.jar"
     },
     {
       "name": "RFTools",
@@ -456,18 +456,18 @@
     },
     {
       "name": "Simply Jetpacks 2",
-      "version": "2.2.12.65",
-      "link": "https://media.forgecdn.net/files/2709/952/SimplyJetpacks2-1.12.2-2.2.12.65.jar"
+      "version": "2.2.14.67",
+      "link": "https://media.forgecdn.net/files/2789/696/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
     },
     {
       "name": "Solar Flux Reborn",
-      "version": "4.32r",
-      "link": "https://media.forgecdn.net/files/2659/598/SolarFluxReborn_1.12.2-4.32r.jar"
+      "version": "4.35r",
+      "link": "https://media.forgecdn.net/files/2783/99/SolarFluxReborn_1.12.2-4.35r.jar"
     },
     {
       "name": "Storage Drawers",
-      "version": "5.3.8",
-      "link": "https://media.forgecdn.net/files/2642/386/StorageDrawers-1.12.2-5.3.8.jar"
+      "version": "5.4.0",
+      "link": "https://media.forgecdn.net/files/2777/929/StorageDrawers-1.12.2-5.4.0.jar"
     },
     {
       "name": "Storage Drawers Extras",
@@ -496,8 +496,8 @@
     },
     {
       "name": "Tinkers' Construct",
-      "version": "2.12.0.157",
-      "link": "https://media.forgecdn.net/files/2731/543/TConstruct-1.12.2-2.12.0.157.jar"
+      "version": "2.13.0.171",
+      "link": "https://media.forgecdn.net/files/2809/406/TConstruct-1.12.2-2.13.0.171.jar"
     },
     {
       "name": "Tinkers' Tool Leveling",
@@ -506,18 +506,18 @@
     },
     {
       "name": "TOP Addons",
-      "version": "1.11.0",
-      "link": "https://media.forgecdn.net/files/2698/797/topaddons-1.12.2-1.11.0-sources.jar"
+      "version": "1.12.0",
+      "link": "https://media.forgecdn.net/files/2823/642/topaddons-1.12.2-1.12.0.jar"
     },
     {
       "name": "Wireless Crafting Terminal",
-      "version": "3.12.93",
-      "link": "https://media.forgecdn.net/files/2725/872/WirelessCraftingTerminal-1.12.2-3.12.93.jar"
+      "version": "3.12.97",
+      "link": "https://media.forgecdn.net/files/2830/252/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
     },
     {
       "name": "Xaero's Minimap (Fair-play Edition)",
-      "version": "1.17.4",
-      "link": "https://media.forgecdn.net/files/2747/733/Xaeros_Minimap_FP1.17.4_Forge_1.12.jar"
+      "version": "1.19.3",
+      "link": "https://media.forgecdn.net/files/2845/295/Xaeros_Minimap_FP1.19.3_Forge_1.12.jar"
     },
     {
       "name": "XenCraft",
