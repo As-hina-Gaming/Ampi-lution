@@ -13,7 +13,9 @@
 * Custom Backgrounds
 * Custom Main Menu
 * Default Options
+* Galacticraft Tweaker
 * Just Enough Reactors
+* One Probe, The
 * Resource Loader
 
 #### Updated Mods:
@@ -62,6 +64,12 @@
 * Wireless Crafting Terminal: 3.12.97
 * Xaero's Minimap (Fair-play Edition): 1.19.3
 
+#### Removed Mods:
+* Hwyla
+* InstandUnify
+* It's the little things
+* UniDict
+
 #### Updated APIs/Cores/Libraries:
 * AE2 Wireless Terminal Library: 1.0.34
 * AsmodeusCore: 0.0.12
@@ -80,6 +88,43 @@
 * Shadowfacts' Forgelin: 1.8.4
 * SteveKunG's Lib: 1.1.5
 
+#### Config:
+* Added new Options from Mod-Updates and new Mods
+* Ender IO:
+  * Set Alloy Smelter to Alloy only Mode
+
+#### Scrips:
+* Unified Ores:
+  * Lunar Sapphire
+  * Silicon
+    * Switched to AE2 Silicon
+
+#### GUI:
+* Complete new GUI
+  * Main Menu
+  * Options Menu
+  * Pause Menu
+  * Serverselection
+  * Window-Icons
+  * Ingame HUD
+    * Armor-, HP-, XP- and Food-Bar
+    * Item-Bar & Second-Hand
+    * Horse-Bar
+    * The One Probe Info Screen
+  * Connection-Icon
+  * Vanilla-Inventory (incl. Creativ)
+  * Blocks:
+    * Minecraft:
+      * Brewing Stand
+      * Crafting Table
+      * Dispenser
+      * Furnace
+      * Chest & Shulker Box
+      * Hopper
+      * Horse
+
+#### Miscellaneous:
+* Updated recommended RAM-Usage to 8 GB
 
 ## 0.23.4.2
 
