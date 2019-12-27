@@ -2,6 +2,9 @@
 
 ## 0.24.0
 
+#### Updated Forge:
+* 14.23.5.2847
+
 #### Added Mods:
 * Auto Dropper
 * Better Advancements
@@ -15,46 +18,67 @@
 
 #### Updated Mods:
 * Applied Energistics 2: rv6-stable-7
+* Biomes O' Plenty: 7.0.1.2441
 * Charset Immersion: 0.5.6.0
 * ComplexLogic: 1.4.3
-* Ender IO AE2 Conduits: 5.0.49
-* Ender IO Base: 5.0.49
-* Ender IO Conduits: 5.0.49
-* Ender IO Machines: 5.0.49
-* Ender IO TiC: 5.0.49
-* Ender IO Zoo: 5.0.49
-* ExtraPlanets: 0.5.5
-* Forestry: 5.8.2.392
-* FTB Quests: 1.7.2.189
-* FTB Utilities: 5.4.0.100
-* Galacticraft Core: 4.0.2.224
-* Galacticraft Planets: 4.0.2.224
-* Galaxy Space: 2.0.9
+* Construct's Armory: 1.2.5.3
+* CraftTweaker2: 4.1.20
+* Ender IO AE2 Conduits: 5.1.52
+* Ender IO Base: 5.1.52
+* Ender IO Conduits: 5.1.52
+* Ender IO Machines: 5.1.52
+* Ender IO TiC: 5.1.52
+* Ender IO Zoo: 5.1.52
+* Ender Storage 1.8+: 2.4.6.137
+* ExtraPlanets: 0.6.0
+* Forestry: 5.8.2.409
+* FTB Quests: 1.8.0.237
+* FTB Utilities: 5.4.0.124
+* Galacticraft Core: 4.0.2.239
+* Galacticraft Planets: 4.0.2.239
+* Galaxy Space: 2.0.11
+* Industrial Foregoing: 1.12.13-237
 * Iron Chests: 7.0.72.847
-* Just Enough Calculation: 3.2.0
-* Just Enough Items: 4.15.0.287
+* Just Enough Calculation: 3.2.3
+* Just Enough Energistics: 1.0.8
+* Just Enough HarvestCraft: 1.6.6
+* Just Enough Items: 4.15.0.291
 * Just Enough Throwing In Fluids: 1.5.1
-* More Planets: 2.1.8
+* Metamorph: 1.1.10
+* More Planets: 2.1.10
 * MrCrayfish's Furniture Mod: 6.3.1
+* Pam's Harvestcraft: 1.12.2zf
 * Planet Progression: 0.3.7
 * Pam's Harvestcraft: 1.12.2ze
-* RandomPatches: 1.17.2.1
+* RandomPatches: 1.20.1.0
 * RFTools: 7.72
 * SimpleLogic Gates: 0.5.6.1
 * SimpleLogic Wires: 0.5.6.3
-* Xaero's Minimap (Fair-play Edition): 1.17.4
+* Simply Jetpacks 2: 2.2.14.67
+* Solar Flux Reborn: 4.35r
+* Storage Drawers: 5.4.0
+* Tinker's Construct: 2.13.0.171
+* TOP Addons: 1.12.0
+* Wireless Crafting Terminal: 3.12.97
+* Xaero's Minimap (Fair-play Edition): 1.19.3
 
 #### Updated APIs/Cores/Libraries:
-* AsmodeusCore: 0.0.9
-* Charset Lib: 0.5.6.3
-* EnderCore: 0.5.65
-* FTB Library: 5.4.3.130
-* McHorse's McLib: 1.0.3
+* AE2 Wireless Terminal Library: 1.0.34
+* AsmodeusCore: 0.0.12
+* Charset Lib: 0.5.6.4
+* CodeChicken Lib 1.8+: 3.2.3.358
+* ConnectedTexturesMod: 1.0.1.30
+* EnderCore: 0.5.73
+* FTB Library: 5.4.4.5
+* Item Filters: 1.0.3.12
+* McHorse's McLib: 1.0.4
 * McJtyLib: 3.5.4
-* MicdoodleCore: 4.0.2.224
-* MysticalLib: 1.3.1
-* p455w0rd's Library: 2.2.156
-* SteveKunG's Lib: 1.1.2
+* MicdoodleCore: 4.0.2.239
+* MJRLegends Lib: 1.1.9
+* MysticalLib: 1.4.0
+* p455w0rd's Library: 2.3.161
+* Shadowfacts' Forgelin: 1.8.4
+* SteveKunG's Lib: 1.1.5
 
 
 ## 0.23.4.2
