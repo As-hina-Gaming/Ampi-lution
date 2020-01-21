@@ -95,9 +95,13 @@
 
 #### Scrips:
 * Unified Ores:
+  * Cobalt
   * Lunar Sapphire
   * Silicon
     * Switched to AE2 Silicon
+  * Block of Charcoal
+    * Using that one from Forestry
+* Reorganized Scripts with global functions
 
 #### GUI:
 * Complete new GUI
