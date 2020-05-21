@@ -87,7 +87,7 @@
 
 #### Updated APIs/Cores/Libraries:
 * AE2 Wireless Terminal Library: 1.0.34
-* AsmodeusCore: 0.0.16
+* AsmodeusCore: 0.0.14
 * Charset Lib: 0.5.6.4
 * CodeChicken Lib 1.8+: 3.2.3.358
 * CoFH Core: 4.6.6.1
