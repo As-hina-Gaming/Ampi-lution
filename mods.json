@@ -1,8 +1,8 @@
 {
   "modpack": "Ampi'lution",
   "forge": {
-    "version": "14.23.5.2847",
-    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+    "version": "14.23.5.2854",
+    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
   },
   "mc-server": {
     "version": "1.12.2",
