@@ -49,6 +49,16 @@
       "link": "https://media.forgecdn.net/files/2432/424/ChunkAnimator-MC1.12-1.2.jar"
     },
     {
+      "name": "Controlling",
+      "version": "3.0.9",
+      "link": "https://media.forgecdn.net/files/2926/366/Controlling-3.0.9.jar"
+    },
+    {
+      "name": "Cursor Mod",
+      "version": "1.2.2",
+      "link": "https://media.forgecdn.net/files/2604/749/CustomCursorMod-1.2.2.jar"
+    },
+    {
       "name": "Custom Main Menu",
       "version": "2.0.9.1",
       "link": "https://media.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar"
@@ -72,6 +82,11 @@
       "name": "Featured Servers",
       "version": "1.0.6",
       "link": "https://media.forgecdn.net/files/2634/364/FeaturedServers-1.12-1.0.6.jar"
+    },
+    {
+      "name": "FPS Reducer",
+      "version": "1.15",
+      "link": "https://media.forgecdn.net/files/2944/167/FpsReducer-mc1.12.2-1.15.jar"
     },
     {
       "name": "Just Enough Energistics",
@@ -99,6 +114,16 @@
       "link": "https://media.forgecdn.net/files/2919/936/jetif-1.12.2-1.5.2.jar"
     },
     {
+      "name": "Main Menu Scale",
+      "version": "1.3.2",
+      "link": "https://media.forgecdn.net/files/2683/258/MainMenuScale-1.3.2.jar"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "version": "1.1.4",
+      "link": "https://media.forgecdn.net/files/2889/986/PickUpNotifier-v1.1.4-1.12.2.jar"
+    },
+    {
       "name": "Proportional Destruction Particles",
       "version": "1.2.4",
       "link": "https://media.forgecdn.net/files/2632/834/ProportionalDestructionParticles-1.12.2-1.2.4.jar"
@@ -112,6 +137,11 @@
       "name": "Resource Loader",
       "version": "1.5.3",
       "link": "https://media.forgecdn.net/files/2477/566/ResourceLoader-MC1.12.1-1.5.3.jar"
+    },
+    {
+      "name": "Shulker Tooltip",
+      "version": "1.9.2",
+      "link": "https://media.forgecdn.net/files/2874/45/ShulkerTooltip-1.9.2.jar"
     },
     {
       "name": "Smooth Font",
@@ -445,6 +475,11 @@
       "link": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
     },
     {
+      "name": "ItemPhysic Full",
+      "version": "1.4.34",
+      "link": "https://media.forgecdn.net/files/2959/712/ItemPhysic_Full_1.4.34_mc1.12.2.jar"
+    },
+    {
       "name": "Just Enough Calculation",
       "version": "3.2.3",
       "link": "https://media.forgecdn.net/files/2845/582/JustEnoughCalculation-1.12.2-3.2.3.jar"
@@ -523,6 +558,11 @@
       "name": "ProjectE",
       "version": "1.4.1",
       "link": "https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar"
+    },
+    {
+      "name": "Quark",
+      "version": "r1.6-179",
+      "link": "https://media.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
     },
     {
       "name": "RandomPatches",
@@ -615,12 +655,23 @@
       "link": "https://media.forgecdn.net/files/2704/574/XenCraft-1.0.0.4.jar"
     }
   ],
-  "client-only-apis": [],
+  "client-only-apis": [
+    {
+      "name": "Reborn Core",
+      "version": "3.19.3.524",
+      "link": "https://media.forgecdn.net/files/2926/584/RebornCore-1.12.2-3.19.3.524-universal.jar"
+    }
+  ],
   "apis": [
     {
       "name": "AE2 Wireless Terminal Library",
       "version": "1.0.34",
       "link": "https://media.forgecdn.net/files/2830/114/AE2WTLib-1.12.2-1.0.34.jar"
+    },
+    {
+      "name": "AutoRegLib",
+      "version": "1.3-32",
+      "link": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
     },
     {
       "name": "AsmodeusCore",
@@ -662,6 +713,11 @@
       "name": "ConnectedTexturesMod",
       "version": "1.0.2.31",
       "link": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "version": "1.10.14",
+      "link": "https://media.forgecdn.net/files/2956/475/CreativeCore_v1.10.14_mc1.12.2.jar"
     },
     {
       "name": "EnderCore",
