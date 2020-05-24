@@ -16,6 +16,8 @@
 * Charset Tweaks
 * Chunk Animator
 * Clumps
+* Controlling
+* Cursor Mod
 * Custom Main Menu
 * Default Options
 * DietHopper
@@ -24,16 +26,22 @@
 * FastFurnace
 * FastWorkbench
 * Fence Jumper
+* FPS Reducer
 * Galacticraft Tweaker
+* ItemPhysic Full
 * Just Enough Reactors
+* Main Menu Scale
 * One Probe, The
 * Phosphor (Forge)
+* Pick Up Notifier
 * Proportional Destruction Particals
-* TOP Addons
+* Quark
 * ReAuth
 * Resource Loader
+* Shulker Tooltip
 * Smooth Font
 * Smooth Scrolling Everywhere (Forge)
+* TOP Addons
 * VanillaFix
 
 #### Removed Mods:
@@ -100,8 +108,11 @@
 * Xaero's Minimap (Fair-play Edition): 20.11.0
 
 #### Added APIs/Cores/Libraries:
+* AutoRegLib
+* CreativeCore
 * GunpowderLib
 * Placebo
+* Reborn Core
 
 #### Updated APIs/Cores/Libraries:
 * AE2 Wireless Terminal Library: 1.0.34
