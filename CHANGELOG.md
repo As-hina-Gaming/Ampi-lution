@@ -6,18 +6,35 @@
 * 14.23.5.2854
 
 #### Added Mods:
+* Asie's FPS Enhancer (FoamFix)
 * Auto Dropper
 * Better Advancements
+* Better Animations Collection 2
+* Better Foilage
 * Bloodmoon
 * Blur
 * Charset Tweaks
+* Chunk Animator
+* Clumps
 * Custom Main Menu
 * Default Options
+* DietHopper
+* Ding
+* Fancy Block Particles
+* FastFurnace
+* FastWorkbench
+* Fence Jumper
 * Galacticraft Tweaker
 * Just Enough Reactors
 * One Probe, The
+* Phosphor (Forge)
+* Proportional Destruction Particals
 * TOP Addons
+* ReAuth
 * Resource Loader
+* Smooth Font
+* Smooth Scrolling Everywhere (Forge)
+* VanillaFix
 
 #### Removed Mods:
 * The Aether
@@ -84,6 +101,7 @@
 
 #### Added APIs/Cores/Libraries:
 * GunpowderLib
+* Placebo
 
 #### Updated APIs/Cores/Libraries:
 * AE2 Wireless Terminal Library: 1.0.34
