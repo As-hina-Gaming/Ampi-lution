@@ -170,6 +170,26 @@
       "link": "https://media.forgecdn.net/files/2491/32/ae2stuff-0.7.0.4-mc1.12.2.jar"
     },
     {
+      "name": "AE2 Wireless Crafting Terminal",
+      "version": "3.12.97",
+      "link": "https://media.forgecdn.net/files/2830/252/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
+    },
+    {
+      "name": "AE2 Wireless Fluid Terminal",
+      "version": "1.0.4",
+      "link": "https://media.forgecdn.net/files/2830/253/WirelessFluidTerminal-1.12.2-1.0.4.jar"
+    },
+    {
+      "name": "AE2 Wireless Interface Terminal",
+      "version": "1.0.2",
+      "link": "https://media.forgecdn.net/files/2830/254/WirelessInterfaceTerminal-1.12.2-1.0.2.jar"
+    },
+    {
+      "name": "AE2 Wireless Pattern Terminal",
+      "version": "1.0.3",
+      "link": "https://media.forgecdn.net/files/2830/255/WirelessPatternTerminal-1.12.2-1.0.3.jar"
+    },
+    {
       "name": "AppleSkin",
       "version": "1.0.9",
       "link": "https://media.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar"
@@ -583,11 +603,6 @@
       "name": "VanillaFix",
       "version": "1.0.10-99",
       "link": "https://media.forgecdn.net/files/2639/533/VanillaFix-1.0.10-99.jar"
-    },
-    {
-      "name": "Wireless Crafting Terminal",
-      "version": "3.12.97",
-      "link": "https://media.forgecdn.net/files/2830/252/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
     },
     {
       "name": "Xaero's Minimap (Fair-play Edition)",
