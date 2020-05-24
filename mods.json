@@ -384,11 +384,6 @@
       "link": "https://media.forgecdn.net/files/2916/944/ExtraPlanets-1.12.2-0.6.3.jar"
     },
     {
-      "name": "Extreme Reactors",
-      "version": "0.4.5.67",
-      "link": "https://media.forgecdn.net/files/2722/271/ExtremeReactors-1.12.2-0.4.5.67.jar"
-    },
-    {
       "name": "Fancy Lamps",
       "version": "1.2.1",
       "link": "https://media.forgecdn.net/files/2863/411/fancylamps-1.2.1.jar"
@@ -827,11 +822,6 @@
       "name": "Tesla Core Lib",
       "version": "1.0.17.25",
       "link": "https://media.forgecdn.net/files/2891/841/tesla-core-lib-1.12.2-1.0.17.jar"
-    },
-    {
-      "name": "ZeroCore",
-      "version": "0.1.2.8",
-      "link": "https://media.forgecdn.net/files/2670/570/zerocore-1.12.2-0.1.2.8.jar"
     }
   ]
 }
