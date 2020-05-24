@@ -10,8 +10,8 @@
   },
   "custom-folders": [
     {
-      "name": "scripts",
-      "client-only": false
+      "name": "fontfiles",
+      "client-only": true
     },
     {
       "name": "oresources",
@@ -20,6 +20,10 @@
     {
       "name": "resources",
       "client-only": true
+    },
+    {
+      "name": "scripts",
+      "client-only": false
     }
   ],
   "client-only-mods": [
