@@ -36,6 +36,7 @@
 * Pick Up Notifier
 * Proportional Destruction Particals
 * Quark
+* Quark Oddities
 * ReAuth
 * Resource Loader
 * Shulker Tooltip
@@ -138,17 +139,31 @@
 
 #### Config:
 * Added new Options from Mod-Updates and new Mods
+* Avaritia:
+  * Tools now can't break Bedrock anymore
+* Bloodmoon:
+  * Every Fullmoon
+  * Lesser Mobspawning
 * Ender IO:
   * Set Alloy Smelter to Alloy only Mode
+* Open Blocks:
+  * Disabled Gravestone
+    * Now Using Quark's Totem of Holding
 
 #### Scrips:
-* Unified Ores:
-  * Cobalt
-  * Lunar Sapphire
-  * Silicon
-    * Switched to AE2 Silicon
+* Unified Ingots:
   * Block of Charcoal
     * Using that one from Forestry
+  * Coal
+  * Cobalt
+  * Diamond
+  * Emerald
+  * Lapis Lazuli
+  * Lead
+  * Lunar Sapphire
+  * Redstone
+  * Silicon
+    * Switched to AE2 Silicon
 * Reorganized Scripts with global functions
 
 #### GUI:
