@@ -142,7 +142,7 @@
 * Avaritia:
   * Tools now can't break Bedrock anymore
 * Bloodmoon:
-  * Every Fullmoon
+  * Increased Chance from 0.05 to 0.10
   * Lesser Mobspawning
 * Ender IO:
   * Set Alloy Smelter to Alloy only Mode
@@ -161,9 +161,12 @@
   * Lapis Lazuli
   * Lead
   * Lunar Sapphire
+  * Magnesium
+  * Platinum
   * Redstone
   * Silicon
     * Switched to AE2 Silicon
+  * Uranium
 * Reorganized Scripts with global functions
 
 #### GUI:
