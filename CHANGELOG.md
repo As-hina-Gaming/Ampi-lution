@@ -22,6 +22,7 @@
 * Default Options
 * DietHopper
 * Ding
+* Eternal Singularity
 * Fancy Block Particles
 * FastFurnace
 * FastWorkbench
@@ -29,6 +30,8 @@
 * FPS Reducer
 * Galacticraft Tweaker
 * ItemPhysic Full
+* JAOPCA
+* JAOPCA Singularities
 * Just Enough Reactors
 * Main Menu Scale
 * One Probe, The
@@ -52,8 +55,10 @@
 * Hwyla
 * InstandUnify
 * It's the little things
+* ProjectE
 * Tinkers Aether
 * UniDict
+* XenCraft
 
 #### Updated Mods:
 * Applied Energistics 2: rv6-stable-7
@@ -114,6 +119,11 @@
 * GunpowderLib
 * Placebo
 * Reborn Core
+* Wanion Lib
+* WrapUp
+
+#### Removed APIs/Cores/Libraries:
+* ZeroCore
 
 #### Updated APIs/Cores/Libraries:
 * AE2 Wireless Terminal Library: 1.0.34
