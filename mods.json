@@ -176,11 +176,27 @@
       "folder": true
     },
     {
+      "name": "FBP",
+      "folder": true
+    },
+    {
       "name": "FeaturedServers",
       "folder": true
     },
     {
+      "name": "fpsreducer",
+      "folder": true
+    },
+    {
       "name": "jeresources",
+      "folder": true
+    },
+    {
+      "name": "smoothfont",
+      "folder": true
+    },
+    {
+      "name": "teamreborn",
       "folder": true
     },
     {
@@ -189,6 +205,38 @@
     },
     {
       "name": "splash.properties",
+      "folder": false
+    },
+    {
+      "name": "betteranimationscollection2.cfg",
+      "folder": false
+    },
+    {
+      "name": "blur.cfg",
+      "folder": false
+    },
+    {
+      "name": "chunkanimator.cfg",
+      "folder": false
+    },
+    {
+      "name": "customcursormod.cfg",
+      "folder": false
+    },
+    {
+      "name": "ding.cfg",
+      "folder": false
+    },
+    {
+      "name": "pickupnotifier.cfg",
+      "folder": false
+    },
+    {
+      "name": "pdp.cfg",
+      "folder": false
+    },
+    {
+      "name": "smooth-scrolling-everywhere.cfg",
       "folder": false
     }
   ],
@@ -364,6 +412,11 @@
       "link": "https://media.forgecdn.net/files/2858/475/EnderTweaker-1.12.2-1.2.0.jar"
     },
     {
+      "name": "Eternal Singularity",
+      "version": "1.0.7",
+      "link": "https://media.forgecdn.net/files/2922/583/eternalsingularity-1.12.2-1.0.7.jar"
+    },
+    {
       "name": "EqualDragons",
       "version": "1.1",
       "link": "https://media.forgecdn.net/files/2516/748/EqualDragons-1.1.jar"
@@ -474,6 +527,16 @@
       "link": "https://media.forgecdn.net/files/2959/712/ItemPhysic_Full_1.4.34_mc1.12.2.jar"
     },
     {
+      "name": "JAOPCA",
+      "version": "2.2.8.103",
+      "link": "https://media.forgecdn.net/files/2722/779/JAOPCA-1.12.2-2.2.8.103.jar"
+    },
+    {
+      "name": "JAOPCA Singularities",
+      "version": "2.2.0.9",
+      "link": "https://media.forgecdn.net/files/2649/716/JAOPCASingularities-1.12.2-2.2.0.9.jar"
+    },
+    {
       "name": "Just Enough Calculation",
       "version": "3.2.3",
       "link": "https://media.forgecdn.net/files/2845/582/JustEnoughCalculation-1.12.2-3.2.3.jar"
@@ -547,11 +610,6 @@
       "name": "Planet Progression",
       "version": "0.4.4",
       "link": "https://media.forgecdn.net/files/2941/451/PlanetProgression-1.12.2-0.4.4.jar"
-    },
-    {
-      "name": "ProjectE",
-      "version": "1.4.1",
-      "link": "https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar"
     },
     {
       "name": "Quark",
@@ -647,11 +705,6 @@
       "name": "Xaero's Minimap (Fair-play Edition)",
       "version": "20.11.0",
       "link": "https://media.forgecdn.net/files/2959/696/Xaeros_Minimap_FP20.11.0_Forge_1.12.jar"
-    },
-    {
-      "name": "XenCraft",
-      "version": "1.0.0.4",
-      "link": "https://media.forgecdn.net/files/2704/574/XenCraft-1.0.0.4.jar"
     }
   ],
   "client-only-apis": [
@@ -822,6 +875,16 @@
       "name": "Tesla Core Lib",
       "version": "1.0.17.25",
       "link": "https://media.forgecdn.net/files/2891/841/tesla-core-lib-1.12.2-1.0.17.jar"
+    },
+    {
+      "name": "Wanion Lib",
+      "version": "2.4",
+      "link": "https://media.forgecdn.net/files/2807/433/WanionLib-1.12.2-2.4.jar"
+    },
+    {
+      "name": "WrapUp",
+      "version": "1.1.3",
+      "link": "https://media.forgecdn.net/files/2486/198/WrapUp-1.12-1.1.3.jar"
     }
   ]
 }
