@@ -8,6 +8,7 @@
 #### Added Mods:
 * Asie's FPS Enhancer (FoamFix)
 * Auto Dropper
+* Avaritiaddons
 * Better Advancements
 * Better Animations Collection 2
 * Better Foilage
@@ -148,7 +149,7 @@
 * Tesla Core Lib: 1.0.17.25
 
 #### Config:
-* Added new Options from Mod-Updates and new Mods
+* Added new Configs from Mod-Updates and new Mods
 * Avaritia:
   * Tools now can't break Bedrock anymore
 * Bloodmoon:
@@ -161,13 +162,15 @@
     * Now Using Quark's Totem of Holding
 
 #### Scrips:
-* Unified Ingots:
+* Unified Items:
+  * Aluminum
   * Block of Charcoal
     * Using that one from Forestry
   * Coal
   * Cobalt
   * Diamond
   * Emerald
+  * Iron
   * Lapis Lazuli
   * Lead
   * Lunar Sapphire
@@ -202,9 +205,6 @@
       * Chest & Shulker Box
       * Hopper
       * Horse
-
-#### Miscellaneous:
-* Updated recommended RAM-Usage to 8 GB
 
 ## 0.23.4.2
 
