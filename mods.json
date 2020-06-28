@@ -1,8 +1,8 @@
 {
   "modpack": "Ampi'lution",
   "forge": {
-    "version": "14.23.5.2854",
-    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+    "version": "14.23.5.2847",
+    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
   },
   "mc-server": {
     "version": "1.12.2",
@@ -294,7 +294,7 @@
     {
       "name": "Avaritiaddons",
       "version": "1.1",
-      "link" "https://media.forgecdn.net/files/2801/702/Avaritiaddons-1.12.2-1.1.jar"
+      "link": "https://media.forgecdn.net/files/2801/702/Avaritiaddons-1.12.2-1.1.jar"
     },
     {
       "name": "Better Foilage",
