@@ -1,5 +1,11 @@
 # Alpha
 
+## 0.24.0.1
+
+#### Updated Forge:
+* 14.23.5.2847
+
+
 ## 0.24.0
 
 #### Updated Forge:
@@ -226,6 +232,7 @@
     * Just Enough Pattern Banners
     * Just Enough Resources
     * Just Enough Throwing In Fluids
+
 
 ## 0.23.4.2
 
