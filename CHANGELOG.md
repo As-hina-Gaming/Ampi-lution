@@ -157,6 +157,8 @@
   * Lesser Mobspawning
 * Ender IO:
   * Set Alloy Smelter to Alloy only Mode
+* Forestry:
+  * Disabled Machines
 * Open Blocks:
   * Disabled Gravestone
     * Now Using Quark's Totem of Holding
@@ -168,6 +170,7 @@
     * Using that one from Forestry
   * Coal
   * Cobalt
+  * Copper
   * Diamond
   * Emerald
   * Iron
@@ -175,36 +178,54 @@
   * Lead
   * Lunar Sapphire
   * Magnesium
+  * Nickel
   * Platinum
   * Redstone
   * Silicon
     * Switched to AE2 Silicon
+  * Tin
   * Uranium
+* Adjusted Recipes:
+  * Industrial Dye Blend
+  * TE Energy Cell and Frame
 * Reorganized Scripts with global functions
+* Cleaned-Up Scripts
+* Avaritia:
+  * Adjusted Eternal Singularity Recipe
+  * Adjusted Infinity Catalyst Recipe
 
 #### GUI:
 * Complete new GUI
   * Main Menu
-  * Options Menu
-  * Pause Menu
-  * Serverselection
+  * Buttons & Selection Arrows in Vanilla Menues
   * Window-Icons
   * Ingame HUD
-    * Armor-, HP-, XP- and Food-Bar
+    * Armor-, Boss-, HP-, Food-, and XP-Bar
+    * Effect-Frames
     * Item-Bar & Second-Hand
     * Horse-Bar
     * The One Probe Info Screen
+    * Xaeros Minimap Border
   * Connection-Icon
-  * Vanilla-Inventory (incl. Creativ)
+  * Custom Cursor
+  * Vanilla-Inventory (incl. Creative)
+  * Villager-Inventory
   * Blocks:
     * Minecraft:
+      * Anvil
+      * Beacon
       * Brewing Stand
       * Crafting Table
-      * Dispenser
+      * Dispenser (and Dropper)
+      * Enchantment Table
       * Furnace
-      * Chest & Shulker Box
       * Hopper
       * Horse
+      * Vanilla Chest & Shulker Box
+  * Just Enough Items
+    * Just Enough Pattern Banners
+    * Just Enough Resources
+    * Just Enough Throwing In Fluids
 
 ## 0.23.4.2
 
