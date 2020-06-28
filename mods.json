@@ -1,48 +1,106 @@
 {
   "modpack": "Ampi'lution",
-
   "forge": {
-    "version": "14.23.5.2838",
-    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2838/forge-1.12.2-14.23.5.2838-universal.jar"
+    "version": "14.23.5.2854",
+    "link": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
   },
-
   "mc-server": {
     "version": "1.12.2",
     "link": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
   },
-
   "custom-folders": [
+    {
+      "name": "fontfiles",
+      "client-only": true
+    },
+    {
+      "name": "oresources",
+      "client-only": true
+    },
+    {
+      "name": "resources",
+      "client-only": true
+    },
     {
       "name": "scripts",
       "client-only": false
     }
   ],
-
   "client-only-mods": [
+    {
+      "name": "Better Advancements",
+      "version": "0.1.0.77",
+      "link": "https://media.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+    },
+    {
+      "name": "Better Animations Collection 2",
+      "version": "1.0.2",
+      "link": "https://media.forgecdn.net/files/2762/625/BetterAnimationsCollection2-v1.0.2-1.12.2.jar"
+    },
     {
       "name": "Block Drops",
       "version": "1.4.0",
       "link": "https://media.forgecdn.net/files/2509/46/blockdrops-1.12.2-1.4.0.jar"
     },
     {
-      "name": "It's the little things",
-      "version": "1.0.0",
-      "link": "https://media.forgecdn.net/files/2432/201/itlt-1.12-1.0.0.jar"
+      "name": "Blur",
+      "version": "1.0.4",
+      "link": "https://media.forgecdn.net/files/2460/821/Blur-1.0.4-14.jar"
     },
     {
-      "name": "Just Enough Calculation",
-      "version": "3.1.4",
-      "link": "https://media.forgecdn.net/files/2698/317/JustEnoughCalculation-1.12.2-3.1.4.jar"
+      "name": "Chunk Animator",
+      "version": "1.2",
+      "link": "https://media.forgecdn.net/files/2432/424/ChunkAnimator-MC1.12-1.2.jar"
+    },
+    {
+      "name": "Controlling",
+      "version": "3.0.9",
+      "link": "https://media.forgecdn.net/files/2926/366/Controlling-3.0.9.jar"
+    },
+    {
+      "name": "Cursor Mod",
+      "version": "1.2.2",
+      "link": "https://media.forgecdn.net/files/2604/749/CustomCursorMod-1.2.2.jar"
+    },
+    {
+      "name": "Custom Main Menu",
+      "version": "2.0.9.1",
+      "link": "https://media.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar"
+    },
+    {
+      "name": "Default Options",
+      "version": "9.2.8",
+      "link": "https://media.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar"
+    },
+    {
+      "name": "Ding",
+      "version": "1.0.2",
+      "link": "https://media.forgecdn.net/files/2801/170/Ding-1.12.2-1.0.2.jar"
+    },
+    {
+      "name": "Fancy Block Particles",
+      "version": "2.4.1",
+      "link": "https://media.forgecdn.net/files/2632/107/FancyBlockParticles-1.12.x-2.4.1.jar"
+    },
+    {
+      "name": "Featured Servers",
+      "version": "1.0.6",
+      "link": "https://media.forgecdn.net/files/2634/364/FeaturedServers-1.12-1.0.6.jar"
+    },
+    {
+      "name": "FPS Reducer",
+      "version": "1.15",
+      "link": "https://media.forgecdn.net/files/2944/167/FpsReducer-mc1.12.2-1.15.jar"
     },
     {
       "name": "Just Enough Energistics",
-      "version": "1.0.7",
-      "link": "https://media.forgecdn.net/files/2726/897/JustEnoughEnergistics-1.12.2-1.0.7.jar"
+      "version": "1.0.8",
+      "link": "https://media.forgecdn.net/files/2783/832/JustEnoughEnergistics-1.12.2-1.0.8.jar"
     },
     {
       "name": "Just Enough HarvestCraft",
-      "version": "1.6.4",
-      "link": "https://media.forgecdn.net/files/2723/786/jehc-1.12.2-1.6.4.jar"
+      "version": "1.7.0",
+      "link": "https://media.forgecdn.net/files/2849/443/just-enough-harvestcraft-1.12.2-1.7.0.jar"
     },
     {
       "name": "Just Enough Resources",
@@ -51,8 +109,48 @@
     },
     {
       "name": "Just Enough Throwing In Fluids",
-      "version": "1.5.0",
-      "link": "https://media.forgecdn.net/files/2733/185/jetif-1.12.2-1.5.0.jar"
+      "version": "1.5.2",
+      "link": "https://media.forgecdn.net/files/2919/936/jetif-1.12.2-1.5.2.jar"
+    },
+    {
+      "name": "Main Menu Scale",
+      "version": "1.3.2",
+      "link": "https://media.forgecdn.net/files/2683/258/MainMenuScale-1.3.2.jar"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "version": "1.1.4",
+      "link": "https://media.forgecdn.net/files/2889/986/PickUpNotifier-v1.1.4-1.12.2.jar"
+    },
+    {
+      "name": "Proportional Destruction Particles",
+      "version": "1.2.4",
+      "link": "https://media.forgecdn.net/files/2632/834/ProportionalDestructionParticles-1.12.2-1.2.4.jar"
+    },
+    {
+      "name": "ReAuth",
+      "version": "3.6.0",
+      "link": "https://media.forgecdn.net/files/2560/638/reauth-3.6.0.jar"
+    },
+    {
+      "name": "Resource Loader",
+      "version": "1.5.3",
+      "link": "https://media.forgecdn.net/files/2477/566/ResourceLoader-MC1.12.1-1.5.3.jar"
+    },
+    {
+      "name": "Shulker Tooltip",
+      "version": "1.9.2",
+      "link": "https://media.forgecdn.net/files/2874/45/ShulkerTooltip-1.9.2.jar"
+    },
+    {
+      "name": "Smooth Font",
+      "version": "2.1.2",
+      "link": "https://media.forgecdn.net/files/2949/817/SmoothFont-mc1.12.2-2.1.2.jar"
+    },
+    {
+      "name": "Smooth Scrolling Everywhere (Forge)",
+      "version": "1.1",
+      "link": "https://media.forgecdn.net/files/2922/328/smooth-scrolling-everywhere-1.1.jar"
     },
     {
       "name": "Tinker's JEI",
@@ -60,30 +158,88 @@
       "link": "https://media.forgecdn.net/files/2701/203/tinkersjei-1.2.jar"
     }
   ],
-
   "client-only-configs": [
-  	{
-  		"name": "BlockDrops",
-  		"folder": true
-  	},
-  	{
-  		"name": "itlt",
-  		"folder": true
-  	},
-  	{
-  		"name": "jeresources",
-  		"folder": true
-  	},
-  	{
-  		"name": "itlt.cfg",
-  		"folder": false
-  	},
-  	{
-  		"name": "splash.properties",
-  		"folder": false
-  	}
+    {
+      "name": "betteradvancements",
+      "folder": true
+    },
+    {
+      "name": "BlockDrops",
+      "folder": true
+    },
+    {
+      "name": "CustomMainMenu",
+      "folder": true
+    },
+    {
+      "name": "defaultoptions",
+      "folder": true
+    },
+    {
+      "name": "FBP",
+      "folder": true
+    },
+    {
+      "name": "FeaturedServers",
+      "folder": true
+    },
+    {
+      "name": "fpsreducer",
+      "folder": true
+    },
+    {
+      "name": "jeresources",
+      "folder": true
+    },
+    {
+      "name": "smoothfont",
+      "folder": true
+    },
+    {
+      "name": "teamreborn",
+      "folder": true
+    },
+    {
+      "name": "defaultoptions.cfg",
+      "folder": false
+    },
+    {
+      "name": "splash.properties",
+      "folder": false
+    },
+    {
+      "name": "betteranimationscollection2.cfg",
+      "folder": false
+    },
+    {
+      "name": "blur.cfg",
+      "folder": false
+    },
+    {
+      "name": "chunkanimator.cfg",
+      "folder": false
+    },
+    {
+      "name": "customcursormod.cfg",
+      "folder": false
+    },
+    {
+      "name": "ding.cfg",
+      "folder": false
+    },
+    {
+      "name": "pickupnotifier.cfg",
+      "folder": false
+    },
+    {
+      "name": "pdp.cfg",
+      "folder": false
+    },
+    {
+      "name": "smooth-scrolling-everywhere.cfg",
+      "folder": false
+    }
   ],
-
   "mods": [
     {
       "name": "AE2 Stuff",
@@ -91,14 +247,24 @@
       "link": "https://media.forgecdn.net/files/2491/32/ae2stuff-0.7.0.4-mc1.12.2.jar"
     },
     {
-      "name": "Aether, The",
-      "version": "1.4.4",
-      "link": "https://media.forgecdn.net/files/2698/950/aether_legacy-1.12.2-v1.4.4.jar"
+      "name": "AE2 Wireless Crafting Terminal",
+      "version": "3.12.97",
+      "link": "https://media.forgecdn.net/files/2830/252/WirelessCraftingTerminal-1.12.2-3.12.97.jar"
     },
     {
-      "name": "Aether Continuation",
-      "version": "1.2.3",
-      "link": "https://media.forgecdn.net/files/2701/616/aether_continuation-1.12.2-v1.2.3.jar"
+      "name": "AE2 Wireless Fluid Terminal",
+      "version": "1.0.4",
+      "link": "https://media.forgecdn.net/files/2830/253/WirelessFluidTerminal-1.12.2-1.0.4.jar"
+    },
+    {
+      "name": "AE2 Wireless Interface Terminal",
+      "version": "1.0.2",
+      "link": "https://media.forgecdn.net/files/2830/254/WirelessInterfaceTerminal-1.12.2-1.0.2.jar"
+    },
+    {
+      "name": "AE2 Wireless Pattern Terminal",
+      "version": "1.0.3",
+      "link": "https://media.forgecdn.net/files/2830/255/WirelessPatternTerminal-1.12.2-1.0.3.jar"
     },
     {
       "name": "AppleSkin",
@@ -107,8 +273,18 @@
     },
     {
       "name": "Applied Energistics 2",
-      "version": "rv6-stable-6",
-      "link": "https://media.forgecdn.net/files/2652/453/appliedenergistics2-rv6-stable-6.jar"
+      "version": "rv6-stable-7",
+      "link": "https://media.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar"
+    },
+    {
+      "name": "Asie's FPS Enhancer (FoamFix)",
+      "version": "0.10.10",
+      "link": "https://media.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar"
+    },
+    {
+      "name": "Auto Dropper",
+      "version": "2.0.1",
+      "link": "https://media.forgecdn.net/files/2651/554/AutoDropper-1.12.2-2.0.1.jar"
     },
     {
       "name": "Avaritia 1.1x",
@@ -116,9 +292,19 @@
       "link": "https://media.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar"
     },
     {
+      "name": "Avaritiaddons",
+      "version": "1.1",
+      "link" "https://media.forgecdn.net/files/2801/702/Avaritiaddons-1.12.2-1.1.jar"
+    },
+    {
+      "name": "Better Foilage",
+      "version": "2.3.1",
+      "link": "https://media.forgecdn.net/files/2852/872/BetterFoliage-MC1.12-2.3.1.jar"
+    },
+    {
       "name": "BetterFps",
       "version": "1.4.8",
-      "link": "https://media.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar"
+      "link": "https://media.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar"
     },
     {
       "name": "BiblioCraft",
@@ -127,13 +313,18 @@
     },
     {
       "name": "Biomes O' Plenty",
-      "version": "7.0.1.2439",
-      "link": "https://media.forgecdn.net/files/2711/162/BiomesOPlenty-1.12.2-7.0.1.2439-universal.jar"
+      "version": "7.0.1.2444",
+      "link": "https://media.forgecdn.net/files/2842/510/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar"
     },
     {
       "name": "Blockcraftery",
       "version": "1.3.1",
       "link": "https://media.forgecdn.net/files/2716/712/blockcraftery-1.12.2-1.3.1.jar"
+    },
+    {
+      "name": "Bloodmoon",
+      "version": "1.5.3",
+      "link": "https://media.forgecdn.net/files/2537/917/Bloodmoon-MC1.12.2-1.5.3.jar"
     },
     {
       "name": "Bone Appetit",
@@ -142,13 +333,18 @@
     },
     {
       "name": "Charset Immersion",
-      "version": "0.5.5.7",
-      "link": "https://media.forgecdn.net/files/2695/681/Charset-Immersion-0.5.5.7.jar"
+      "version": "0.5.6.0",
+      "link": "https://media.forgecdn.net/files/2745/7/Charset-Immersion-0.5.6.0.jar"
+    },
+    {
+      "name": "Charset Tweaks",
+      "version": "0.5.6.2",
+      "link": "https://media.forgecdn.net/files/2745/327/Charset-Tweaks-0.5.6.2.jar"
     },
     {
       "name": "Chisel",
-      "version": "0.2.1.35",
-      "link": "https://media.forgecdn.net/files/2619/468/Chisel-MC1.12.2-0.2.1.35.jar"
+      "version": "1.0.2.45",
+      "link": "https://media.forgecdn.net/files/2915/375/Chisel-MC1.12.2-1.0.2.45.jar"
     },
     {
       "name": "Chisels & Bits",
@@ -156,59 +352,74 @@
       "link": "https://media.forgecdn.net/files/2720/655/chiselsandbits-14.33.jar"
     },
     {
+      "name": "Clumps",
+      "version": "3.1.2",
+      "link": "https://media.forgecdn.net/files/2666/198/Clumps-3.1.2.jar"
+    },
+    {
       "name": "ComplexLogic",
-      "version": "1.4.2",
-      "link": "https://media.forgecdn.net/files/2633/439/complex-logic-1.4.2-master.jar"
+      "version": "1.4.3",
+      "link": "https://media.forgecdn.net/files/2746/460/complex-logic-1.4.3-master.jar"
     },
     {
       "name": "Contruct's Armory",
-      "version": "1.2.4",
-      "link": "https://media.forgecdn.net/files/2718/520/conarm-1.12.2-1.2.4.jar"
+      "version": "1.2.5.4",
+      "link": "https://media.forgecdn.net/files/2882/794/conarm-1.12.2-1.2.5.4.jar"
     },
     {
       "name": "CraftTweaker2",
-      "version": "4.1.19",
-      "link": "https://media.forgecdn.net/files/2724/129/CraftTweaker2-1.12-4.1.19.jar"
+      "version": "4.1.20.574",
+      "link": "https://media.forgecdn.net/files/2958/236/CraftTweaker2-1.12-4.1.20.574.jar"
+    },
+    {
+      "name": "DietHoppers",
+      "version": "1.1",
+      "link": "https://media.forgecdn.net/files/2482/543/diethopper-1.1.jar"
     },
     {
       "name": "Ender IO AE2 Conduits",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/696/EnderIO-conduits-appliedenergistics-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/809/EnderIO-conduits-appliedenergistics-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender IO Base",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/693/EnderIO-base-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/806/EnderIO-base-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender IO Conduits",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/695/EnderIO-conduits-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/808/EnderIO-conduits-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender IO Machines",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/694/EnderIO-machines-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/807/EnderIO-machines-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender IO TiC",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/700/EnderIO-integration-tic-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/813/EnderIO-integration-tic-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender IO Zoo",
-      "version": "5.0.46",
-      "link": "https://media.forgecdn.net/files/2732/701/EnderIO-zoo-1.12.2-5.0.46.jar"
+      "version": "5.1.55",
+      "link": "https://media.forgecdn.net/files/2858/814/EnderIO-zoo-1.12.2-5.1.55.jar"
     },
     {
       "name": "Ender Storage 1.8+",
-      "version": "2.4.5.135",
-      "link": "https://media.forgecdn.net/files/2594/243/EnderStorage-1.12.2-2.4.5.135-universal.jar"
+      "version": "2.4.6.137",
+      "link": "https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar"
     },
     {
       "name": "Ender Tweaker",
-      "version": "1.1.7",
-      "link": "https://media.forgecdn.net/files/2718/576/EnderTweaker-1.12.2-1.1.7.jar"
+      "version": "1.2.0",
+      "link": "https://media.forgecdn.net/files/2858/475/EnderTweaker-1.12.2-1.2.0.jar"
+    },
+    {
+      "name": "Eternal Singularity",
+      "version": "1.0.7",
+      "link": "https://media.forgecdn.net/files/2922/583/eternalsingularity-1.12.2-1.0.7.jar"
     },
     {
       "name": "EqualDragons",
@@ -222,18 +433,13 @@
     },
     {
       "name": "ExtraPlanets",
-      "version": "0.5.3",
-      "link": "https://media.forgecdn.net/files/2723/471/ExtraPlanets-1.12.2-0.5.3.jar"
-    },
-    {
-      "name": "Extreme Reactors",
-      "version": "0.4.5.67",
-      "link": "https://media.forgecdn.net/files/2722/271/ExtremeReactors-1.12.2-0.4.5.67.jar"
+      "version": "0.6.4",
+      "link": "https://media.forgecdn.net/files/2916/944/ExtraPlanets-1.12.2-0.6.3.jar"
     },
     {
       "name": "Fancy Lamps",
-      "version": "1.1.0",
-      "link": "https://media.forgecdn.net/files/2669/871/fancylamps-1.1.0.jar"
+      "version": "1.2.1",
+      "link": "https://media.forgecdn.net/files/2863/411/fancylamps-1.2.1.jar"
     },
     {
       "name": "Fast Leaf Decay",
@@ -241,49 +447,64 @@
       "link": "https://media.forgecdn.net/files/2463/272/FastLeafDecay-v14.jar"
     },
     {
+      "name": "FastFurnace",
+      "version": "1.3.1",
+      "link": "https://media.forgecdn.net/files/2706/111/FastFurnace-1.12.2-1.3.1.jar"
+    },
+    {
+      "name": "FastWorkbench",
+      "version": "1.7.3",
+      "link": "https://media.forgecdn.net/files/2838/777/FastWorkbench-1.12.2-1.7.3.jar"
+    },
+    {
+      "name": "Fence Jumper",
+      "version": "1.0.5",
+      "link": "https://media.forgecdn.net/files/2591/87/fencejumper-1.12-1.0.5.jar"
+    },
+    {
       "name": "Flux Networks",
-      "version": "3.0.19",
-      "link": "https://media.forgecdn.net/files/2645/165/fluxnetworks-1.12.2-3.0.19-21.jar"
+      "version": "4.0.14",
+      "link": "https://media.forgecdn.net/files/2842/381/fluxnetworks-1.12.2-4.0.14-31.jar"
     },
     {
       "name": "Forestry",
-      "version": "5.8.2.387",
-      "link": "https://media.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar"
+      "version": "5.8.2.422",
+      "link": "https://media.forgecdn.net/files/2918/418/forestry_1.12.2-5.8.2.422.jar"
     },
     {
       "name": "FTB Quests",
-      "version": "1.7.2.178",
-      "link": "https://media.forgecdn.net/files/2733/288/FTBQuests-1.7.2.178.jar"
+      "version": "1.8.0.239",
+      "link": "https://media.forgecdn.net/files/2961/486/FTBQuests-1.8.1.239.jar"
     },
     {
       "name": "FTP Utilities",
-      "version": "5.4.0.99",
-      "link": "https://media.forgecdn.net/files/2730/58/FTBUtilities-5.4.0.99.jar"
+      "version": "5.4.0.124",
+      "link": "https://media.forgecdn.net/files/2835/289/FTBUtilities-5.4.0.124.jar"
     },
     {
       "name": "Galacticraft Core",
-      "version": "4.0.2.211",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/211/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.211.jar"
+      "version": "4.0.2.280",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
     },
     {
       "name": "Galacticraft Planets",
-      "version": "4.0.2.211",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/211/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.211.jar"
+      "version": "4.0.2.280",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+    },
+    {
+      "name": "Galacticraft Tweaker",
+      "version": "1.0.3",
+      "link": "https://media.forgecdn.net/files/2647/978/GalacticraftTweaker-1.12.2-1.0.3.jar"
     },
     {
       "name": "Galaxy Space",
-      "version": "2.0.8",
-      "link": "https://media.forgecdn.net/files/2710/940/GalaxySpace-1.12.2-2.0.8.jar"
-    },
-    {
-      "name": "Hwyla",
-      "version": "1.8.26-B41",
-      "link": "https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar"
+      "version": "2.0.13",
+      "link": "https://media.forgecdn.net/files/2946/91/GalaxySpace-1.12.2-2.0.13.jar"
     },
     {
       "name": "Industrial Foregoing",
-      "version": "1.12.12-236",
-      "link": "https://media.forgecdn.net/files/2699/878/industrialforegoing-1.12.2-1.12.12-236.jar"
+      "version": "1.12.13-237",
+      "link": "https://media.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar"
     },
     {
       "name": "InfiniteFluids",
@@ -291,14 +512,9 @@
       "link": "https://media.forgecdn.net/files/2484/246/infinitefluids-1.11-1.2.0.jar"
     },
     {
-      "name": "InstandUnify",
-      "version": "1.1.2",
-      "link": "https://media.forgecdn.net/files/2578/325/instantunify-1.12.2-1.1.2.jar"
-    },
-    {
       "name": "Integration Foregoing",
-      "version": "1.9",
-      "link": "https://media.forgecdn.net/files/2676/458/IntegrationForegoing-1.12.2-1.9.jar"
+      "version": "1.10",
+      "link": "https://media.forgecdn.net/files/2904/594/IntegrationForegoing-1.12.2-1.10.jar"
     },
     {
       "name": "Inventory Tweaks",
@@ -307,13 +523,33 @@
     },
     {
       "name": "Iron Chests",
-      "version": "7.0.69.845",
-      "link": "https://media.forgecdn.net/files/2723/143/ironchest-1.12.2-7.0.69.845.jar"
+      "version": "7.0.72.847",
+      "link": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar"
+    },
+    {
+      "name": "ItemPhysic Full",
+      "version": "1.4.34",
+      "link": "https://media.forgecdn.net/files/2959/712/ItemPhysic_Full_1.4.34_mc1.12.2.jar"
+    },
+    {
+      "name": "JAOPCA",
+      "version": "2.2.8.103",
+      "link": "https://media.forgecdn.net/files/2722/779/JAOPCA-1.12.2-2.2.8.103.jar"
+    },
+    {
+      "name": "JAOPCA Singularities",
+      "version": "2.2.0.9",
+      "link": "https://media.forgecdn.net/files/2649/716/JAOPCASingularities-1.12.2-2.2.0.9.jar"
+    },
+    {
+      "name": "Just Enough Calculation",
+      "version": "3.2.3",
+      "link": "https://media.forgecdn.net/files/2845/582/JustEnoughCalculation-1.12.2-3.2.3.jar"
     },
     {
       "name": "Just Enough Items",
-      "version": "4.15.0.283",
-      "link": "https://media.forgecdn.net/files/2728/940/jei_1.12.2-4.15.0.283.jar"
+      "version": "4.15.0.291",
+      "link": "https://media.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar"
     },
     {
       "name": "Just Enough Pattern Banners",
@@ -322,18 +558,18 @@
     },
     {
       "name": "Metamorph",
-      "version": "1.1.8",
-      "link": "https://media.forgecdn.net/files/2713/981/metamorph-1.1.8-1.12.2.jar"
+      "version": "1.1.10",
+      "link": "https://media.forgecdn.net/files/2843/166/metamorph-1.1.10-1.12.2.jar"
     },
     {
       "name": "ModTweaker",
-      "version": "4.0.17",
-      "link": "https://media.forgecdn.net/files/2693/544/modtweaker-4.0.17.jar"
+      "version": "4.0.18",
+      "link": "https://media.forgecdn.net/files/2881/277/modtweaker-4.0.18.jar"
     },
     {
       "name": "More Planets",
-      "version": "2.1.5",
-      "link": "https://media.forgecdn.net/files/2684/464/More-Planets-1.12.2-2.1.5-GC190.jar"
+      "version": "2.1.12",
+      "link": "https://media.forgecdn.net/files/2953/782/More-Planets-1.12.2-2.1.12-GC251.jar"
     },
     {
       "name": "More Planets Extras",
@@ -352,8 +588,13 @@
     },
     {
       "name": "MrCrayfish's Furniture Mod",
-      "version": "6.3.0",
-      "link": "https://media.forgecdn.net/files/2715/314/furniture-6.3.0-1.12.2.jar"
+      "version": "6.3.1",
+      "link": "https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar"
+    },
+    {
+      "name": "One Probe, The",
+      "version": "1.4.28",
+      "link": "https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar"
     },
     {
       "name": "OpenBlocks",
@@ -361,39 +602,49 @@
       "link": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar"
     },
     {
-      "name": "Planet Progression",
-      "version": "0.3.5",
-      "link": "https://media.forgecdn.net/files/2702/290/PlanetProgression-1.12.2-0.3.5.jar"
-    },
-    {
       "name": "Pam's HarvestCraft",
-      "version": "1.12.2zd",
-      "link": "https://media.forgecdn.net/files/2717/443/Pam%27s+HarvestCraft+1.12.2zd+Surprise+for+Yogcast.jar"
+      "version": "1.12.2zg",
+      "link": "https://media.forgecdn.net/files/2904/825/Pam%27s+HarvestCraft+1.12.2zg.jar"
     },
     {
-      "name": "ProjectE",
-      "version": "1.4.1",
-      "link": "https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar"
+      "name": "Phosphor (Forge)",
+      "version": "0.2.6",
+      "link": "https://media.forgecdn.net/files/2747/710/phosphor-1.12.2-0.2.6%2Bbuild50-universal.jar"
+    },
+    {
+      "name": "Planet Progression",
+      "version": "0.4.4",
+      "link": "https://media.forgecdn.net/files/2941/451/PlanetProgression-1.12.2-0.4.4.jar"
+    },
+    {
+      "name": "Quark",
+      "version": "r1.6-179",
+      "link": "https://media.forgecdn.net/files/2924/91/Quark-r1.6-179.jar"
+    },
+    {
+      "name": "Quark Oddities",
+      "version": "1.12.2",
+      "link": "https://media.forgecdn.net/files/2604/798/QuarkOddities-1.12.2.jar"
     },
     {
       "name": "RandomPatches",
-      "version": "1.16.3.1",
-      "link": "https://media.forgecdn.net/files/2730/511/randompatches-1.12.2-1.16.3.1.jar"
+      "version": "1.21.0.3",
+      "link": "https://media.forgecdn.net/files/2943/191/randompatches-1.12.2-1.21.0.3.jar"
     },
     {
       "name": "RFTools",
-      "version": "7.71",
-      "link": "https://media.forgecdn.net/files/2707/388/rftools-1.12-7.71.jar"
+      "version": "7.73",
+      "link": "https://media.forgecdn.net/files/2861/573/rftools-1.12-7.73.jar"
     },
     {
       "name": "SimpleLogic Gates",
-      "version": "0.5.5.7",
-      "link": "https://media.forgecdn.net/files/2695/680/SimpleLogic-Gates-0.5.5.7.jar"
+      "version": "0.5.6.1",
+      "link": "https://media.forgecdn.net/files/2745/283/SimpleLogic-Gates-0.5.6.1.jar"
     },
     {
       "name": "SimpleLogic Wires",
-      "version": "0.5.5.7",
-      "link": "https://media.forgecdn.net/files/2695/683/SimpleLogic-Wires-0.5.5.7.jar"
+      "version": "0.5.6.3",
+      "link": "https://media.forgecdn.net/files/2754/601/SimpleLogic-Wires-0.5.6.3.jar"
     },
     {
       "name": "Simple Portals",
@@ -402,18 +653,18 @@
     },
     {
       "name": "Simply Jetpacks 2",
-      "version": "2.2.12.65",
-      "link": "https://media.forgecdn.net/files/2709/952/SimplyJetpacks2-1.12.2-2.2.12.65.jar"
+      "version": "2.2.14.67",
+      "link": "https://media.forgecdn.net/files/2789/696/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
     },
     {
       "name": "Solar Flux Reborn",
-      "version": "4.32r",
-      "link": "https://media.forgecdn.net/files/2659/598/SolarFluxReborn_1.12.2-4.32r.jar"
+      "version": "12.3.8",
+      "link": "https://media.forgecdn.net/files/2887/575/SolarFluxReborn_1.12.2-12.3.8.jar"
     },
     {
       "name": "Storage Drawers",
-      "version": "5.3.8",
-      "link": "https://media.forgecdn.net/files/2642/386/StorageDrawers-1.12.2-5.3.8.jar"
+      "version": "5.4.2",
+      "link": "https://media.forgecdn.net/files/2952/606/StorageDrawers-1.12.2-5.4.2.jar"
     },
     {
       "name": "Storage Drawers Extras",
@@ -422,28 +673,23 @@
     },
     {
       "name": "Thermal Dynamics",
-      "version": "2.5.5.21",
-      "link": "https://media.forgecdn.net/files/2716/138/ThermalDynamics-1.12.2-2.5.5.21-universal.jar"
+      "version": "2.5.6.1",
+      "link": "https://media.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
     },
     {
       "name": "Thermal Expansion",
-      "version": "5.5.4.43",
-      "link": "https://media.forgecdn.net/files/2715/789/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
+      "version": "5.5.7.1",
+      "link": "https://media.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
     },
     {
       "name": "Thermal Foundation",
-      "version": "2.6.3.27",
-      "link": "https://media.forgecdn.net/files/2715/788/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
-    },
-    {
-      "name": "Tinkers Aether",
-      "version": "1.3.0",
-      "link": "https://media.forgecdn.net/files/2699/34/tinkersaether-1.3.0.jar"
+      "version": "2.6.7.1",
+      "link": "https://media.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
     },
     {
       "name": "Tinkers' Construct",
-      "version": "2.12.0.157",
-      "link": "https://media.forgecdn.net/files/2731/543/TConstruct-1.12.2-2.12.0.157.jar"
+      "version": "2.13.0.183",
+      "link": "https://media.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar"
     },
     {
       "name": "Tinkers' Tool Leveling",
@@ -451,44 +697,43 @@
       "link": "https://media.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
     },
     {
-      "name": "UniDict",
-      "version": "2.9.2",
-      "link": "https://media.forgecdn.net/files/2652/588/UniDict-1.12.2-2.9.2.jar"
+      "name": "TOP Addons",
+      "version": "1.13.0",
+      "link": "https://media.forgecdn.net/files/2887/479/topaddons-1.12.2-1.13.0.jar"
     },
     {
-      "name": "Wawla - What Are We Looking At",
-      "version": "2.5.273",
-      "link": "https://media.forgecdn.net/files/2707/185/Wawla-1.12.2-2.5.273.jar"
-    },
-    {
-      "name": "Wireless Crafting Terminal",
-      "version": "3.12.93",
-      "link": "https://media.forgecdn.net/files/2725/872/WirelessCraftingTerminal-1.12.2-3.12.93.jar"
+      "name": "VanillaFix",
+      "version": "1.0.10-99",
+      "link": "https://media.forgecdn.net/files/2639/533/VanillaFix-1.0.10-99.jar"
     },
     {
       "name": "Xaero's Minimap (Fair-play Edition)",
-      "version": "1.17.3",
-      "link": "https://media.forgecdn.net/files/2731/342/Xaeros_Minimap_FP1.17.3_Forge_1.12.jar"
-    },
-    {
-      "name": "XenCraft",
-      "version": "1.0.0.4",
-      "link": "https://media.forgecdn.net/files/2704/574/XenCraft-1.0.0.4.jar"
+      "version": "20.11.0",
+      "link": "https://media.forgecdn.net/files/2959/696/Xaeros_Minimap_FP20.11.0_Forge_1.12.jar"
     }
   ],
-
-  "client-only-apis": [],
-
+  "client-only-apis": [
+    {
+      "name": "Reborn Core",
+      "version": "3.19.3.524",
+      "link": "https://media.forgecdn.net/files/2926/584/RebornCore-1.12.2-3.19.3.524-universal.jar"
+    }
+  ],
   "apis": [
     {
       "name": "AE2 Wireless Terminal Library",
-      "version": "1.0.30",
-      "link": "https://media.forgecdn.net/files/2726/967/AE2WTLib-1.12.2-1.0.30.jar"
+      "version": "1.0.34",
+      "link": "https://media.forgecdn.net/files/2830/114/AE2WTLib-1.12.2-1.0.34.jar"
+    },
+    {
+      "name": "AutoRegLib",
+      "version": "1.3-32",
+      "link": "https://media.forgecdn.net/files/2746/11/AutoRegLib-1.3-32.jar"
     },
     {
       "name": "AsmodeusCore",
-      "version": "0.0.8",
-      "link": "https://media.forgecdn.net/files/2710/931/AsmodeusCore-1.12.2-0.0.8.jar"
+      "version": "0.0.14",
+      "link": "https://media.forgecdn.net/files/2946/84/AsmodeusCore-1.12.2-0.0.14.jar"
     },
     {
       "name": "BdLib",
@@ -503,38 +748,48 @@
     },
     {
       "name": "Charset Lib",
-      "version": "0.5.5.7",
-      "link": "https://media.forgecdn.net/files/2695/684/Charset-Lib-0.5.5.7.jar"
+      "version": "0.5.6.4",
+      "link": "https://media.forgecdn.net/files/2816/636/Charset-Lib-0.5.6.4.jar"
     },
     {
       "name": "CodeChicken Lib 1.8+",
-      "version": "3.2.2.353",
-      "link": "https://media.forgecdn.net/files/2618/630/CodeChickenLib-1.12.2-3.2.2.353-universal.jar"
+      "version": "3.2.3.358",
+      "link": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
     },
     {
       "name": "CoFH Core",
-      "version": "4.6.3.27",
-      "link": "https://media.forgecdn.net/files/2716/100/CoFHCore-1.12.2-4.6.3.27-universal.jar"
+      "version": "4.6.6.1",
+      "link": "https://media.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar"
     },
     {
       "name": "CoFH World",
-      "version": "1.3.1.7",
-      "link": "https://media.forgecdn.net/files/2715/784/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
+      "version": "1.4.0.1",
+      "link": "https://media.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
     },
     {
       "name": "ConnectedTexturesMod",
-      "version": "0.3.3.22",
-      "link": "https://media.forgecdn.net/files/2642/375/CTM-MC1.12.2-0.3.3.22.jar"
+      "version": "1.0.2.31",
+      "link": "https://media.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "version": "1.10.14",
+      "link": "https://media.forgecdn.net/files/2956/475/CreativeCore_v1.10.14_mc1.12.2.jar"
     },
     {
       "name": "EnderCore",
-      "version": "0.5.59",
-      "link": "https://media.forgecdn.net/files/2732/682/EnderCore-1.12.2-0.5.59.jar"
+      "version": "0.5.75",
+      "link": "https://media.forgecdn.net/files/2922/886/EnderCore-1.12.2-0.5.75.jar"
     },
     {
       "name": "FTB Library",
-      "version": "5.4.3.124",
-      "link": "https://media.forgecdn.net/files/2732/162/FTBLib-5.4.3.124.jar"
+      "version": "5.4.7.0",
+      "link": "https://media.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar"
+    },
+    {
+      "name": "GunpowderLib",
+      "version": "1.0",
+      "link": "https://media.forgecdn.net/files/2852/431/GunpowderLib-1.12.2-1.0.jar"
     },
     {
       "name": "Item Filters",
@@ -548,13 +803,13 @@
     },
     {
       "name": "McHorse's McLib",
-      "version": "1.0.2",
-      "link": "https://media.forgecdn.net/files/2718/552/mclib-1.0.2-1.12.2.jar"
+      "version": "1.0.4",
+      "link": "https://media.forgecdn.net/files/2843/154/mclib-1.0.4-1.12.2.jar"
     },
     {
       "name": "McJtyLib",
-      "version": "3.5.3",
-      "link": "https://media.forgecdn.net/files/2714/365/mcjtylib-1.12-3.5.3.jar"
+      "version": "3.5.4",
+      "link": "https://media.forgecdn.net/files/2745/846/mcjtylib-1.12-3.5.4.jar"
     },
     {
       "name": "MCMultiPart",
@@ -563,8 +818,8 @@
     },
     {
       "name": "MicdoodleCore",
-      "version": "4.0.2.211",
-      "link": "https://ci.micdoodle8.com/job/Galacticraft-1.12/211/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.211.jar"
+      "version": "4.0.2.280",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
     },
     {
       "name": "More Libs",
@@ -573,8 +828,8 @@
     },
     {
       "name": "MJRLegends Lib",
-      "version": "1.1.8",
-      "link": "https://media.forgecdn.net/files/2658/272/MJRLegendsLib-1.12.2-1.1.8.jar"
+      "version": "1.1.9",
+      "link": "https://media.forgecdn.net/files/2793/580/MJRLegendsLib-1.12.2-1.1.9.jar"
     },
     {
       "name": "MTLib",
@@ -583,8 +838,8 @@
     },
     {
       "name": "MysticalLib",
-      "version": "1.3.0",
-      "link": "https://media.forgecdn.net/files/2733/111/mysticallib-1.12.2-1.3.0.jar"
+      "version": "1.7.0",
+      "link": "https://media.forgecdn.net/files/2912/859/mysticallib-1.12.2-1.7.0.jar"
     },
     {
       "name": "OpenBlocksLib",
@@ -593,18 +848,23 @@
     },
     {
       "name": "p455w0rd's Library",
-      "version": "2.2.151",
-      "link": "https://media.forgecdn.net/files/2726/877/p455w0rdslib-1.12.2-2.2.151.jar"
+      "version": "2.3.161",
+      "link": "https://media.forgecdn.net/files/2830/265/p455w0rdslib-1.12.2-2.3.161.jar"
+    },
+    {
+      "name": "Placebo",
+      "version": "1.6.0",
+      "link": "https://media.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar"
     },
     {
       "name": "Redstone Flux",
-      "version": "2.1.0.6",
-      "link": "https://media.forgecdn.net/files/2623/90/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+      "version": "2.1.1.1",
+      "link": "https://media.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar"
     },
     {
       "name": "Shadowfacts' Forgelin",
-      "version": "1.8.3",
-      "link": "https://media.forgecdn.net/files/2727/70/Forgelin-1.8.3.jar"
+      "version": "1.8.4",
+      "link": "https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar"
     },
     {
       "name": "Sonar Core",
@@ -613,23 +873,23 @@
     },
     {
       "name": "SteveKunG's Lib",
-      "version": "1.0.5",
-      "link": "https://media.forgecdn.net/files/2639/412/SteveKunG%27s-Lib-1.12.2-1.0.5.jar"
+      "version": "1.1.5",
+      "link": "https://media.forgecdn.net/files/2785/694/SteveKunG%27s-Lib-1.12.2-1.1.5.jar"
     },
     {
       "name": "Tesla Core Lib",
-      "version": "1.0.15.13",
-      "link": "https://media.forgecdn.net/files/2580/52/tesla-core-lib-1.12.2-1.0.15.jar"
+      "version": "1.0.17.25",
+      "link": "https://media.forgecdn.net/files/2891/841/tesla-core-lib-1.12.2-1.0.17.jar"
     },
     {
-      "name": "WanionLib",
-      "version": "2.2",
-      "link": "https://media.forgecdn.net/files/2651/482/WanionLib-1.12.2-2.2.jar"
+      "name": "Wanion Lib",
+      "version": "2.4",
+      "link": "https://media.forgecdn.net/files/2807/433/WanionLib-1.12.2-2.4.jar"
     },
     {
-      "name": "ZeroCore",
-      "version": "0.1.2.8",
-      "link": "https://media.forgecdn.net/files/2670/570/zerocore-1.12.2-0.1.2.8.jar"
+      "name": "WrapUp",
+      "version": "1.1.3",
+      "link": "https://media.forgecdn.net/files/2486/198/WrapUp-1.12-1.1.3.jar"
     }
   ]
 }

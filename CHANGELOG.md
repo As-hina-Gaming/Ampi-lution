@@ -1,5 +1,232 @@
 # Alpha
 
+## 0.24.0
+
+#### Updated Forge:
+* 14.23.5.2854
+
+#### Added Mods:
+* Asie's FPS Enhancer (FoamFix)
+* Auto Dropper
+* Avaritiaddons
+* Better Advancements
+* Better Animations Collection 2
+* Better Foilage
+* Bloodmoon
+* Blur
+* Charset Tweaks
+* Chunk Animator
+* Clumps
+* Controlling
+* Cursor Mod
+* Custom Main Menu
+* Default Options
+* DietHopper
+* Ding
+* Eternal Singularity
+* Fancy Block Particles
+* FastFurnace
+* FastWorkbench
+* Fence Jumper
+* FPS Reducer
+* Galacticraft Tweaker
+* ItemPhysic Full
+* JAOPCA
+* JAOPCA Singularities
+* Just Enough Reactors
+* Main Menu Scale
+* One Probe, The
+* Phosphor (Forge)
+* Pick Up Notifier
+* Proportional Destruction Particals
+* Quark
+* Quark Oddities
+* ReAuth
+* Resource Loader
+* Shulker Tooltip
+* Smooth Font
+* Smooth Scrolling Everywhere (Forge)
+* TOP Addons
+* VanillaFix
+
+#### Removed Mods:
+* The Aether
+  * Does not fit into a Technik Modpack
+* Aether Continuation
+* Hwyla
+* InstandUnify
+* It's the little things
+* ProjectE
+* Tinkers Aether
+* UniDict
+* XenCraft
+
+#### Updated Mods:
+* Applied Energistics 2: rv6-stable-7
+* Biomes O' Plenty: 7.0.1.2444
+* Charset Immersion: 0.5.6.0
+* Chisel: 1.0.2.45
+* ComplexLogic: 1.4.3
+* Construct's Armory: 1.2.5.4
+* CraftTweaker2: 4.1.20.574
+* Ender IO AE2 Conduits: 5.1.55
+* Ender IO Base: 5.1.55
+* Ender IO Conduits: 5.1.55
+* Ender IO Machines: 5.1.55
+* Ender IO TiC: 5.1.55
+* Ender IO Zoo: 5.1.55
+* Ender Storage 1.8+: 2.4.6.137
+* Ender Tweaker: 1.2.0
+* ExtraPlanets: 0.6.4
+* Fancy Lamps: 1.2.1
+* Forestry: 5.8.2.422
+* FTB Quests: 1.8.0.239
+* FTB Utilities: 5.4.0.124
+* Galacticraft Core: 4.0.2.280
+* Galacticraft Planets: 4.0.2.280
+* Galaxy Space: 2.0.13
+* Industrial Foregoing: 1.12.13-237
+* Integration Foregoing: 1.10
+* Iron Chests: 7.0.72.847
+* Just Enough Calculation: 3.2.3
+* Just Enough Energistics: 1.0.8
+* Just Enough HarvestCraft: 1.7.0
+* Just Enough Items: 4.15.0.291
+* Just Enough Throwing In Fluids: 1.5.2
+* Metamorph: 1.1.10
+* ModTweaker: 4.0.18
+* More Planets: 2.1.12
+* MrCrayfish's Furniture Mod: 6.3.1
+* Pam's Harvestcraft: 1.12.2zf
+* Planet Progression: 0.4.4
+* Pam's Harvestcraft: 1.12.2zg
+* RandomPatches: 1.21.0.3
+* RFTools: 7.73
+* SimpleLogic Gates: 0.5.6.1
+* SimpleLogic Wires: 0.5.6.3
+* Simply Jetpacks 2: 2.2.14.67
+* Solar Flux Reborn: 12.3.8
+* Storage Drawers: 5.4.1
+* Thermal Dynamics: 2.5.6.1
+* Thermal Expansion: 5.5.7.1
+* Thermal Foundation: 2.6.7.1
+* Tinkers' Construct: 2.13.0.183
+* Wireless Crafting Terminal: 3.12.97
+* Xaero's Minimap (Fair-play Edition): 20.11.0
+
+#### Added APIs/Cores/Libraries:
+* AutoRegLib
+* CreativeCore
+* GunpowderLib
+* Placebo
+* Reborn Core
+* Wanion Lib
+* WrapUp
+
+#### Removed APIs/Cores/Libraries:
+* ZeroCore
+
+#### Updated APIs/Cores/Libraries:
+* AE2 Wireless Terminal Library: 1.0.34
+* AsmodeusCore: 0.0.14
+* Charset Lib: 0.5.6.4
+* CodeChicken Lib 1.8+: 3.2.3.358
+* CoFH Core: 4.6.6.1
+* CoFH World: 1.4.0.1
+* ConnectedTexturesMod: 1.0.2.31
+* EnderCore: 0.5.75
+* FTB Library: 5.4.7.0
+* Item Filters: 1.0.3.12
+* McHorse's McLib: 1.0.4
+* McJtyLib: 3.5.4
+* MicdoodleCore: 4.0.2.280
+* MJRLegends Lib: 1.1.9
+* MysticalLib: 1.7.0
+* p455w0rd's Library: 2.3.161
+* RedstoneFlux: 2.1.1.1
+* Shadowfacts' Forgelin: 1.8.4
+* SteveKunG's Lib: 1.1.5
+* Tesla Core Lib: 1.0.17.25
+
+#### Config:
+* Added new Configs from Mod-Updates and new Mods
+* Avaritia:
+  * Tools now can't break Bedrock anymore
+* Bloodmoon:
+  * Increased Chance from 0.05 to 0.10
+  * Lesser Mobspawning
+* Ender IO:
+  * Set Alloy Smelter to Alloy only Mode
+* Forestry:
+  * Disabled Machines
+* Open Blocks:
+  * Disabled Gravestone
+    * Now Using Quark's Totem of Holding
+
+#### Scrips:
+* Unified Items:
+  * Aluminum
+  * Block of Charcoal
+    * Using that one from Forestry
+  * Coal
+  * Cobalt
+  * Copper
+  * Diamond
+  * Emerald
+  * Iron
+  * Lapis Lazuli
+  * Lead
+  * Lunar Sapphire
+  * Magnesium
+  * Nickel
+  * Platinum
+  * Redstone
+  * Silicon
+    * Switched to AE2 Silicon
+  * Tin
+  * Uranium
+* Adjusted Recipes:
+  * Industrial Dye Blend
+  * TE Energy Cell and Frame
+* Reorganized Scripts with global functions
+* Cleaned-Up Scripts
+* Avaritia:
+  * Adjusted Eternal Singularity Recipe
+  * Adjusted Infinity Catalyst Recipe
+
+#### GUI:
+* Complete new GUI
+  * Main Menu
+  * Buttons & Selection Arrows in Vanilla Menues
+  * Window-Icons
+  * Ingame HUD
+    * Armor-, Boss-, HP-, Food-, and XP-Bar
+    * Effect-Frames
+    * Item-Bar & Second-Hand
+    * Horse-Bar
+    * The One Probe Info Screen
+    * Xaeros Minimap Border
+  * Connection-Icon
+  * Custom Cursor
+  * Vanilla-Inventory (incl. Creative)
+  * Villager-Inventory
+  * Blocks:
+    * Minecraft:
+      * Anvil
+      * Beacon
+      * Brewing Stand
+      * Crafting Table
+      * Dispenser (and Dropper)
+      * Enchantment Table
+      * Furnace
+      * Hopper
+      * Horse
+      * Vanilla Chest & Shulker Box
+  * Just Enough Items
+    * Just Enough Pattern Banners
+    * Just Enough Resources
+    * Just Enough Throwing In Fluids
+
 ## 0.23.4.2
 
 #### Fix:

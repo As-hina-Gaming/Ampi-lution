@@ -1,10 +1,13 @@
 ## WARNING: This Modpack is still in Alpha!<br/>Mods can be added and removed!
 
 ### Tested with a minimum of 4GB RAM for Java.
+##### If you have only installed 4GB RAM on your System, then this won't be enough without a Swap or Swap-File.<br/>The Game uses about 3GB on Singleplayer World Start/Load.<br/>Multiplayer is nearly the same on load.
 
-### You can find usefull Wiki-Pages [here](https://gitlab.com/Motzkiste/ampi-lution/wikis/home).
+### You can find usefull Wiki-Pages [here](https://github.com/Motzkiste/Ampi-lution/wiki/home).
 #### If you don't find your mod there please take a look in the Mod-List maybe you'll find help on the Mod's page.
 
-### [Mods](https://gitlab.com/Motzkiste/ampi-lution/wikis/Mods-%5B%2386%5D) [#86]
+### [Mods](https://github.com/Motzkiste/Ampi-lution/wiki/Mods) [#94]
 
-### [APIs | Cores | Libraries](https://gitlab.com/Motzkiste/ampi-lution/wikis/APIs-%7C-Cores-%7C-Libraries-%5B%2330%5D) [#30]
+### [APIs | Cores | Libraries](https://github.com/Motzkiste/Ampi-lution/wiki/APIs-%7C-Cores-%7C-Libraries) [#29]
+
+#### [Roadmap](https://app.gitkraken.com/glo/board/XUXw-xH8MQAPlaUT)
