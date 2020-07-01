@@ -1,5 +1,36 @@
 # Alpha
 
+## 0.24.0.2
+
+#### Updated Mods:
+* AppleSkin: 1.0.14
+* Contruct's Armory: 1.2.5.9
+* Ender IO:
+  * AE2 Conduits: 5.2.59
+  * Base: 5.2.59
+  * Conduits: 5.2.59
+  * Machines: 5.2.59
+  * TiC: 5.2.59
+  * Zoo: 5.2.59
+* FTB Quests: 1.8.1.1
+* FTB Utilities: 5.4.1.129
+* Just Enough HarvestCraft: 1.7.1
+* Just Enough Items: 4.15.0.296
+* Metamorph: 1.2
+* Xaero's Minimap (Fair-play Edition): 20.15.0
+
+#### Updated APIs/Cores/Libraries:
+* CreativeCore: 1.10.16
+* EnderCore: 0.5.76
+* FTB Library: 5.4.7.2
+* McHorse's McLib: 1.2
+* SteveKunG's Lib: 1.1.6
+
+#### Config:
+* Featured Servers:
+  * Added As'hina-Gaming: Ampi'lution Address
+
+
 ## 0.24.0.1
 
 #### Updated Forge:

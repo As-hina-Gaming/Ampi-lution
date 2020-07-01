@@ -99,8 +99,8 @@
     },
     {
       "name": "Just Enough HarvestCraft",
-      "version": "1.7.0",
-      "link": "https://media.forgecdn.net/files/2849/443/just-enough-harvestcraft-1.12.2-1.7.0.jar"
+      "version": "1.7.1",
+      "link": "https://media.forgecdn.net/files/2989/151/just-enough-harvestcraft-1.12.2-1.7.1.jar"
     },
     {
       "name": "Just Enough Resources",
@@ -268,8 +268,8 @@
     },
     {
       "name": "AppleSkin",
-      "version": "1.0.9",
-      "link": "https://media.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar"
+      "version": "1.0.14",
+      "link": "https://media.forgecdn.net/files/2987/247/AppleSkin-mc1.12-1.0.14.jar"
     },
     {
       "name": "Applied Energistics 2",
@@ -363,8 +363,8 @@
     },
     {
       "name": "Contruct's Armory",
-      "version": "1.2.5.4",
-      "link": "https://media.forgecdn.net/files/2882/794/conarm-1.12.2-1.2.5.4.jar"
+      "version": "1.2.5.9",
+      "link": "https://media.forgecdn.net/files/2962/662/conarm-1.12.2-1.2.5.9.jar"
     },
     {
       "name": "CraftTweaker2",
@@ -378,33 +378,33 @@
     },
     {
       "name": "Ender IO AE2 Conduits",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/809/EnderIO-conduits-appliedenergistics-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/194/EnderIO-conduits-appliedenergistics-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender IO Base",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/806/EnderIO-base-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/190/EnderIO-base-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender IO Conduits",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/808/EnderIO-conduits-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/193/EnderIO-conduits-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender IO Machines",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/807/EnderIO-machines-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/192/EnderIO-machines-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender IO TiC",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/813/EnderIO-integration-tic-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/198/EnderIO-integration-tic-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender IO Zoo",
-      "version": "5.1.55",
-      "link": "https://media.forgecdn.net/files/2858/814/EnderIO-zoo-1.12.2-5.1.55.jar"
+      "version": "5.2.59",
+      "link": "https://media.forgecdn.net/files/2989/199/EnderIO-zoo-1.12.2-5.2.59.jar"
     },
     {
       "name": "Ender Storage 1.8+",
@@ -473,13 +473,13 @@
     },
     {
       "name": "FTB Quests",
-      "version": "1.8.0.239",
-      "link": "https://media.forgecdn.net/files/2961/486/FTBQuests-1.8.1.239.jar"
+      "version": "1.8.1.1",
+      "link": "https://media.forgecdn.net/files/2985/834/FTBQuests-1.8.1.1.jar"
     },
     {
       "name": "FTP Utilities",
-      "version": "5.4.0.124",
-      "link": "https://media.forgecdn.net/files/2835/289/FTBUtilities-5.4.0.124.jar"
+      "version": "5.4.1.129",
+      "link": "https://media.forgecdn.net/files/2990/99/FTBUtilities-5.4.1.129.jar"
     },
     {
       "name": "Galacticraft Core",
@@ -548,8 +548,8 @@
     },
     {
       "name": "Just Enough Items",
-      "version": "4.15.0.291",
-      "link": "https://media.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar"
+      "version": "4.15.0.296",
+      "link": "https://media.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar"
     },
     {
       "name": "Just Enough Pattern Banners",
@@ -558,8 +558,8 @@
     },
     {
       "name": "Metamorph",
-      "version": "1.1.10",
-      "link": "https://media.forgecdn.net/files/2843/166/metamorph-1.1.10-1.12.2.jar"
+      "version": "1.2",
+      "link": "https://media.forgecdn.net/files/2989/420/metamorph-1.2-1.12.2.jar"
     },
     {
       "name": "ModTweaker",
@@ -708,15 +708,15 @@
     },
     {
       "name": "Xaero's Minimap (Fair-play Edition)",
-      "version": "20.11.0",
-      "link": "https://media.forgecdn.net/files/2959/696/Xaeros_Minimap_FP20.11.0_Forge_1.12.jar"
+      "version": "20.15.0",
+      "link": "https://media.forgecdn.net/files/2990/214/Xaeros_Minimap_FP20.15.0_Forge_1.12.jar"
     }
   ],
   "client-only-apis": [
     {
       "name": "Reborn Core",
-      "version": "3.19.3.524",
-      "link": "https://media.forgecdn.net/files/2926/584/RebornCore-1.12.2-3.19.3.524-universal.jar"
+      "version": "3.19.3.529",
+      "link": "https://media.forgecdn.net/files/2966/845/RebornCore-1.12.2-3.19.4.529-universal.jar"
     }
   ],
   "apis": [
@@ -773,18 +773,18 @@
     },
     {
       "name": "CreativeCore",
-      "version": "1.10.14",
-      "link": "https://media.forgecdn.net/files/2956/475/CreativeCore_v1.10.14_mc1.12.2.jar"
+      "version": "1.10.16",
+      "link": "https://media.forgecdn.net/files/2968/171/CreativeCore_v1.10.16_mc1.12.2.jar"
     },
     {
       "name": "EnderCore",
-      "version": "0.5.75",
-      "link": "https://media.forgecdn.net/files/2922/886/EnderCore-1.12.2-0.5.75.jar"
+      "version": "0.5.76",
+      "link": "https://media.forgecdn.net/files/2972/849/EnderCore-1.12.2-0.5.76.jar"
     },
     {
       "name": "FTB Library",
-      "version": "5.4.7.0",
-      "link": "https://media.forgecdn.net/files/2891/572/FTBLib-5.4.7.0.jar"
+      "version": "5.4.7.2",
+      "link": "https://media.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar"
     },
     {
       "name": "GunpowderLib",
@@ -803,8 +803,8 @@
     },
     {
       "name": "McHorse's McLib",
-      "version": "1.0.4",
-      "link": "https://media.forgecdn.net/files/2843/154/mclib-1.0.4-1.12.2.jar"
+      "version": "1.2",
+      "link": "https://media.forgecdn.net/files/2989/418/mclib-2.0-1.12.2.jar"
     },
     {
       "name": "McJtyLib",
@@ -873,8 +873,8 @@
     },
     {
       "name": "SteveKunG's Lib",
-      "version": "1.1.5",
-      "link": "https://media.forgecdn.net/files/2785/694/SteveKunG%27s-Lib-1.12.2-1.1.5.jar"
+      "version": "1.1.6",
+      "link": "https://media.forgecdn.net/files/2967/29/SteveKunG%27s-Lib-1.12.2-1.1.6.jar"
     },
     {
       "name": "Tesla Core Lib",
