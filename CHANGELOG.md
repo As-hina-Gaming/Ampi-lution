@@ -1,5 +1,17 @@
 # Alpha
 
+## 0.24.0.3
+
+#### Config:
+* Better Foilage:
+  * Disabled round Logs
+* FastWorkbench:
+  * Enabled Recipebook-Button
+    * Disabling it will crash Magma-Server
+* JEI:
+  * Blacklisted Missing AE2 Panels except of Stone
+
+
 ## 0.24.0.2
 
 #### Updated Mods:
