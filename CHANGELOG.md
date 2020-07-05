@@ -1,4 +1,19 @@
+# Release
+
+---
+
+# Beta
+
+---
+
 # Alpha
+
+## 0.24.1
+
+### Scripts:
+* Set GalaxySpace Cobalt Mining-Lvl to 4 (= Mining-Level Cobalt)
+* Remove empty Scripts
+
 
 ## 0.24.0.3
 
