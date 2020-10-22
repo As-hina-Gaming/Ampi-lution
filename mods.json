@@ -732,8 +732,8 @@
     },
     {
       "name": "AsmodeusCore",
-      "version": "0.0.14",
-      "link": "https://media.forgecdn.net/files/2946/84/AsmodeusCore-1.12.2-0.0.14.jar"
+      "version": "0.0.20",
+      "link": "https://media.forgecdn.net/files/3063/158/AsmodeusCore-1.12.2-0.0.20.jar"
     },
     {
       "name": "BdLib",
@@ -748,8 +748,8 @@
     },
     {
       "name": "Charset Lib",
-      "version": "0.5.6.4",
-      "link": "https://media.forgecdn.net/files/2816/636/Charset-Lib-0.5.6.4.jar"
+      "version": "0.5.6.5",
+      "link": "https://media.forgecdn.net/files/3066/682/Charset-Lib-0.5.6.5.jar"
     },
     {
       "name": "CodeChicken Lib 1.8+",
@@ -773,8 +773,8 @@
     },
     {
       "name": "CreativeCore",
-      "version": "1.10.16",
-      "link": "https://media.forgecdn.net/files/2968/171/CreativeCore_v1.10.16_mc1.12.2.jar"
+      "version": "1.10.30",
+      "link": "https://media.forgecdn.net/files/3088/598/CreativeCore_v1.10.30_mc1.12.2.jar"
     },
     {
       "name": "EnderCore",
@@ -793,8 +793,8 @@
     },
     {
       "name": "Item Filters",
-      "version": "1.0.3.12",
-      "link": "https://media.forgecdn.net/files/2699/980/ItemFilters-1.0.3.12.jar"
+      "version": "1.0.4.2",
+      "link": "https://media.forgecdn.net/files/3003/364/ItemFilters-1.0.4.2.jar"
     },
     {
       "name": "Mantle",
@@ -803,8 +803,8 @@
     },
     {
       "name": "McHorse's McLib",
-      "version": "1.2",
-      "link": "https://media.forgecdn.net/files/2989/418/mclib-2.0-1.12.2.jar"
+      "version": "2.1",
+      "link": "https://media.forgecdn.net/files/3085/418/mclib-2.1-1.12.2.jar"
     },
     {
       "name": "McJtyLib",
@@ -828,8 +828,8 @@
     },
     {
       "name": "MJRLegends Lib",
-      "version": "1.1.9",
-      "link": "https://media.forgecdn.net/files/2793/580/MJRLegendsLib-1.12.2-1.1.9.jar"
+      "version": "1.2.0",
+      "link": "https://media.forgecdn.net/files/3029/768/MJRLegendsLib-1.12.2-1.2.0.jar"
     },
     {
       "name": "MTLib",
@@ -838,8 +838,8 @@
     },
     {
       "name": "MysticalLib",
-      "version": "1.7.0",
-      "link": "https://media.forgecdn.net/files/2912/859/mysticallib-1.12.2-1.7.0.jar"
+      "version": "1.9.0",
+      "link": "https://media.forgecdn.net/files/3040/592/mysticallib-1.12.2-1.9.0.jar"
     },
     {
       "name": "OpenBlocksLib",
@@ -873,8 +873,8 @@
     },
     {
       "name": "SteveKunG's Lib",
-      "version": "1.1.6",
-      "link": "https://media.forgecdn.net/files/2967/29/SteveKunG%27s-Lib-1.12.2-1.1.6.jar"
+      "version": "1.1.9",
+      "link": "https://media.forgecdn.net/files/3051/418/SteveKunG%27s-Lib-1.12.2-1.1.9.jar"
     },
     {
       "name": "Tesla Core Lib",
@@ -883,8 +883,8 @@
     },
     {
       "name": "Wanion Lib",
-      "version": "2.4",
-      "link": "https://media.forgecdn.net/files/2807/433/WanionLib-1.12.2-2.4.jar"
+      "version": "2.5",
+      "link": "https://media.forgecdn.net/files/3064/112/WanionLib-1.12.2-2.5.jar"
     },
     {
       "name": "WrapUp",

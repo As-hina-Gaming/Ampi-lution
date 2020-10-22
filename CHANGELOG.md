@@ -44,6 +44,15 @@
 
 #### Updated APIs/Cores/Libraries:
 ##### Client & Server:
+* AsmodeusCore: 0.0.20
+* Charset Lib: 0.5.6.5
+* CreativeCore: 1.10.30
+* Item Filters: 1.0.4.2
+* McHorse's McLib: 2.1
+* MJRLegends Lib: 1.2.0
+* MysticalLib: 1.9.0
+* SteveKunG's Lib: 1.1.9
+* Wanion Lib: 2.5
 
 ### Scripts:
 * Set GalaxySpace Cobalt Mining-Lvl to 4 (= Mining-Level Cobalt)
