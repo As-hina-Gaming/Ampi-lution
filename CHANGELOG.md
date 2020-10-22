@@ -12,6 +12,29 @@
 
 #### Updated Mods:
 ##### Client & Server:
+* Avaritiaddons: 1.2
+* CraftTweaker2: 4.1.20.594
+* Ender IO:
+  * AE2 Conduits: 5.2.61
+  * Base: 5.2.61
+  * Conduits: 5.2.61
+  * Machines: 5.2.61
+  * TiC: 5.2.61
+  * Zoo: 5.2.61
+* ExtraPlanets: 0.7.0
+* Flux Networks: 4.0.15
+* FTB Quests: 1202.9.0.13
+* FTB Utilities: 5.4.1.130
+* Just Enough Calculation: 3.2.4
+* Just Enough Items: 4.16.1.302
+* Metamorph: 1.2.3
+* More Planets: 2.1.14
+* Planet Progression: 0.4.5
+* RandomPatches: 1.22.1.7
+* Simply Jetpacks 2: 2.2.16.1
+* Solar Flux Reborn: 12.4.11
+* VanillaFix: 1.0.10-150
+* Xaero's Minimap (Fair-play Edition): 20.25.1
 
 ##### Client-Only:
 * Controlling: 3.0.10

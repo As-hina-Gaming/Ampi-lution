@@ -293,8 +293,8 @@
     },
     {
       "name": "Avaritiaddons",
-      "version": "1.1",
-      "link": "https://media.forgecdn.net/files/2801/702/Avaritiaddons-1.12.2-1.1.jar"
+      "version": "1.2",
+      "link": "https://media.forgecdn.net/files/3065/384/Avaritiaddons-1.12.2-1.2.jar"
     },
     {
       "name": "Better Foilage",
@@ -368,8 +368,8 @@
     },
     {
       "name": "CraftTweaker2",
-      "version": "4.1.20.574",
-      "link": "https://media.forgecdn.net/files/2958/236/CraftTweaker2-1.12-4.1.20.574.jar"
+      "version": "4.1.20.594",
+      "link": "https://media.forgecdn.net/files/3076/633/CraftTweaker2-1.12-4.1.20.594.jar"
     },
     {
       "name": "DietHoppers",
@@ -378,33 +378,33 @@
     },
     {
       "name": "Ender IO AE2 Conduits",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/194/EnderIO-conduits-appliedenergistics-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/694/EnderIO-conduits-appliedenergistics-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender IO Base",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/190/EnderIO-base-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/691/EnderIO-base-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender IO Conduits",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/193/EnderIO-conduits-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/693/EnderIO-conduits-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender IO Machines",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/192/EnderIO-machines-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/692/EnderIO-machines-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender IO TiC",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/198/EnderIO-integration-tic-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/698/EnderIO-integration-tic-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender IO Zoo",
-      "version": "5.2.59",
-      "link": "https://media.forgecdn.net/files/2989/199/EnderIO-zoo-1.12.2-5.2.59.jar"
+      "version": "5.2.61",
+      "link": "https://media.forgecdn.net/files/3068/699/EnderIO-zoo-1.12.2-5.2.61.jar"
     },
     {
       "name": "Ender Storage 1.8+",
@@ -433,8 +433,8 @@
     },
     {
       "name": "ExtraPlanets",
-      "version": "0.6.4",
-      "link": "https://media.forgecdn.net/files/2916/944/ExtraPlanets-1.12.2-0.6.3.jar"
+      "version": "0.7.0",
+      "link": "https://media.forgecdn.net/files/3031/687/ExtraPlanets-1.12.2-0.7.0.jar"
     },
     {
       "name": "Fancy Lamps",
@@ -463,8 +463,8 @@
     },
     {
       "name": "Flux Networks",
-      "version": "4.0.14",
-      "link": "https://media.forgecdn.net/files/2842/381/fluxnetworks-1.12.2-4.0.14-31.jar"
+      "version": "4.0.15",
+      "link": "https://media.forgecdn.net/files/2993/739/fluxnetworks-1.12.2-4.0.15-32.jar"
     },
     {
       "name": "Forestry",
@@ -473,13 +473,13 @@
     },
     {
       "name": "FTB Quests",
-      "version": "1.8.1.1",
-      "link": "https://media.forgecdn.net/files/2985/834/FTBQuests-1.8.1.1.jar"
+      "version": "1202.9.0.13",
+      "link": "https://media.forgecdn.net/files/3077/814/FTBQuests-1202.9.0.13.jar"
     },
     {
       "name": "FTP Utilities",
-      "version": "5.4.1.129",
-      "link": "https://media.forgecdn.net/files/2990/99/FTBUtilities-5.4.1.129.jar"
+      "version": "5.4.1.130",
+      "link": "https://media.forgecdn.net/files/3010/492/FTBUtilities-5.4.1.130.jar"
     },
     {
       "name": "Galacticraft Core",
@@ -543,13 +543,13 @@
     },
     {
       "name": "Just Enough Calculation",
-      "version": "3.2.3",
-      "link": "https://media.forgecdn.net/files/2845/582/JustEnoughCalculation-1.12.2-3.2.3.jar"
+      "version": "3.2.4",
+      "link": "https://media.forgecdn.net/files/3056/137/JustEnoughCalculation-1.12.2-3.2.4.jar"
     },
     {
       "name": "Just Enough Items",
-      "version": "4.15.0.296",
-      "link": "https://media.forgecdn.net/files/2988/828/jei_1.12.2-4.15.0.296.jar"
+      "version": "4.16.1.302",
+      "link": "https://media.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar"
     },
     {
       "name": "Just Enough Pattern Banners",
@@ -558,8 +558,8 @@
     },
     {
       "name": "Metamorph",
-      "version": "1.2",
-      "link": "https://media.forgecdn.net/files/2989/420/metamorph-1.2-1.12.2.jar"
+      "version": "1.2.3",
+      "link": "https://media.forgecdn.net/files/3085/422/metamorph-1.2.3-1.12.2.jar"
     },
     {
       "name": "ModTweaker",
@@ -568,8 +568,8 @@
     },
     {
       "name": "More Planets",
-      "version": "2.1.12",
-      "link": "https://media.forgecdn.net/files/2953/782/More-Planets-1.12.2-2.1.12-GC251.jar"
+      "version": "2.1.14",
+      "link": "https://media.forgecdn.net/files/3051/422/More-Planets-1.12.2-2.1.14-GC261.jar"
     },
     {
       "name": "More Planets Extras",
@@ -613,8 +613,8 @@
     },
     {
       "name": "Planet Progression",
-      "version": "0.4.4",
-      "link": "https://media.forgecdn.net/files/2941/451/PlanetProgression-1.12.2-0.4.4.jar"
+      "version": "0.4.5",
+      "link": "https://media.forgecdn.net/files/3029/902/PlanetProgression-1.12.2-0.4.5.jar"
     },
     {
       "name": "Quark",
@@ -628,8 +628,8 @@
     },
     {
       "name": "RandomPatches",
-      "version": "1.21.0.3",
-      "link": "https://media.forgecdn.net/files/2943/191/randompatches-1.12.2-1.21.0.3.jar"
+      "version": "1.22.1.7",
+      "link": "https://media.forgecdn.net/files/3070/895/randompatches-1.12.2-1.22.1.7.jar"
     },
     {
       "name": "RFTools",
@@ -653,13 +653,13 @@
     },
     {
       "name": "Simply Jetpacks 2",
-      "version": "2.2.14.67",
-      "link": "https://media.forgecdn.net/files/2789/696/SimplyJetpacks2-1.12.2-2.2.14.67.jar"
+      "version": "2.2.16.1",
+      "link": "https://media.forgecdn.net/files/3039/393/SimplyJetpacks2-1.12.2-2.2.16.1.jar"
     },
     {
       "name": "Solar Flux Reborn",
-      "version": "12.3.8",
-      "link": "https://media.forgecdn.net/files/2887/575/SolarFluxReborn_1.12.2-12.3.8.jar"
+      "version": "12.4.11",
+      "link": "https://media.forgecdn.net/files/3050/838/SolarFluxReborn-1.12.2-12.4.11.jar"
     },
     {
       "name": "Storage Drawers",
@@ -703,13 +703,13 @@
     },
     {
       "name": "VanillaFix",
-      "version": "1.0.10-99",
-      "link": "https://media.forgecdn.net/files/2639/533/VanillaFix-1.0.10-99.jar"
+      "version": "1.0.10-150",
+      "link": "https://media.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar"
     },
     {
       "name": "Xaero's Minimap (Fair-play Edition)",
-      "version": "20.15.0",
-      "link": "https://media.forgecdn.net/files/2990/214/Xaeros_Minimap_FP20.15.0_Forge_1.12.jar"
+      "version": "20.25.1",
+      "link": "https://media.forgecdn.net/files/3081/702/Xaeros_Minimap_FP20.25.1_Forge_1.12.jar"
     }
   ],
   "client-only-apis": [
