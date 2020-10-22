@@ -10,6 +10,18 @@
 
 ## 0.24.1
 
+#### Updated Mods:
+##### Client & Server:
+
+##### Client-Only:
+* Controlling: 3.0.10
+* FPS Reducer: 1.18
+* Just Enough HarvestCraft: 1.7.2
+* Pick Up Notifier: 1.1.5
+
+#### Updated APIs/Cores/Libraries:
+##### Client & Server:
+
 ### Scripts:
 * Set GalaxySpace Cobalt Mining-Lvl to 4 (= Mining-Level Cobalt)
 * Remove empty Scripts
