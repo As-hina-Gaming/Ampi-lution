@@ -737,8 +737,8 @@
     },
     {
       "name": "AsmodeusCore",
-      "version": "0.0.17",
-      "link": "https://media.forgecdn.net/files/3010/570/AsmodeusCore-1.12.2-0.0.17.jar"
+      "version": "0.0.23",
+      "link": "https://media.forgecdn.net/files/3143/172/AsmodeusCore-1.12.2-0.0.23.jar"
     },
     {
       "name": "BdLib",
@@ -778,8 +778,8 @@
     },
     {
       "name": "CreativeCore",
-      "version": "1.10.30",
-      "link": "https://media.forgecdn.net/files/3088/598/CreativeCore_v1.10.30_mc1.12.2.jar"
+      "version": "1.10.34",
+      "link": "https://media.forgecdn.net/files/3097/498/CreativeCore_v1.10.34_mc1.12.2.jar"
     },
     {
       "name": "EnderCore",
@@ -808,8 +808,8 @@
     },
     {
       "name": "McHorse's McLib",
-      "version": "2.1",
-      "link": "https://media.forgecdn.net/files/3085/418/mclib-2.1-1.12.2.jar"
+      "version": "2.1.2",
+      "link": "https://media.forgecdn.net/files/3139/404/mclib-2.1.2-1.12.2.jar"
     },
     {
       "name": "McJtyLib",
@@ -823,8 +823,8 @@
     },
     {
       "name": "MicdoodleCore",
-      "version": "4.0.2.280",
-      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar"
+      "version": "4.0.2.281",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/281/MicdoodleCore-1.12.2-4.0.2.281.jar"
     },
     {
       "name": "More Libs",
