@@ -277,19 +277,14 @@
       "link": "https://media.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar"
     },
     {
-      "name": "Asie's FPS Enhancer (FoamFix)",
-      "version": "0.10.10",
-      "link": "https://media.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar"
-    },
-    {
       "name": "Auto Dropper",
       "version": "2.0.1",
       "link": "https://media.forgecdn.net/files/2651/554/AutoDropper-1.12.2-2.0.1.jar"
     },
     {
       "name": "Avaritia 1.1x",
-      "version": "3.3.0.33",
-      "link": "https://media.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar"
+      "version": "3.3.0.37",
+      "link": "https://media.forgecdn.net/files/3143/349/Avaritia-1.12.2-3.3.0.37-universal.jar"
     },
     {
       "name": "Avaritiaddons",
@@ -368,8 +363,8 @@
     },
     {
       "name": "CraftTweaker2",
-      "version": "4.1.20.594",
-      "link": "https://media.forgecdn.net/files/3076/633/CraftTweaker2-1.12-4.1.20.594.jar"
+      "version": "4.1.20.608",
+      "link": "https://media.forgecdn.net/files/3157/829/CraftTweaker2-1.12-4.1.20.608.jar"
     },
     {
       "name": "DietHoppers",
@@ -378,33 +373,33 @@
     },
     {
       "name": "Ender IO AE2 Conduits",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/694/EnderIO-conduits-appliedenergistics-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/444/EnderIO-conduits-appliedenergistics-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender IO Base",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/691/EnderIO-base-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/441/EnderIO-base-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender IO Conduits",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/693/EnderIO-conduits-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/441/EnderIO-base-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender IO Machines",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/692/EnderIO-machines-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/442/EnderIO-machines-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender IO TiC",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/698/EnderIO-integration-tic-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/448/EnderIO-integration-tic-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender IO Zoo",
-      "version": "5.2.61",
-      "link": "https://media.forgecdn.net/files/3068/699/EnderIO-zoo-1.12.2-5.2.61.jar"
+      "version": "5.2.66",
+      "link": "https://media.forgecdn.net/files/3124/449/EnderIO-zoo-1.12.2-5.2.66.jar"
     },
     {
       "name": "Ender Storage 1.8+",
@@ -413,8 +408,8 @@
     },
     {
       "name": "Ender Tweaker",
-      "version": "1.2.0",
-      "link": "https://media.forgecdn.net/files/2858/475/EnderTweaker-1.12.2-1.2.0.jar"
+      "version": "1.2.1",
+      "link": "https://media.forgecdn.net/files/3131/262/EnderTweaker-1.12.2-1.2.1.jar"
     },
     {
       "name": "Eternal Singularity",
@@ -467,29 +462,34 @@
       "link": "https://media.forgecdn.net/files/2993/739/fluxnetworks-1.12.2-4.0.15-32.jar"
     },
     {
+      "name": "FoamFix",
+      "version": "0.10.11",
+      "link": "https://media.forgecdn.net/files/3137/883/foamfix-0.10.11-1.12.2.jar"
+    },
+    {
       "name": "Forestry",
       "version": "5.8.2.422",
       "link": "https://media.forgecdn.net/files/2918/418/forestry_1.12.2-5.8.2.422.jar"
     },
     {
       "name": "FTB Quests",
-      "version": "1202.9.0.13",
-      "link": "https://media.forgecdn.net/files/3077/814/FTBQuests-1202.9.0.13.jar"
+      "version": "1202.9.0.15",
+      "link": "https://media.forgecdn.net/files/3156/637/FTBQuests-1202.9.0.15.jar"
     },
     {
-      "name": "FTP Utilities",
-      "version": "5.4.1.130",
-      "link": "https://media.forgecdn.net/files/3010/492/FTBUtilities-5.4.1.130.jar"
+      "name": "FTB Utilities",
+      "version": "5.4.1.131",
+      "link": "https://media.forgecdn.net/files/3157/548/FTBUtilities-5.4.1.131.jar"
     },
     {
       "name": "Galacticraft Core",
-      "version": "4.0.2.280",
-      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+      "version": "4.0.2.281",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/281/GalacticraftCore-1.12.2-4.0.2.281.jar"
     },
     {
       "name": "Galacticraft Planets",
-      "version": "4.0.2.280",
-      "link": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
+      "version": "4.0.2.281",
+      "link": "https://micdoodle8.com/new-builds/GC-1.12/281/Galacticraft-Planets-1.12.2-4.0.2.281.jar"
     },
     {
       "name": "Galacticraft Tweaker",
@@ -498,8 +498,8 @@
     },
     {
       "name": "Galaxy Space",
-      "version": "2.0.13",
-      "link": "https://media.forgecdn.net/files/2946/91/GalaxySpace-1.12.2-2.0.13.jar"
+      "version": "2.0.14",
+      "link": "https://media.forgecdn.net/files/3015/62/GalaxySpace-1.12.2-2.0.14.jar"
     },
     {
       "name": "Industrial Foregoing",
@@ -558,8 +558,8 @@
     },
     {
       "name": "Metamorph",
-      "version": "1.2.3",
-      "link": "https://media.forgecdn.net/files/3085/422/metamorph-1.2.3-1.12.2.jar"
+      "version": "1.2.4",
+      "link": "https://media.forgecdn.net/files/3139/409/metamorph-1.2.4-1.12.2.jar"
     },
     {
       "name": "ModTweaker",
@@ -568,8 +568,8 @@
     },
     {
       "name": "More Planets",
-      "version": "2.1.14",
-      "link": "https://media.forgecdn.net/files/3051/422/More-Planets-1.12.2-2.1.14-GC261.jar"
+      "version": "2.2.0",
+      "link": "https://media.forgecdn.net/files/3131/452/More-Planets-1.12.2-2.2.0-GC281.jar"
     },
     {
       "name": "More Planets Extras",
@@ -628,8 +628,8 @@
     },
     {
       "name": "RandomPatches",
-      "version": "1.22.1.7",
-      "link": "https://media.forgecdn.net/files/3070/895/randompatches-1.12.2-1.22.1.7.jar"
+      "version": "1.22.1.10",
+      "link": "https://media.forgecdn.net/files/3133/651/randompatches-1.12.2-1.22.1.10.jar"
     },
     {
       "name": "RFTools",
@@ -653,8 +653,8 @@
     },
     {
       "name": "Simply Jetpacks 2",
-      "version": "2.2.16.1",
-      "link": "https://media.forgecdn.net/files/3039/393/SimplyJetpacks2-1.12.2-2.2.16.1.jar"
+      "version": "2.2.18.1",
+      "link": "https://media.forgecdn.net/files/3140/521/SimplyJetpacks2-1.12.2-2.2.18.1.jar"
     },
     {
       "name": "Solar Flux Reborn",
@@ -707,9 +707,14 @@
       "link": "https://media.forgecdn.net/files/2639/533/VanillaFix-1.0.10-99.jar"
     },
     {
+      "name": "Wormhole (Portals)",
+      "version": "1.0.9a",
+      "link": "https://media.forgecdn.net/files/3051/137/wormhole-1.0.9a-mc1.12.jar"
+    },
+    {
       "name": "Xaero's Minimap (Fair-play Edition)",
-      "version": "20.25.1",
-      "link": "https://media.forgecdn.net/files/3081/702/Xaeros_Minimap_FP20.25.1_Forge_1.12.jar"
+      "version": "20.30.1",
+      "link": "https://media.forgecdn.net/files/3155/253/Xaeros_Minimap_FP20.30.1_Forge_1.12.jar"
     }
   ],
   "client-only-apis": [
