@@ -720,7 +720,7 @@
   "client-only-apis": [
     {
       "name": "Reborn Core",
-      "version": "3.19.3.529",
+      "version": "3.19.4.529",
       "link": "https://media.forgecdn.net/files/2966/845/RebornCore-1.12.2-3.19.4.529-universal.jar"
     }
   ],
