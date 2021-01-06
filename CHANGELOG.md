@@ -10,31 +10,48 @@
 
 ## 0.24.1
 
+#### Updated Forge:
+* 14.23.5.2855
+
+#### Added Mods:
+##### Client & Server:
+* Wormholes (Portals)
+
+#### Removed Mods:
+##### Client & Server:
+* Simple Portals
+  * Modpage and Mod vanished
+
 #### Updated Mods:
 ##### Client & Server:
+* Avaritia 1.1x 3.3.0.37
 * Avaritiaddons: 1.2
-* CraftTweaker2: 4.1.20.594
+* CraftTweaker2: 4.1.20.608
 * Ender IO:
-  * AE2 Conduits: 5.2.61
-  * Base: 5.2.61
-  * Conduits: 5.2.61
-  * Machines: 5.2.61
-  * TiC: 5.2.61
-  * Zoo: 5.2.61
+  * AE2 Conduits: 5.2.66
+  * Base: 5.2.66
+  * Conduits: 5.2.66
+  * Machines: 5.2.66
+  * TiC: 5.2.66
+  * Zoo: 5.2.66
+* Ender Tweaker: 1.2.1
 * ExtraPlanets: 0.7.0
 * Flux Networks: 4.0.15
-* FTB Quests: 1202.9.0.13
-* FTB Utilities: 5.4.1.130
+* FoamFix: 0.10.11
+* FTB Quests: 1202.9.0.15
+* FTB Utilities: 5.4.1.131
+* Galacticraft Core: 4.0.2.281
+* Galacticraft Planets: 4.0.2.281
 * Just Enough Calculation: 3.2.4
 * Just Enough Items: 4.16.1.302
-* Metamorph: 1.2.3
-* More Planets: 2.1.14
+* Just Enough HarvestCraft: 1.7.2
+* Metamorph: 1.2.4
+* More Planets: 2.2.0
 * Planet Progression: 0.4.5
-* RandomPatches: 1.22.1.7
-* Simply Jetpacks 2: 2.2.16.1
+* RandomPatches: 1.22.1.10
+* Simply Jetpacks 2: 2.2.18.1
 * Solar Flux Reborn: 12.4.11
-* VanillaFix: 1.0.10-150
-* Xaero's Minimap (Fair-play Edition): 20.25.1
+* Xaero's Minimap (Fair-play Edition): 20.30.1
 
 ##### Client-Only:
 * Controlling: 3.0.10
@@ -44,11 +61,13 @@
 
 #### Updated APIs/Cores/Libraries:
 ##### Client & Server:
-* AsmodeusCore: 0.0.20
+* AsmodeusCore: 0.0.23
+* CreativeCore: 1.10.34
 * Charset Lib: 0.5.6.5
 * CreativeCore: 1.10.30
 * Item Filters: 1.0.4.2
-* McHorse's McLib: 2.1
+* McHorse's McLib: 2.1.2
+* MicdoodleCore: 4.0.2.281
 * MJRLegends Lib: 1.2.0
 * MysticalLib: 1.9.0
 * SteveKunG's Lib: 1.1.9
