@@ -75,7 +75,8 @@
 
 ### Scripts:
 * Set GalaxySpace Cobalt Mining-Lvl to 4 (= Mining-Level Cobalt)
-* Remove empty Scripts
+* Removed empty Scripts
+* Fixed Scripts, because of CraftTweaker Update
 
 
 ## 0.24.0.3
