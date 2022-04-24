@@ -3,13 +3,13 @@
 ### Tested with a minimum of 3GB RAM for Java.
 ##### If you have only installed 3GB RAM on your System, then this won't be enough without a Swap or Swap-File.<br/>The Game uses about 3GB on Singleplayer World Start/Load.<br/>Multiplayer is nearly the same on load.
 
-### You can find usefull Wiki-Pages [here](https://github.com/As-hina-Gaming/Ampi-lution/wiki/home).
+### You can find usefull Wiki-Pages [here](https://github.com/As-hina-Gaming/Ampi-lution/wiki).
 #### If you don't find your mod there please take a look in the Mod-List maybe you'll find help on the Mod's page.
 
-### [Mods](https://github.com/As-hina-Gaming/Ampi-lution/wiki/Mods) [#120]
+### [Mods](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-Mods) [#120]
 
-### [APIs | Cores | Libraries](https://github.com/As-hina-Gaming/Ampi-lution/wiki/APIs-%7C-Cores-%7C-Libraries) [#35]
+### [APIs | Cores | Libraries](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-APIs,-Cores-and-Libraries) [#35]
 
 #### [Roadmap](https://app.gitkraken.com/glo/board/YN1eFvrOhAATG9VY)
 
-##### [Current Dev-Information](https://github.com/As-hina-Gaming/Ampi-lution/wiki/Current-Dev-Information)
+##### [Current Dev-Information](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-Dev-Information)
