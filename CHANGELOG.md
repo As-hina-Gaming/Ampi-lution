@@ -11,7 +11,7 @@
 ## 0.24.1
 
 #### Updated Forge:
-* 14.23.5.2855
+* 14.23.5.2859
 
 #### Added Mods:
 ##### Client & Server:
@@ -25,53 +25,72 @@
 #### Updated Mods:
 ##### Client & Server:
 * Avaritia 1.1x 3.3.0.37
-* Avaritiaddons: 1.2
-* CraftTweaker2: 4.1.20.608
+* Avaritiaddons: 1.7
+* Better Foilage: 2.3.3
+* BiblioCraft: 2.4.6
+* Biomes O' Plenty: 7.0.1.2445
+* Construct's Armory: 1.2.5.10
+* CraftTweaker: 4.1.20.674
 * Ender IO:
-  * AE2 Conduits: 5.2.66
-  * Base: 5.2.66
-  * Conduits: 5.2.66
-  * Machines: 5.2.66
-  * TiC: 5.2.66
-  * Zoo: 5.2.66
-* Ender Tweaker: 1.2.1
-* ExtraPlanets: 0.7.0
-* Flux Networks: 4.0.15
-* FoamFix: 0.10.11
+  * AE2 Conduits: 5.3.70
+  * Base: 5.3.70
+  * Conduits: 5.3.70
+  * Machines: 5.3.70
+  * TiC: 5.3.70
+  * Zoo: 5.3.70
+* Ender Tweaker: 1.2.3
+* ExtraPlanets: 0.7.4
+* Flux Networks: 4.1.1.34
+* FoamFix: 0.10.14
+* FPS Reducer: 1.20
 * FTB Quests: 1202.9.0.15
 * FTB Utilities: 5.4.1.131
-* Galacticraft Core: 4.0.2.281
-* Galacticraft Planets: 4.0.2.281
-* Just Enough Calculation: 3.2.4
-* Just Enough Items: 4.16.1.302
+* Galacticraft Core: 4.0.2.280
+* Galacticraft Planets: 4.0.2.280
+* Galaxy Space: 2.0.18
+* Integration Foregoing: 1.11
+* ItemPhysic Full: 1.4.37
+* JAOPCA: 2.2.8.106
+* Just Enough Calculation: 3.2.7
 * Just Enough HarvestCraft: 1.7.2
-* Metamorph: 1.2.4
-* More Planets: 2.2.0
-* Planet Progression: 0.4.5
+* Just Enough Items: 4.16.1.302
+* Metamorph: 1.3
+* ModTeaker: 4.0.20.5
+* More Planets: 2.2.2
+* Planet Progression: 0.4.6
 * RandomPatches: 1.22.1.10
-* Simply Jetpacks 2: 2.2.18.1
+* Shulker Tooltip: 1.9.2.2
+* Simply Jetpacks 2: 2.2.20.0
 * Solar Flux Reborn: 12.4.11
-* Xaero's Minimap (Fair-play Edition): 20.30.1
+* Xaero's Minimap (Fair-play Edition): 22.6.0
 
 ##### Client-Only:
 * Controlling: 3.0.10
 * FPS Reducer: 1.18
 * Just Enough HarvestCraft: 1.7.2
 * Pick Up Notifier: 1.1.5
+* ReAuth: 4.0.0
+* Smooth Font: 2.1.3
 
 #### Updated APIs/Cores/Libraries:
 ##### Client & Server:
-* AsmodeusCore: 0.0.23
-* CreativeCore: 1.10.34
+* AsmodeusCore: 0.0.30
+* CreativeCore: 1.10.70
 * Charset Lib: 0.5.6.5
 * CreativeCore: 1.10.30
+* GunpowderLib: 1.1
 * Item Filters: 1.0.4.2
-* McHorse's McLib: 2.1.2
-* MicdoodleCore: 4.0.2.281
-* MJRLegends Lib: 1.2.0
-* MysticalLib: 1.9.0
-* SteveKunG's Lib: 1.1.9
-* Wanion Lib: 2.5
+* McHorse's McLib: 2.4
+* MicdoodleCore: 4.0.2.280
+* MJRLegends Lib: 1.2.1
+* MTLib: 3.0.7
+* MysticalLib: 1.13.0
+* SteveKunG's Lib: 1.2.0
+* Tesla Core Lib: 1.0.18
+* Wanion Lib: 2.9
+
+##### Client-Only:
+* Reborn Core: 3.19.5
 
 ### Scripts:
 * Set GalaxySpace Cobalt Mining-Lvl to 4 (= Mining-Level Cobalt)
