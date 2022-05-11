@@ -1,0 +1,531 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "creativecoredummy": {
+        "": {}
+    },
+    "itemphysic": {
+        "": {}
+    },
+    "micdoodlecore": {
+        "": {}
+    },
+    "smoothfontcore": {
+        "": {}
+    },
+    "xaerominimap_core": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "openmodscore": {
+        "": {}
+    },
+    "foamfixcore": {
+        "": {}
+    },
+    "randompatches": {
+        "": {}
+    },
+    "smoothfont": {
+        "": {}
+    },
+    "ctm": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "bdlib": {
+        "": {}
+    },
+    "ae2stuff": {
+        "": {}
+    },
+    "endercore": {
+        "": {}
+    },
+    "crafttweaker": {
+        "": {}
+    },
+    "endertweaker": {
+        "": {}
+    },
+    "mtlib": {
+        "": {}
+    },
+    "modtweaker": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "chiselsandbits": {
+        "": {}
+    },
+    "fbp": {
+        "": {}
+    },
+    "pdp": {
+        "": {}
+    },
+    "redstoneflux": {
+        "": {}
+    },
+    "cofhcore": {
+        "": {}
+    },
+    "cofhworld": {
+        "": {}
+    },
+    "thermalfoundation": {
+        "": {}
+    },
+    "thermalexpansion": {
+        "": {}
+    },
+    "enderio": {
+        "": {}
+    },
+    "mantle": {
+        "": {}
+    },
+    "chisel": {
+        "": {}
+    },
+    "enderiointegrationtic": {
+        "": {}
+    },
+    "quark": {
+        "": {}
+    },
+    "tconstruct": {
+        "": {}
+    },
+    "p455w0rdslib": {
+        "": {}
+    },
+    "ae2wtlib": {
+        "": {}
+    },
+    "wft": {
+        "": {}
+    },
+    "wit": {
+        "": {}
+    },
+    "wpt": {
+        "": {}
+    },
+    "appleskin": {
+        "": {}
+    },
+    "galacticraftcore": {
+        "": {}
+    },
+    "galacticraftplanets": {
+        "": {}
+    },
+    "mjrlegendslib": {
+        "": {}
+    },
+    "extraplanets": {
+        "": {}
+    },
+    "stevekung\u0027s_lib": {
+        "": {}
+    },
+    "moreplanets": {
+        "": {}
+    },
+    "planetprogression": {
+        "": {}
+    },
+    "asmodeuscore": {
+        "": {}
+    },
+    "autodropper": {
+        "": {}
+    },
+    "autoreglib": {
+        "": {}
+    },
+    "avaritia": {
+        "": {}
+    },
+    "wanionlib": {
+        "": {}
+    },
+    "avaritiaddons": {
+        "": {}
+    },
+    "betteradvancements": {
+        "": {}
+    },
+    "betteranimationscollection2": {
+        "": {}
+    },
+    "forgelin": {
+        "": {}
+    },
+    "betterfoliage": {
+        "": {}
+    },
+    "bibliocraft": {
+        "": {}
+    },
+    "biomesoplenty": {
+        "": {}
+    },
+    "blockdrops": {
+        "": {}
+    },
+    "blockcraftery": {
+        "": {}
+    },
+    "bloodmoon": {
+        "": {}
+    },
+    "blur": {
+        "": {}
+    },
+    "boneappetit": {
+        "": {}
+    },
+    "forgemultipartcbe": {
+        "": {}
+    },
+    "microblockcbe": {
+        "": {}
+    },
+    "minecraftmultipartcbe": {
+        "": {}
+    },
+    "chameleon": {
+        "": {}
+    },
+    "chunkanimator": {
+        "": {}
+    },
+    "clumps": {
+        "": {}
+    },
+    "conarm": {
+        "": {}
+    },
+    "controlling": {
+        "": {}
+    },
+    "ctgui": {
+        "": {}
+    },
+    "crafttweakerjei": {
+        "": {}
+    },
+    "creativecore": {
+        "": {}
+    },
+    "customcursormod": {
+        "": {}
+    },
+    "custommainmenu": {
+        "": {}
+    },
+    "defaultoptions": {
+        "": {}
+    },
+    "diethopper": {
+        "": {}
+    },
+    "ding": {
+        "": {}
+    },
+    "enderioconduits": {
+        "": {}
+    },
+    "enderioconduitsappliedenergistics": {
+        "": {}
+    },
+    "enderiobase": {
+        "": {}
+    },
+    "enderiopowertools": {
+        "": {}
+    },
+    "ftblib": {
+        "": {}
+    },
+    "enderiomachines": {
+        "": {}
+    },
+    "enderiointegrationticlate": {
+        "": {}
+    },
+    "enderiozoo": {
+        "": {}
+    },
+    "enderstorage": {
+        "": {}
+    },
+    "equaldragons": {
+        "": {}
+    },
+    "eternalsingularity": {
+        "": {}
+    },
+    "extrautils2": {
+        "": {}
+    },
+    "fancylamps": {
+        "": {}
+    },
+    "fastleafdecay": {
+        "": {}
+    },
+    "fastfurnace": {
+        "": {}
+    },
+    "fastbench": {
+        "": {}
+    },
+    "featuredservers": {
+        "": {}
+    },
+    "fencejumper": {
+        "": {}
+    },
+    "mcmultipart": {
+        "": {}
+    },
+    "sonarcore": {
+        "": {}
+    },
+    "fluxnetworks": {
+        "": {}
+    },
+    "foamfix": {
+        "": {}
+    },
+    "forestry": {
+        "": {}
+    },
+    "fpsreducer": {
+        "": {}
+    },
+    "ftbutilities": {
+        "": {}
+    },
+    "itemfilters": {
+        "": {}
+    },
+    "ftbquests": {
+        "": {}
+    },
+    "galacticrafttweaker": {
+        "": {}
+    },
+    "galaxyspace": {
+        "": {}
+    },
+    "gunpowderlib": {
+        "": {}
+    },
+    "teslacorelib": {
+        "": {}
+    },
+    "industrialforegoing": {
+        "": {}
+    },
+    "infinitefluids": {
+        "": {}
+    },
+    "harvestcraft": {
+        "": {}
+    },
+    "mcjtylib_ng": {
+        "": {}
+    },
+    "rftools": {
+        "": {}
+    },
+    "integrationforegoing": {
+        "": {}
+    },
+    "inventorytweaks": {
+        "": {}
+    },
+    "ironchest": {
+        "": {}
+    },
+    "jaopcasingularities": {
+        "": {}
+    },
+    "jaopca": {
+        "": {}
+    },
+    "oredictinit": {
+        "": {}
+    },
+    "jeresources": {
+        "": {}
+    },
+    "jecalculation": {
+        "": {}
+    },
+    "jee": {
+        "": {}
+    },
+    "jehc": {
+        "": {}
+    },
+    "jepb": {
+        "": {}
+    },
+    "jetif": {
+        "": {}
+    },
+    "reborncore": {
+        "": {}
+    },
+    "mainmenuscale": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "metamorph": {
+        "": {}
+    },
+    "morelibs": {
+        "": {}
+    },
+    "moreplanetsextras": {
+        "": {}
+    },
+    "mrtjpcore": {
+        "": {}
+    },
+    "projectred-core": {
+        "": {}
+    },
+    "moreplates": {
+        "": {}
+    },
+    "morpheus": {
+        "": {}
+    },
+    "cfm": {
+        "": {}
+    },
+    "openmods": {
+        "": {}
+    },
+    "openblocks": {
+        "": {}
+    },
+    "pickupnotifier": {
+        "": {}
+    },
+    "placebo": {
+        "": {}
+    },
+    "projectred-compat": {
+        "": {}
+    },
+    "projectred-exploration": {
+        "": {}
+    },
+    "projectred-integration": {
+        "": {}
+    },
+    "projectred-transmission": {
+        "": {}
+    },
+    "projectred-fabrication": {
+        "": {}
+    },
+    "quarkoddities": {
+        "": {}
+    },
+    "reauth": {
+        "": {}
+    },
+    "resourceloader": {
+        "": {}
+    },
+    "shulkertooltip": {
+        "": {}
+    },
+    "thermaldynamics": {
+        "": {}
+    },
+    "simplyjetpacks": {
+        "": {}
+    },
+    "smooth-scrolling-everywhere": {
+        "": {}
+    },
+    "solarflux": {
+        "": {}
+    },
+    "storagedrawers": {
+        "": {}
+    },
+    "storagedrawersextra": {
+        "": {}
+    },
+    "supermartijn642configlib": {
+        "": {}
+    },
+    "supermartijn642corelib": {
+        "": {}
+    },
+    "theoneprobe": {
+        "": {}
+    },
+    "tinkersjei": {
+        "": {}
+    },
+    "tinkertoolleveling": {
+        "": {}
+    },
+    "topaddons": {
+        "": {}
+    },
+    "wct": {
+        "": {}
+    },
+    "wormhole": {
+        "": {}
+    },
+    "xaerominimapfair": {
+        "": {}
+    },
+    "phosphor-lighting": {
+        "": {}
+    },
+    "mysticallib": {
+        "": {}
+    },
+    "teslacorelib_registries": {
+        "": {}
+    },
+    "wrapup": {
+        "": {}
+    },
+    "": {}
+}

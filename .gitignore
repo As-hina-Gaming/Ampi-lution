@@ -5,3 +5,11 @@ server.zip
 *.bat
 
 .idea/
+
+# Ignored Configs
+/config/cofh/core/friends.cfg
+/config/jei/worldSettings.cfg
+/config/JustEnoughCalculation/data/
+/config/JustEnoughCalculation/record.json
+/config/chiselsandbits_clipboard.cfg
+/config/xaerominimap_entities.json
