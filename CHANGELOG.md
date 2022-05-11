@@ -8,19 +8,45 @@
 
 # Alpha
 
-## 0.24.1
+## 0.25.0
 
 #### Updated Forge:
-* 14.23.5.2859
+* 14.23.5.2860
 
 #### Added Mods:
 ##### Client & Server:
 * Wormholes (Portals)
+* Project Red: Core, Exploration, Fabrication, Integration (with Transmission), Compat
+  * Replaced:
+    * Charset Immersion
+    * Charset Tweaks
+    * SimpleLogic Gates
+    * SimpleLogic Wires
+
+#### Added APIs
+* MixinBooter
+  * Dependency of More Planets
+  * Also fixes Mixin Verion-Conflicts
+* CB Multipart (formerly known as ForgeMultipart)
+  * Dependency of Project Red
+* MrTJPCore
+  * Dependency of Project Red
+* SuperMartijn642's Core Lib
+  * Dependency of Wormhole (Portals)
+* SuperMartijn642's Config Lib
+  * Dependency of Wormhole (Portals)
 
 #### Removed Mods:
 ##### Client & Server:
+* Charset Immersion
+* Charset Tweaks
 * Simple Portals
   * Modpage and Mod vanished
+* SimpleLogic Gates
+* SimpleLogic Wire
+
+#### Removed APIs:
+* Charset Lib
 
 #### Updated Mods:
 ##### Client & Server:
@@ -62,6 +88,7 @@
 * Shulker Tooltip: 1.9.2.2
 * Simply Jetpacks 2: 2.2.20.0
 * Solar Flux Reborn: 12.4.11
+* VanillaFix: 1.0.10-150
 * Xaero's Minimap (Fair-play Edition): 22.6.0
 
 ##### Client-Only:
