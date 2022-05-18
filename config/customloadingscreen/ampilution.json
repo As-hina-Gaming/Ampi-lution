@@ -1,0 +1,448 @@
+{
+  "renders": [
+    {
+      "image": {
+        "parent": "sample/flat_background",
+        "colour": "0xFF_33_33_33"
+    }
+    },
+    {
+      "image": {
+        "parent": "builtin/image",
+        "image": "ampilution:logo.png",
+        "position_type": "CENTER",
+        "offset_pos": "CENTER",
+        "position": {
+          "x": "0",
+          "y": "0",
+          "width": "screen_width - 40.0",
+          "height": "(screen_width - 40.0) * (1080.0 / 1816.0)"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "builtin/text",
+        "position_type": "CENTER_RIGHT",
+        "offset_pos": "CENTER_RIGHT",
+        "text": "'v0.25.0'",
+        "position": {
+            "x": "-22",
+            "y": "26 + 15 * (screen_height / 2160.0)"
+        },
+        "colour":"0xFF_FF_FF_FF"
+      }
+    }
+  ],
+  "factories": [
+    {
+      "parent": "builtin/change",
+      "change": "memory_free()",
+      "to_create": [
+        {
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "TOP_LEFT",
+            "offset_pos": "TOP_LEFT",
+            "position": {
+              "x": "0",
+              "y": "0",
+              "width": "screen_width",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "36 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "TOP_LEFT",
+            "offset_pos": "TOP_LEFT",
+            "position": {
+              "x": "0",
+              "y": "0",
+              "width": "screen_width * (memory_used() / (memory_total() + 0.0))",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "32 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "TOP_RIGHT",
+            "offset_pos": "TOP_RIGHT",
+            "text": "'Max: ' + memory_total() + ' MB'",
+            "position": {
+                "x": "-4",
+                "y": "8"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        },
+        {
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "TOP_LEFT",
+            "offset_pos": "TOP_LEFT",
+            "text": "'Used: ' + memory_used() + ' MB'",
+            "position": {
+                "x": "4",
+                "y": "8"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        }
+      ]
+    },
+    {
+      "parent": "builtin/change",
+      "change": "forge_progress_bar_percent(0)",
+      "to_create": [
+        {
+          "should_render": "0 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "0",
+              "width": "screen_width",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "4 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "0 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "0",
+              "width": "screen_width * forge_progress_bar_percent(0)",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "0 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "4",
+              "y": "-20",
+              "width": "4",
+              "height": "8"
+            },
+            "texture": {
+              "x": "0",
+              "y": "0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "0 < bar_count",
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "text": "forge_progress_bar_title(0) + ': ' + forge_progress_bar_message(0)",
+            "position": {
+                "x": "10",
+                "y": "-19"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        }
+      ]
+    },
+    {
+      "parent": "builtin/change",
+      "change": "forge_progress_bar_percent(1)",
+      "to_create": [
+        {
+          "should_render": "1 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-4",
+              "width": "screen_width",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "12 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "1 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-4",
+              "width": "screen_width * forge_progress_bar_percent(1)",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "8 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "1 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "4",
+              "y": "-32",
+              "width": "4",
+              "height": "8"
+            },
+            "texture": {
+              "x": "0",
+              "y": "8 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "1 < bar_count",
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "text": "forge_progress_bar_title(1) + ': ' + forge_progress_bar_message(1)",
+            "position": {
+                "x": "10",
+                "y": "-31"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        }
+      ]
+    },
+    {
+      "parent": "builtin/change",
+      "change": "forge_progress_bar_percent(2)",
+      "to_create": [
+        {
+          "should_render": "2 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-8",
+              "width": "screen_width",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "20 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "2 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-8",
+              "width": "screen_width * forge_progress_bar_percent(2)",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "16 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "2 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "4",
+              "y": "-44",
+              "width": "4",
+              "height": "8"
+            },
+            "texture": {
+              "x": "0",
+              "y": "16 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "2 < bar_count",
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "text": "forge_progress_bar_title(2) + ': ' + forge_progress_bar_message(2)",
+            "position": {
+                "x": "10",
+                "y": "-43"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        }
+      ]
+    },
+    {
+      "parent": "builtin/change",
+      "change": "forge_progress_bar_percent(3)",
+      "to_create": [
+        {
+          "should_render": "3 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-12",
+              "width": "screen_width",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "28 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "3 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "0",
+              "y": "-12",
+              "width": "screen_width * forge_progress_bar_percent(3)",
+              "height": "4"
+            },
+            "texture": {
+              "x": "0",
+              "y": "24 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "3 < bar_count",
+          "image": {
+            "parent": "builtin/image",
+            "image": "ampilution:loadingscreen/bars.png",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "position": {
+              "x": "4",
+              "y": "-56",
+              "width": "4",
+              "height": "8"
+            },
+            "texture": {
+              "x": "0",
+              "y": "24 / 40.0",
+              "width": "1.0",
+              "height": "4 / 40.0"
+            }
+          }
+        },
+        {
+          "should_render": "3 < bar_count",
+          "image": {
+            "parent": "builtin/text",
+            "position_type": "BOTTOM_LEFT",
+            "offset_pos": "BOTTOM_LEFT",
+            "text": "forge_progress_bar_title(3) + ': ' + forge_progress_bar_message(3)",
+            "position": {
+                "x": "10",
+                "y": "-55"
+            },
+            "colour":"0xFF_FF_FF_FF"
+          }
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "bar_count": "forge_progress_bar_count()"
+  },
+  "functions": [],
+  "actions": []
+}
