@@ -23,12 +23,12 @@
     {
       "image": {
         "parent": "builtin/text",
-        "position_type": "CENTER_RIGHT",
-        "offset_pos": "CENTER_RIGHT",
-        "text": "'v0.25.0'",
+        "position_type": "BOTTOM_RIGHT",
+        "offset_pos": "BOTTOM_RIGHT",
+        "text": "'0.25.0'",
         "position": {
-            "x": "-22",
-            "y": "26 + 15 * (screen_height / 2160.0)"
+          "x": "-4",
+          "y": "-19"
         },
         "colour":"0xFF_FF_FF_FF"
       }
