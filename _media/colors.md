@@ -15,3 +15,4 @@
 |                 ![563C34](./colors/563C34.png)                  |     563C34      | Enchanting-Button                                                             |
 |                 ![511FA2](./colors/511FA2.png)                  |     511FA2      | Enchanting-Button: Hover                                                      |
 | ![4CAF50](./colors/4CAF50.png) ➜ ![FF5252](./colors/FF5252.png) | 4CAF50 ➜ FF5252 | Progress-Gradient                                                             |
+|                                                                 |     A0A0A0      | Text: Disabled                                                                |
