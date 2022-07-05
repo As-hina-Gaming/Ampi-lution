@@ -6,10 +6,8 @@
 ### You can find usefull Wiki-Pages [here](https://github.com/As-hina-Gaming/Ampi-lution/wiki).
 #### If you don't find your mod there please take a look in the Mod-List maybe you'll find help on the Mod's page.
 
-### [Mods](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-Mods) [#120]
+### [Mods](https://www.technicpack.net/modpack/ampilution.1411837/mods)
 
-### [APIs | Cores | Libraries](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-APIs,-Cores-and-Libraries) [#35]
+#### [Roadmap](https://github.com/orgs/As-hina-Gaming/projects/1/views/1)
 
-#### [Roadmap](https://app.gitkraken.com/glo/board/YN1eFvrOhAATG9VY)
-
-##### [Current Dev-Information](https://github.com/As-hina-Gaming/Ampi-lution/wiki/1.12.2-~-Dev-Information)
+##### [Upcoming Changes](https://github.com/As-hina-Gaming/Ampi-lution/blob/dev/1.12.2/CHANGELOG.md#0250)
