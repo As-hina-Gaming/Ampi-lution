@@ -10,6 +10,30 @@
 
 ## 0.25.0
 
+#### New GUI:
+* Applied Energistics 2
+* AE2 Stuff
+* AE2 Wireless Terminals
+* AppleSkin
+* Avaritia
+* AvaritiaAddons
+* Better Advancements
+* Chisel
+* COFH
+* FML
+* IronChests
+* Most of Minecraft
+* ItemFilters
+* Just Enough Items
+* Just Enough Pattern Banners
+* Just Enough Resources
+* Just Enough Throwing in Fluids
+* The One Probe
+* Thermal Dynamics
+* Thermal Expansion
+* Xaero's Better PVP Map
+* **New Loading-Screen**
+
 #### Updated Forge:
 * 14.23.5.2860
 
