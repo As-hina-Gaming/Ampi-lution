@@ -47,6 +47,7 @@
 
 #### Removed APIs:
 * Charset Lib
+* Sonar Core
 
 #### Updated Mods:
 ##### Client & Server:
