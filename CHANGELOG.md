@@ -1,14 +1,6 @@
-# Release
+# Changelog
 
----
-
-# Beta
-
----
-
-# Alpha
-
-## 0.25.0
+## [Unreleased]
 
 #### New GUI:
 * Applied Energistics 2
@@ -150,7 +142,7 @@
 * Fixed Scripts, because of CraftTweaker Update
 
 
-## 0.24.0.3
+## [0.24.0.3]
 
 #### Config:
 * Better Foilage:
@@ -162,7 +154,7 @@
   * Blacklisted Missing AE2 Panels except of Stone
 
 
-## 0.24.0.2
+## [0.24.0.2]
 
 #### Updated Mods:
 * AppleSkin: 1.0.14
@@ -193,13 +185,13 @@
   * Added As'hina-Gaming: Ampi'lution Address
 
 
-## 0.24.0.1
+## [0.24.0.1]
 
 #### Updated Forge:
 * 14.23.5.2847
 
 
-## 0.24.0
+## [0.24.0]
 
 #### Updated Forge:
 * 14.23.5.2854
@@ -427,19 +419,19 @@
     * Just Enough Throwing In Fluids
 
 
-## 0.23.4.2
+## [0.23.4.2]
 
 #### Fix:
 * Missing Mods
 
 
-## 0.23.4.1
+## [0.23.4.1]
 
 #### Fix:
 * Duplicate mods
 
 
-## 0.23.4
+## [0.23.4]
 
 #### Config:
 * Charset:
@@ -492,14 +484,14 @@
     * All Plates do now need 2 Ingots
 
 
-## 0.23.3.1
+## [0.23.3.1]
 
 #### Scripts:
 * Simply Jetpacks 2:
   * Fixed armored Jetpacks Recipes
 
 
-## 0.23.3
+## [0.23.3]
 
 #### Scripts:
 * All:
@@ -520,7 +512,7 @@
   * Adjusted All Recipes to use More Plates or Thermal Foundation's Plates
 
 
-## 0.23.2
+## [0.23.2]
 
 #### Config:
 * Metamorph:
@@ -1247,3 +1239,16 @@
 ## 0.1
 
 #### Started Ampi'lution
+
+<!-- Compare Links -->
+[Unreleased]: https://github.com/EraTiem-Network/Ampi-lution/compare/Alpha_0.24.0.3...dev/1.12.2
+[0.24.0.3]: https://github.com/EraTiem-Network/Ampi-lution/compare/Alpha_0.24.0.2...Alpha_0.24.0.3
+[0.24.0.2]: https://github.com/EraTiem-Network/Ampi-lution/compare/Alpha_0.24.0.1...Alpha_0.24.0.2
+[0.24.0.1]: https://github.com/EraTiem-Network/Ampi-lution/compare/Alpha_0.24.0...Alpha_0.24.0.1
+[0.24.0]: https://github.com/EraTiem-Network/Ampi-lution/compare/2cc4bb1...Alpha_0.24.0
+[0.23.4.2]: https://github.com/EraTiem-Network/Ampi-lution/compare/1154230...2cc4bb1
+[0.23.4.1]: https://github.com/EraTiem-Network/Ampi-lution/compare/6b9376c...1154230
+[0.23.4]: https://github.com/EraTiem-Network/Ampi-lution/compare/c6ead36...6b9376c
+[0.23.3.1]: https://github.com/EraTiem-Network/Ampi-lution/compare/6432164...c6ead36
+[0.23.3]: https://github.com/EraTiem-Network/Ampi-lution/compare/989e195...6432164
+[0.23.2]: https://github.com/EraTiem-Network/Ampi-lution/compare/release/1.12.2%40%7B2019-07-17%7D..989e195
