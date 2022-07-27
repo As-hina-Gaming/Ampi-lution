@@ -79,20 +79,6 @@ jobs:
           path: |
             ./zip/
             !./zip/oresources/VERSION
-#  pack:
-#    name: Pack ZIP
-#    runs-on: self-hosted
-#    needs: prepare
-#    steps:
-#      - name: Fetch Sources
-#        uses: actions/checkout@3.0.2
-#        with:
-#          submodules: 'recursive'
-#
-#      - name: Prepare Package-Name
-#
-#
-#      - name: Pack Resources
-#        run: zip -r artifacts/ampilution-resources-$MINECRAFT-$RESOURCES-DEV-$BUILD_NUMBER.zip resources -x resources/.git*
+            !./zip/oresources/.gitignore
 
 
