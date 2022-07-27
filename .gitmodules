@@ -1,9 +1,9 @@
 [submodule "resources"]
 	path = resources
-	url = https://github.com/As-hina-Gaming/Ampi-lution-Resources.git
+	url = git@github.com:EraTiem-Network/Ampi-lution-Resources.git
 [submodule "scripts"]
 	path = scripts
-	url = https://github.com/As-hina-Gaming/Ampi-lution-Scripts.git
+	url = git@github.com:EraTiem-Network/Ampi-lution-Scripts.git
 [submodule "config"]
 	path = config
-	url = https://github.com/As-hina-Gaming/Ampi-lution-Config.git
+	url = git@github.com:EraTiem-Network/Ampi-lution-Config.git
