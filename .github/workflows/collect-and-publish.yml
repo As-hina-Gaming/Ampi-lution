@@ -1,0 +1,301 @@
+name: collect and publish
+on:
+  workflow_dispatch
+#  push:
+#    branches: [dev/1.12.2]
+
+# This allows a subsequently queued workflow run to interrupt previous runs
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  cancel-in-progress: true
+
+jobs:
+  load-release-properties:
+    name: load packages name and md5 of submodules
+    if: startsWith(github.ref_name, 'release')
+    runs-on: self-hosted
+    outputs:
+      conf-name: ${{ steps.names.outputs.conf-name }}
+      scr-name: ${{ steps.names.outputs.scr-name }}
+      res-name: ${{ steps.names.outputs.res-name }}
+      md5-conf: ${{ steps.md5.outputs.mod-configs }}
+      md5-scr: ${{ steps.md5.outputs.scripts }}
+      md5-res: ${{ steps.md5.outputs.resources }}
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+        with:
+          submodules: recursive
+
+      - id: names
+        name: export package-names
+        run: |
+          CONF_VERSION="$(cat ./config/VERSION)"
+          SCR_VERSION="$(cat ./scripts/VERSION)"
+          RES_VERSION="$(cat ./resources/VERSION)"
+          
+          echo "::set-output name=conf-name::ampilution-mod-configs-$MC_VERSION-$CONF_VERSION"
+          echo "::set-output name=scr-name::ampilution-scripts-$MC_VERSION-$SCR_VERSION"
+          echo "::set-output name=res-name::ampilution-resources-$MC_VERSION-$RES_VERSION"
+
+      - id: md5
+        name: load md5 of last versions
+        run: |
+          CONF_VERSION=$(curl $BASE_URL-mod-configs | jq -c '.versions | last')
+          SCRIPT_VERSION=$(curl $BASE_URL-scripts | jq -c '.versions | last')
+          RES_VERSION=$(curl $BASE_URL-resources | jq -c '.versions | last')
+          
+          function get_md5 {
+            if [[ "$2" != "null" ]]; then
+              local VERSION=$(echo $2 | sed -e 's/"//g')
+              local MD5=$(curl $BASE_URL-$1/$VERSION | jq -c '.md5' | sed -e 's/"//g')
+              echo "::set-output name=$1::$MD5"
+            fi
+          }
+          
+          get_md5 "mod-configs" $CONF_VERSION
+          get_md5 "scripts" $SCRIPT_VERSION
+          get_md5 "resources" $RES_VERSION
+
+
+  load-properties:
+    name: load packages name and md5
+    runs-on: self-hosted
+    outputs:
+      font-name: ${{ steps.names.outputs.font-name }}
+      ores-name: ${{ steps.names.outputs.ores-name }}
+      md5-font: ${{ steps.md5.outputs.fontfiles }}
+      md5-ores: ${{ steps.md5.outputs.oresources }}
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+
+      - id: names
+        name: export package-names
+        run: |
+          MC_VERSION="$(echo ${{ github.ref_name }} | cut -d '/' -f2)"
+          FONT_VERSION="$(cat ./fontfiles/VERSION)"
+          ORES_VERSION="$(cat ./oresources/VERSION)"
+          
+          if [[ $(echo ${{ github.ref_name }} | cut -d '/' -f1) == dev ]]; then
+            FONT_VERSION="$(echo $FONT_VERSION-DEV-${{ github.run_number }})" 
+            ORES_VERSION="$(echo $ORES_VERSION-DEV-${{ github.run_number }})"
+          fi
+          
+          echo "::set-output name=font-name::ampilution-fonts-$MC_VERSION-$FONT_VERSION"
+          echo "::set-output name=ores-name::ampilution-oresources-$MC_VERSION-$ORES_VERSION"
+
+      - id: md5
+        name: load md5 of last versions
+        run: |
+          BASE_URL="https://solder.eratiem.net/api/mod/ampilution"
+          
+          FONT_VERSION=$(curl $BASE_URL-fontfiles | jq -c '.versions | last')
+          ORES_VERSION=$(curl $BASE_URL-oresources | jq -c '.versions | last')
+          
+          function get_md5 {
+            if [[ "$2" != "null" ]]; then
+              local VERSION=$(echo $2 | sed -e 's/"//g')
+              local MD5=$(curl $BASE_URL-$1/$VERSION | jq -c '.md5' | sed -e 's/"//g')
+              echo "::set-output name=$1::$MD5"
+            fi
+          }
+          
+          get_md5 "fontfiles" $FONT_VERSION
+          get_md5 "oresources" $ORES_VERSION
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  pack-conf:
+    name: collect config
+    runs-on: self-hosted
+    if: startsWith(github.ref_name, 'release')
+    needs: load-release-properties
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+        with:
+          submodules: recursive
+
+      - name: move files
+        run: |
+          mkdir ./zip
+          mv ./config ./zip/
+
+      - name: collect zip
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ needs.load-release-properties.outputs.conf-name }}
+          if-no-files-found: error
+          path: |
+            ./zip/
+            !./zip/config/VERSION
+            !./zip/config/.gitignore
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  pack-scr:
+    name: collect scripts
+    runs-on: self-hosted
+    if: startsWith(github.ref_name, 'release')
+    needs: load-release-properties
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+        with:
+          submodules: recursive
+
+      - name: move files
+        run: |
+          mkdir ./zip
+          mv ./scripts ./zip/
+
+      - name: collect zip
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ needs.load-release-properties.outputs.scr-name }}
+          if-no-files-found: error
+          path: |
+            ./zip/
+            !./zip/scripts/VERSION
+            !./zip/scripts/.gitignore
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  pack-res:
+    name: collect resources
+    runs-on: self-hosted
+    if: startsWith(github.ref_name, 'release')
+    needs: load-release-properties
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+        with:
+          submodules: recursive
+
+      - name: move files
+        run: |
+          mkdir ./zip
+          mv ./resources ./zip/
+
+      - name: collect zip
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ needs.load-release-properties.outputs.res-name }}
+          if-no-files-found: error
+          path: |
+            ./zip/
+            !./zip/resources/VERSION
+            !./zip/resources/.gitignore
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  pack-fonts:
+    name: collect fontfiles
+    runs-on: self-hosted
+    needs: load-properties
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+
+      - name: move files
+        run: |
+          mkdir ./zip
+          mv ./fontfiles ./zip/
+
+      - name: collect zip
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ needs.load-properties.outputs.font-name }}
+          if-no-files-found: error
+          path: |
+            ./zip/
+            !./zip/fontfiles/VERSION
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  pack-ores:
+    name: collect oresources
+    runs-on: self-hosted
+    needs: load-properties
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3.0.2
+
+      - name: move files
+        run: |
+          mkdir ./zip
+          mv ./oresources ./zip/
+
+      - name: collect zip
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ needs.load-properties.outputs.ores-name }}
+          if-no-files-found: error
+          path: |
+            ./zip/
+            !./zip/oresources/VERSION
+            !./zip/oresources/.gitignore
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
+
+
+  publish-to-solder:
+    name: publish to solder
+    runs-on: self-hosted
+    if: ${{ always() }}
+    needs:
+      - load-properties
+      - load-release-properties
+      - pack-fonts
+      - pack-ores
+      - pack-conf
+      - pack-scr
+      - pack-res
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: get artifacts
+        uses: actions/download-artifact@v3
+
+      - name: pack artifacts
+        run: |
+          PACKAGES=(*)
+          echo $PACKAGES
+          mkdir ./zip
+          
+          for package in "${PACKAGES[@]}"; do
+            mv ./$package ./zip
+            zip -r $package.zip ./zip
+            rm -r ./zip/*
+            lftp -c "open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put mods/$(echo $package | cut -f0-2 -d "-")/ ./$package.zip"
+          done
+
+
+      - name: clean up
+        run: |
+          rm -rf ./*
+          rm -rf ./.??*
