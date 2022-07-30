@@ -291,7 +291,7 @@ jobs:
             mv ./$package ./zip
             zip -r $package.zip ./zip
             rm -r ./zip/*
-            lftp -c "open -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put mods/$(echo $package | cut -f0-2 -d "-")/ ./$package.zip"
+            lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package.zip -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
           done
 
 
