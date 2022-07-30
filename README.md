@@ -6,8 +6,8 @@
 ![Runs]
 
 ##### Builds
-[![Release]](https://github.com/EraTiem-Network/Ampi-lution/actions/workflows/build.yml?query=branch%3Arelease/1.12.2)
-[![Develop]](https://github.com/EraTiem-Network/Ampi-lution/actions/workflows/build.yml?query=branch%3Adev/1.12.2)
+[![Release]](https://github.com/EraTiem-Network/Ampi-lution/actions/workflows/collect-and-publish.yml?query=branch%3Arelease/1.12.2)
+[![Develop]](https://github.com/EraTiem-Network/Ampi-lution/actions/workflows/collect-and-publish.yml?query=branch%3Adev/1.12.2)
 
 ##### Pull requests
 [![PRs Open]](https://github.com/EraTiem-Network/ZenScriptSupport/pulls?q=is%3Apr+is%3Aopen)
@@ -33,7 +33,7 @@
 
 ##### [Upcoming Changes](https://github.com/As-hina-Gaming/Ampi-lution/blob/dev/1.12.2/CHANGELOG.md#0250)
 
-<!-- Modpack Informations -->
+<!-- Modpack Information -->
 [Version]: https://img.shields.io/badge/dynamic/json?color=03A9F4&label=&query=%24.version&url=https%3A%2F%2Fapi.technicpack.net%2Fmodpack%2Fampilution%3Fbuild%3Dbuild&style=for-the-badge
 [License]: https://img.shields.io/github/license/EraTiem-Network/Ampi-lution?label=&style=for-the-badge
 [Minecraft]: https://img.shields.io/badge/dynamic/json?color=brightgreen&label=minecraft&query=%24.minecraft&url=https%3A%2F%2Fapi.technicpack.net%2Fmodpack%2Fampilution%3Fbuild%3Dbuild&style=for-the-badge
@@ -42,8 +42,8 @@
 [Runs]: https://img.shields.io/badge/dynamic/json?color=03A9F4&label=runs&query=%24.runs&url=https%3A%2F%2Fapi.technicpack.net%2Fmodpack%2Fampilution%3Fbuild%3Dbuild&style=for-the-badge
 
 <!-- Builds -->
-[Release]: https://img.shields.io/github/workflow/status/EraTiem-Network/Ampi-lution/Build/release/1.12.2?label=release&style=for-the-badge
-[Develop]: https://img.shields.io/github/workflow/status/EraTiem-Network/Ampi-lution/Build/dev/1.12.2?label=develop&style=for-the-badge
+[Release]: https://img.shields.io/github/workflow/status/EraTiem-Network/Ampi-lution/collect%20and%20publish/release/1.12.2?label=release&style=for-the-badge
+[Develop]: https://img.shields.io/github/workflow/status/EraTiem-Network/Ampi-lution/collect%20and%20publish/dev/1.12.2?label=develop&style=for-the-badge
 
 <!-- Pull requests -->
 [PRs Open]: https://img.shields.io/github/issues-pr-raw/EraTiem-Network/Ampi-lution?label=open&style=for-the-badge
