@@ -1,8 +1,13 @@
 name: collect and publish
 on:
-  workflow_dispatch
-#  push:
-#    branches: [dev/1.12.2]
+  workflow_dispatch:
+  push:
+    branches:
+      - dev/1.12.2
+  release:
+    types:
+      - prereleased
+      - released
 
 # This allows a subsequently queued workflow run to interrupt previous runs
 concurrency:
