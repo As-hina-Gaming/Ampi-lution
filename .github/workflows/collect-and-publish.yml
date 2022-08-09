@@ -305,7 +305,7 @@ jobs:
           
           for package in "${PACKAGES[@]}"; do
             echo "Upload $package"
-            lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package.zip -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
+            lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
           done
 
       - name: clean up
