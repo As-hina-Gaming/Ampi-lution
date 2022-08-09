@@ -87,7 +87,7 @@ jobs:
             ORES_VERSION="$(echo $ORES_VERSION-DEV-${{ github.run_number }})"
           fi
           
-          echo "::set-output name=font-name::ampilution-fonts-$MC_VERSION-$FONT_VERSION"
+          echo "::set-output name=font-name::ampilution-fontfiles-$MC_VERSION-$FONT_VERSION"
           echo "::set-output name=ores-name::ampilution-oresources-$MC_VERSION-$ORES_VERSION"
 
       - id: md5
@@ -95,13 +95,12 @@ jobs:
         run: |
           BASE_URL="https://solder.eratiem.net/api/mod/ampilution"
           
-          FONT_VERSION=$(curl $BASE_URL-fontfiles | jq -c '.versions | last')
-          ORES_VERSION=$(curl $BASE_URL-oresources | jq -c '.versions | last')
+          FONT_VERSION=$(curl -s $BASE_URL-fontfiles | jq -cr '.versions | last')
+          ORES_VERSION=$(curl -s $BASE_URL-oresources | jq -cr '.versions | last')
           
           function get_md5 {
             if [[ "$2" != "null" ]]; then
-              local VERSION=$(echo $2 | sed -e 's/"//g')
-              local MD5=$(curl $BASE_URL-$1/$VERSION | jq -c '.md5' | sed -e 's/"//g')
+              local MD5=$(curl -s $BASE_URL-$1/$2 | jq -cr '.md5')
               echo "::set-output name=$1::$MD5"
             fi
           }
@@ -295,16 +294,17 @@ jobs:
           
           for package in "${PACKAGES[@]}"; do
             mv ./$package ./zip
-            zip -r /upload/$package.zip ./zip
+            zip -r ./upload/$package.zip ./zip
             rm -r ./zip/*
           done
 
       - name: upload to solder
         run: |
-          cd ./uploads
+          cd ./upload
           PACKAGES=(*)
           
-          for package in "${PACKAGES[@]}!; do
+          for package in "${PACKAGES[@]}"; do
+            echo "Upload $package"
             lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package.zip -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
           done
 
