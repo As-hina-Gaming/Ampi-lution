@@ -39,14 +39,14 @@ jobs:
           SCR_VERSION="$(cat ./scripts/VERSION)"
           RES_VERSION="$(cat ./resources/VERSION)"
           
-          echo "::set-output name=conf-name::ampilution-mod-configs-$MC_VERSION-$CONF_VERSION"
+          echo "::set-output name=conf-name::ampilution-mod_configs-$MC_VERSION-$CONF_VERSION"
           echo "::set-output name=scr-name::ampilution-scripts-$MC_VERSION-$SCR_VERSION"
           echo "::set-output name=res-name::ampilution-resources-$MC_VERSION-$RES_VERSION"
 
       - id: md5
         name: load md5 of last versions
         run: |
-          CONF_VERSION=$(curl $BASE_URL-mod-configs | jq -c '.versions | last')
+          CONF_VERSION=$(curl $BASE_URL-mod_configs | jq -c '.versions | last')
           SCRIPT_VERSION=$(curl $BASE_URL-scripts | jq -c '.versions | last')
           RES_VERSION=$(curl $BASE_URL-resources | jq -c '.versions | last')
           
@@ -291,14 +291,22 @@ jobs:
           PACKAGES=(*)
           echo $PACKAGES
           mkdir ./zip
+          mkdir ./upload
           
           for package in "${PACKAGES[@]}"; do
             mv ./$package ./zip
-            zip -r $package.zip ./zip
+            zip -r /upload/$package.zip ./zip
             rm -r ./zip/*
-            lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package.zip -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
           done
 
+      - name: upload to solder
+        run: |
+          cd ./uploads
+          PACKAGES=(*)
+          
+          for package in "${PACKAGES[@]}!; do
+            lftp -c "open --user ${{ secrets.FTP_USER }} --password ${{ secrets.FTP_PASSWORD }} ${{ secrets.MOD_REPOSITORY }}; put ./$package.zip -o ./$( echo ${{ secrets.MOD_REPOSITORY }} | cut -f3 -d '/' )/mods/$(echo $package | cut -f1-2 -d '-')/"
+          done
 
       - name: clean up
         run: |
